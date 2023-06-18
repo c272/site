@@ -1,0 +1,4 @@
+# Build artefacts.
+public/
+resources/
+.hugo_build.lock

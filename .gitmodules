@@ -1,0 +1,3 @@
+[submodule "themes/coffeeline"]
+	path = themes/coffeeline
+	url = git@github.com:c272/coffeeline.git

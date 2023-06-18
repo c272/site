@@ -1,0 +1,65 @@
+baseURL: 'http://c272.org/'
+languageCode: 'en-uk'
+title: 'c272'
+theme: 'coffeeline'
+
+# RSS configuration.
+copyright: "(c) c272, All rights reserved."
+
+# Merge theme specific config.
+# Also, disable HTML sanitation in posts (thanks older me...)
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  _merge: deep
+
+# Configurable site parameters.
+params:
+  meta:
+    description: 'A hodge-podge of blogs written by C272.'
+    footerLine: 'A variety of blogs written by C272.'
+
+    # The link hidden within the heart in page footers.
+    hiddenHeartLink: 'https://youtube.com/gaming'
+
+  # Quick links in the navigation bar.
+  quickLinks:
+    - title: code
+      relURL: /blog/code
+    - title: language
+      relURL: /blog/language
+    - title: jp 
+      relURL: /blog/jp
+    - title: about 
+      relURL: /about
+
+  # Information about the site author.
+  author: 
+    name: 'c272'
+
+    # Social media links in header.
+    socials:
+      # youtube:
+      # stackoverflow:
+      # twitter:
+      # mastodon: (whole link)
+      github: c272
+      mail: larry@c272.org
+      rss: true
+
+  look:
+    # Path to the SVG logo of the site.
+    logoSVG: '/img/coffeecup.svg'
+
+    # Default post cover.
+    defaultCover: '/cover.png'
+
+    # The Google Fonts configuration to use.
+    googleFonts:
+      - cssNames: '"Inter", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
+        family: 'Inter:wght@100;200;300;400;500;600;700;800;900'
+        target: text
+      - cssNames: '"Rubik", "Inter"'
+        family: 'Rubik:wght@800'
+        target: logoText
