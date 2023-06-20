@@ -1,6 +1,33 @@
 ---
 title: 脇道の看板
 ---
+<!-- Styles for the page. -->
+<style>
+.wakimichi-overview {
+    display: flex;
+}
+
+.wakimichi-overview div {
+    margin-right: 2em;
+}
+
+.wakimichi-sign {
+    margin-bottom: 1em;
+    max-height: 12em;
+}
+
+/* Tucks the road sign underneath at small widths. */
+@media (max-width: 38rem) {
+    .wakimichi-overview {
+        margin-top: 0;
+        flex-wrap: wrap;
+        justify-content: center;
+	}
+}
+</style>
+
+<div class="wakimichi-overview">
+<div>
 
 # 脇道へようこそ。
 
@@ -10,4 +37,7 @@ title: 脇道の看板
 
 **メール**： [wakimichi@c272.org](mailto://wakimichi@c272.org)<br>
 
+</div>
+<img class="wakimichi-sign" src="/img/misc/roadsign.png">
+</div>
 <div class="h-line-secondary"></div>

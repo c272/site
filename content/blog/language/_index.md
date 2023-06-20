@@ -16,6 +16,7 @@ title: Gengo! 言語
 @media (max-width: 38rem) {
     .gengo-overview {
         flex-wrap: wrap;
+        justify-content: center;
 	}
 }
 </style>

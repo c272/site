@@ -57,9 +57,11 @@ params:
 
     # The Google Fonts configuration to use.
     googleFonts:
-      - cssNames: '"Inter", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
+      - cssNames: '"Inter", "Zen Kaku Gothic Antique", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
         family: 'Inter:wght@100;200;300;400;500;600;700;800;900'
         target: text
       - cssNames: '"Rubik", "Inter"'
         family: 'Rubik:wght@800'
         target: logoText
+      - cssNames: ''
+        family: 'Zen Kaku Gothic Antique:wght@300;400;500;700;900'
