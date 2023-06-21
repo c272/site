@@ -1,0 +1,91 @@
+/*
+CSS classes for the profile section on the homepage.
+*/
+.profile {
+    margin-bottom: 4em;
+    display: flex;
+}
+
+/* Tucks profile text underneath at small widths. */
+@media (max-width: 38rem) {
+    .profile {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .profile-left {
+        margin-bottom: 1em;
+    }
+}
+
+.profile-left {
+    margin-right: 2em;
+}
+
+.profile-picture {
+    max-width: 10em;
+    margin-top: 0;
+    margin-bottom: 0.25em;
+}
+
+.profile-contact {
+    color: var(--text-color-light);
+    font-size: 0.8em;
+}
+
+.profile-right h1 {
+    margin-top: 0;
+    margin-bottom: 0em;
+    font-size: 3em;
+    font-weight: 900;
+}
+
+.profile-right h3 {
+    margin-top: 0;
+    margin-bottom: 0.75em;
+}
+
+.profile-langs {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: -0.25em;
+}
+
+.profile-langs a {
+    margin-left: 0.25em;
+    margin-right: 0.25em;
+    font-size: 0.9em;
+    color: var(--text-color-light);
+    font-weight: 500;
+}
+
+.profile-right h4 {
+    margin-top: 1.5em;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+.profile-right p {
+    margin-top: 0;
+}
+
+.profile-right a {
+    font-weight: 500;
+}
+
+.redacted {
+    color: var(--text-color);
+    background-color: var(--text-color);
+}
+
+.profile-date {
+    color: var(--text-color-light);
+}
+
+.featured-posts {
+    margin-bottom: 4em;
+}
+
+.featured-posts-title {
+    margin-bottom: -1em !important;
+}
