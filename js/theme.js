@@ -70,7 +70,12 @@ const updateTheme = (theme) => {
 
 const checkForSavedTheme = () => {
   const theme = loadSavedTheme()
-  if (theme) updateTheme(theme)
+  if (theme) {
+    updateTheme(theme)
+    return true;
+  } else {
+    return false;
+  }
 }
 
 const switchTheme = () => {
@@ -96,8 +101,9 @@ const iconForTheme = (themeName) => {
 }
 
 // initiate
-
-checkForSavedTheme();
+if (!checkForSavedTheme()) {
+  switchTheme();
+}
 
 const el = document.getElementById('theme-switcher');
 
