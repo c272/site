@@ -1,0 +1,67 @@
+{{ define "main" }}
+    <!-- Import profile section styles. -->
+    <link rel="stylesheet" href="{{ relURL "/css/profile.css" }}">
+
+    <!-- Profile box. -->
+    <div class="profile">
+        <div class="profile-left">
+            <img class="profile-picture" src="{{ relURL "/img/profile/pfp_black.png" }}" />
+            <a class="profile-contact" href="{{ relURL "/about" }}">Contact Me!</a>
+        </div>
+
+        <div class="profile-right">
+            <h1>c272</h1>
+            <h3>Software Engineer, MEng Student</h3>
+            <div class="profile-langs">
+                <a href="{{ relURL "/jp" }}">(日本語)</a>
+                <a href="{{ relURL "/" }}">(English)</a>
+            </div>
+            <div class="h-line-secondary"></div>
+
+            <h4>Languages</h4>
+            <p>C, C++, C#, Java, Rust, Javascript, Python, SQL</p>
+
+            <h4>Skills</h4>
+            <ul>
+                <li>Linux on ARM (BMC, Firmware Update)</li>
+                <li>Compiler Architecture & Static Analysis</li>
+                <li>Real-Time Rendering Pipelines</li>
+            </ul>
+
+            <h4>Highlighted Projects</h4>
+            <ul>
+                <li><a href="https://github.com/c272/iro4cli">iro4cli</a>: A grammar generator for syntax highlighting and editor extension formats.</li>
+                <li><a href="https://github.com/c272/algo-lang">algo</a>: A versatile, mathsy programming language, built on top of the .NET CLR.</li>
+                <li><a href="https://github.com/c272/micro-tools">micro-tools</a>: A collection of tools to enhance the micro:bit v2 developer experience.</li>
+                <li><a href="https://gitlab.arm.com/server_management/libcper">libcper</a>: A highly portable library for UEFI-CPER and JSON interoperability.</li>
+                <li><a href="https://github.com/c272/tileEngine">tileEngine</a>: A dynamic 2D tile-based game engine (with integrated editor) targeting Windows.</li>
+            </ul>
+
+            <h4>Future</h4>
+            <p>
+                <span class="profile-date">(Oct 2024 -)</span><br>
+                Engine & Tooling Developer @ <span class="redacted">[NO PEEKING!]</span>
+            </p>
+
+            <h4>Current</h4>
+            <p>
+                <span class="profile-date">(Jul 2023 - Oct 2023)</span><br>
+                .NET Runtimes Team, DSG @ <b>Arm</b>
+            </p>
+
+            <h4>Previous</h4>
+            <p>
+                <span class="profile-date">(Dec 2020 - Jul 2023)</span><br>
+                Power Team, Architecture & Technology Group @ <b>Arm</b><br>
+            </p>
+            <p>
+                <span class="profile-date">(Sep 2018 - Dec 2020)</span><br>
+                Freelance Software Engineer
+            </p>
+
+            <div class="h-line-secondary"></div>
+        </div>
+    </div>
+
+    {{- partial "featured.html" -}}
+{{ end }}

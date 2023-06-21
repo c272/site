@@ -53,4 +53,3 @@ Welcome to my programming-oriented blog, where I post about projects I'm working
 <img src="/img/misc/codeblog-logo-text.png">
 </div>
 </div>
-<div class="h-line-secondary"></div>

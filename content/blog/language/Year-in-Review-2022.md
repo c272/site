@@ -78,7 +78,7 @@ With our prelude out of the way, onto the main event, the books!
 
 .review-stars {
   margin-top: 0.5em;
-  font-size: 1.5em;
+  font-size: 1.25em;
   margin-bottom: 0;
 }
 

@@ -6,7 +6,7 @@ tags:
   - NodeJS
 description: >
   A footnote on managing inventories using the Steam API.
-coverImage: /img/covers/bitset.jpg
+coverImage: /img/covers/steam-inventories.png
 ---
 {{<notice "alert" "Warning: This article was written in 2018, when the Steam API for inventory management was different. The information here may now be outdated or incorrect.">}}
 

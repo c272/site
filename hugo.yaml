@@ -45,7 +45,7 @@ params:
       # twitter:
       # mastodon: (whole link)
       github: c272
-      mail: larry@c272.org
+      mail: dev@c272.org
       rss: true
 
   look:

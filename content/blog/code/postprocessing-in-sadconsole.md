@@ -6,7 +6,7 @@ tags:
   - .NET
 description: >
   An article I wrote for the SadConsole wiki in 2019.
-coverImage: /img/covers/bitset.jpg
+coverImage: /img/covers/postprocessing-sadconsole.png
 ---
 {{<notice "" "This was originally an article I wrote for the SadConsole wiki in 2019, which I have moved over to this blog. You can find (and use) SadConsole [here.](https://github.com/Thraka/SadConsole)">}}
 

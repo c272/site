@@ -26,7 +26,7 @@ title: Gengo! 言語
 
 # Gengoへようこそ。
 A personal blog discussing my learning process with Japanese, as well as writing on various media I'm interested in.
-You can also various bits of data I've collected over time on my learning techniques and how they've worked (or not!) for me.
+You can also view various bits of data I've collected over time on my learning techniques and how well they've worked (or not!) for me.
 
 Feel free to email me at [larry@c272.org](mailto://larry@c272.org), or submit questions through Disqus.
 
