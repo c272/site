@@ -826,8 +826,8 @@ Anime for me this year has been a bit of a rollercoaster. Coming into the year I
 A double entry for Sunrise here, claiming both the top spots with their productions of Cowboy Bebop and Planetes. Frankly, there's just something special about the shows they make (or rather, made around this time). The atmosphere, music choice, sound design, it's all amazing, and I can't give enough praise to these two shows. What clinches it with Bebop in the top spot for me is, of course, the awesome soundtrack provided by 菅野よう子 and the Seatbelts. Oh, and obviously because Ein exists.
 
 ![Ein the Dog](/img/posts/2022-retro/bebop_ein.png)
-<p style="font-size:0.8rem; line-height:0.8rem; margin-block-start: -0.8em; text-align: center"><i>Woof!</i></p>
-<p style="font-size:0.8rem; line-height:0.8rem; margin-block-start: 0em; color: #888888">© 株式会社サンライズ</p>
+{{<img-caption "*Woof!*">}}
+{{<img-attrib "© 株式会社サンライズ">}}
 
 That isn't to put Planetes at shame, though. The worldbuilding and characters of that show on its own elevate it to #2 for me, and that's without the epic soundtrack.
 

@@ -26,7 +26,7 @@ It was certainly good enough to keep me on the hook through Genki 2, which I pur
 
 ## Anki
 ![Anki Example Image](/img/posts/onehalf-retro/anki.jpeg)
-<p style="font-size:0.8rem; line-height:0.8rem; margin-block-start: -1em; color: #888888">Image courtesy of Tejash Datta.</p>
+{{<img-attrib "Image courtesy of Tejash Datta.">}}
 
 I started using Anki via. the open source AnkiDroid app for Android at roughly the same time that I started studying with Genki 1. It had been recommended from a random YouTube video I was watching on the topic at the time, and also from one of my friends who began studying at a similar time to me. To be honest, I can't quite remember the actual trigger that made me try it out, but I downloaded it, made a deck, and started adding cards from Genki's first lesson.
 
@@ -68,7 +68,7 @@ I finished Tobira in 120 days, or 3.94 months.
 
 ## Wanikani
 ![Wanikani Banner](/img/posts/onehalf-retro/wanikani.jpg)
-<p style="font-size:0.8rem; line-height:0.8rem; margin-block-start: -1em; color: #888888">© Tofugu, LLC.</p>
+{{<img-attrib "© Tofugu, LLC.">}}
 
 During my time with Tobira, I also tried another quite popular service for learning kanji and vocabulary, "Wanikani" by Tofugu (yes - the blog people, their site is pretty great, you should [check it out](https://www.tofugu.com/)). I started a monthly subscription to try it out, and by the end of two months, I had cancelled my subscription.
 
@@ -86,8 +86,8 @@ The next step I chose from Tobira was a series that up until that point I had se
 In comparison to some of the more fun and lighthearted content coming from books like Tobira with their small manga comic strip in one of the lessons, and the recurring characters throughout Genki, Shinkanzen Master has a distinct lack of charm and style. Even the covers of the books let you know it's not exactly going to be a thrilling ride, take a look for yourself:
 
 ![Shinkanzen Master N1 - Bunpou Cover](/img/posts/onehalf-retro/shinkanzen-master.png)
-<p style="font-size:0.8rem; line-height:0.8rem; margin-block-start: -0.8em; text-align: center"><i>What's with the mustard yellow?</i></p>
-<p style="font-size:0.8rem; line-height:0.8rem; margin-block-start: 0em; color: #888888">© スリーエーネットワーク出版社</p>
+{{<img-caption "*What's with the mustard yellow?*">}}
+{{<img-attrib "© スリーエーネットワーク出版社">}}
 
 However, for all the bashing I can do about the lack of anything interesting inside this series of books, one thing I can't dispute is they're solidly written, comprehensive textbooks. They cover all the required grammar points for each JLPT level, and have a wealth of questions for both reading comprehension, listening comprehension and vocabulary, as well as a kanji reference for the given JLPT level if that's something you'd consider using. The grammar points are (the large majority of the time) well explained, and the introductions of each section of the real exam and how they relate to what you're being shown in the textbook are superb.
 
