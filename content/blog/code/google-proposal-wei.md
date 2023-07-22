@@ -38,7 +38,7 @@ So we've established that 'attesters' can only be created by a small group of ma
 
 This read-only list of signatures allows the music publishers to verify that the software running on the user's device is indeed the official build of 'Wotify', and not some cracked version which is primed to record and steal the precious audio data of Warner Chappell, in turn giving the user app access to securely decrypt and use music data which they (in this scenario) provide. Of course, this signature list is strongly controlled by the publishers alone.
 
-Now time for the entry of an up-and-coming competitor: 'Plotify'. Plotify has, for the sake of this example, an objectively far superior feature set to 'Wotify'; not only this, it also runs much faster on low-power devices and is generally more efficient. Among its devoted group of users the software it is incredibly popular, and they are seeking to expand their feature set in order to be able to play protected digital music files from SME and others.
+Now time for the entry of an up-and-coming competitor: 'Plotify'. Plotify has, for the sake of this example, an objectively far superior feature set to 'Wotify'; not only this, it also runs much faster on low-power devices and is generally more efficient. Among its devoted group of users it is incredibly popular, and they are seeking to expand their feature set in order to be able to play protected digital music files from SME and others.
 
 In order to do this, they must now pass through the gatekeepers that are the music publishers and cabal of 'attester' manufacturers. I imagine their conversation would go something like this:
 
@@ -54,7 +54,7 @@ Why should we bother? We don't know if your software is secure, and you don't se
 ...
 {{< /chat-bubble >}}
 
-Even if they somehow managed to convince the publishers to permit their application, to enable this functionality, all of their users must **also** be using hardware or software which hosts one of the attesters supported by the end service, otherwise an acceptable signature can't be generated in the first place.
+Even if they somehow managed to convince the publishers to permit their application, to enable this functionality, all of their users must **also** be using hardware or software which hosts an attester supported by the end service, otherwise an acceptable signature can't be generated in the first place.
 
 At every stage in the pipeline there is a filter, an allowlist which binds the user to a set of choices decided entirely at the whim of the service provider, whomever that may be. We've taken what has traditionally been at the freedom of the user to decide -- their choice of operating system, hardware and software -- and wrestled it away in favour of giving the decision to the service providers.
 
