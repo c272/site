@@ -142,7 +142,10 @@ User enthusiasm for the proposal has been similarly grim, with the GitHub projec
 <div style="max-width: 70%; margin-left: auto; margin-right: auto">
 
 ![](/img/posts/google-wei/github-issue.png)
-{{% img-caption "A particularly irate user leaves a GitHub issue on the WEI repository." %}}
+{{% img-caption "Issue #138: 'Cowards', WEI GitHub repository." %}}
+
+![](/img/posts/google-wei/github-issue-2.png)
+{{% img-caption "Pull Request #98: 'replace everything with my fursona', WEI GitHub repository." %}}
 
 </div>
 
