@@ -48,12 +48,12 @@ params:
       mail: dev@c272.org
       rss: true
 
+  # The default post cover.
+  coverImage: '/img/profile/pfp_black.png'
+
   look:
     # Path to the SVG logo of the site.
     logoSVG: '/img/coffeecup.svg'
-
-    # Default post cover.
-    defaultCover: '/cover.png'
 
     # The Google Fonts configuration to use.
     googleFonts:
