@@ -301,6 +301,16 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
 
 <div class="review-header">
   <div class="review-header-left">
+    <h3 class="review-title">東京の子</h3>
+    <span class="review-subtitle">藤井太洋による - (<a href="https://www.amazon.co.jp/%E6%9D%B1%E4%BA%AC%E3%81%AE%E5%AD%90-%E8%A7%92%E5%B7%9D%E6%96%87%E5%BA%AB-%E8%97%A4%E4%BA%95-%E5%A4%AA%E6%B4%8B/dp/4041118751/">Amazon</a>)</span>
+  </div>
+  <div class="review-header-right">
+    <p class="review-stars">★★★☆☆</p>
+  </div>
+</div>
+
+<div class="review-header">
+  <div class="review-header-left">
     <h3 class="review-title">草枕</h3>
     <span class="review-subtitle">夏目漱石による - (<a href="https://www.amazon.co.jp/%E8%8D%89%E6%9E%95-%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-%E5%A4%8F%E7%9B%AE-%E6%BC%B1%E7%9F%B3/dp/4101010099/">Amazon</a>)</span>
   </div>
@@ -683,16 +693,6 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   <div class="review-header-left">
     <h3 class="review-title">詩的私的ジャック</h3>
     <span class="review-subtitle">森博嗣による - (<a href="https://www.amazon.co.jp/%E8%A9%A9%E7%9A%84%E7%A7%81%E7%9A%84%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF-%E8%AC%9B%E8%AB%87%E7%A4%BE%E6%96%87%E5%BA%AB-%E6%A3%AE-%E5%8D%9A%E5%97%A3/dp/4062647060/">Amazon</a>)</span>
-  </div>
-  <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
-  </div>
-</div>
-
-<div class="review-header">
-  <div class="review-header-left">
-    <h3 class="review-title">春期限定いちごタルト事件</h3>
-    <span class="review-subtitle">米澤穂信による - (<a href="https://www.amazon.co.jp/%E6%98%A5%E6%9C%9F%E9%99%90%E5%AE%9A%E3%81%84%E3%81%A1%E3%81%94%E3%82%BF%E3%83%AB%E3%83%88%E4%BA%8B%E4%BB%B6-%E5%89%B5%E5%85%83%E6%8E%A8%E7%90%86%E6%96%87%E5%BA%AB-%E7%B1%B3%E6%BE%A4-%E7%A9%82%E4%BF%A1/dp/4488451012/">Amazon</a>)</span>
   </div>
   <div class="review-header-right">
     <p class="review-stars">★★★☆☆</p>
