@@ -126,7 +126,7 @@ With the basic numbers out of the way, let's move on to the exciting part - the 
 </tr>
 </table>
 
-Here's my lineup of favourite books from the 56 I read this year, and it's a surprisingly diverse list considering my reading habits this year. Over the past two years, I've read a number of comedies from both modern and classic authors, but none of them quite measure up to **吾輩は猫である**, which takes a well-deserved #1 spot. From the legendary opening line「吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。」the novel is filled with wit and charm, and in my opinion, Soseki's best work from the several I've consumed so far. If I had one complaint with the novelised version, it would be the incredibly abrupt ending, as is common with many serialised works, however it is a small blemish on a stellar novel which keeps its luster over 100 years post-publication.
+Here's my lineup of favourite books from the 56 I read this year, and it's a surprisingly diverse list in comparison to the year prior. Over the past two years, I've read a number of comedies from both modern and classic authors, but none of them quite measure up to **吾輩は猫である**, which takes a well-deserved #1 spot. From the opening line,「吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。」, Soseki's writing is filled with wit and charm, and in my opinion, one of his best works from the several I've consumed so far. If I had one complaint with the novelised version, it would be the quite abrupt ending, as is common with many serialised works, however it is a small blemish on a stellar work which keeps its luster over 100 years post-publication.
 
 In the #2 spot is **Iの悲劇**, a 2019 work from my favourite active author, 米澤穂信, published in 文庫 form in the latter half of last year. The book describes the goings-on of the Iターンプロジェクト, a project to restore a small country town in the mountains, and the mysterious events and difficulties surrounding the citizens that move there. It serves as both a poignant commentary on the depopulation and aging of Japan, and a thoroughly enjoyable series of everyday mysteries, a blend which is pulled off in shockingly effective fashion.
 
@@ -153,21 +153,23 @@ And with the top out of the way, let's head down to the very bottom of the barre
 
 It seems I haven't learned, as this is yet another literary "must-read" from an author I had previously enjoyed the works of, following in the not-so-prestigious footsteps of Mishima's 金閣寺 from last year. Having quite enjoyed the unique writing style and sharp humour of "**69 sixty nine**", I decided to read the debut work of 村上龍, **限りなく透明に近いブルー**. This book is a hazy collection of events from a period of insane partying and drug abuse in 沖縄, mostly centered around the "protagonist" リュウ, however there is almost no structure or plot to the entire affair.
 
-From start to finish, the book is comprised almost exclusively of graphic descriptions of drug abuse, sex, domestic violence and the crazed actions of (quite clearly mentally ill) individuals under the influence, flicking between these at a sickening pace. It's pretty much got down the trifecta of taboo topics for writing anything in the online world today, and was throughout not a particularly enjoyable experience, despite some glimpses of Murakami's excellence.
+From start to finish, the book is comprised almost exclusively of graphic descriptions of drug abuse, sex, domestic violence and the crazed actions of (quite clearly mentally ill) individuals under the influence, flicking between these at a whirlwind pace. It's pretty much got down the trifecta of taboo topics for writing anything online, so I won't write too much about the specific contents here, but was throughout not a particularly enjoyable experience, despite some glimpses of Murakami's excellent off-the-wall descriptive writing.
 
-The one saving grace of this text is its length - it is considerably short at a mere 176 pages. That's not to say it felt short, however, upon finishing, I felt this had quite overstayed its welcome. Perhaps I'm just a prude, but besides the quite well-written ending segment, this was one I had to force myself through. That alone, in my opinion, makes it deserving of the bottom spot on this list.
+The one saving grace of this text is its length - it is considerably short at a mere 176 pages. That's not to say it felt short, however, upon finishing, I felt this had slightly overstayed its welcome. Perhaps I'm just a prude, but besides the quite well-written ending segment, this was one I had to force myself through. That alone, in my opinion, makes it deserving of the bottom spot on this list. There wasn't actually much I read through this year that was thoroughly mediocre, which I'll take as a win.
 
 That's my best and worst of 2023, all that remains now is to fill in the rest! Below I'll write a short, few sentence review of every book I've read this year, along with a star rating out of five. I've tried my best to combat my recency bias here, but reviews for things I read towards the end of the year will still probably end up being more detailed. This year's list, unlike the last, is not in chronological order, but in convenience order.
 
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">小説 ほしのこえ</h3>
-    <span class="review-subtitle">新海誠による - (<a href="https://www.amazon.co.jp/%E5%B0%8F%E8%AA%AC-%E3%81%BB%E3%81%97%E3%81%AE%E3%81%93%E3%81%88-%E8%A7%92%E5%B7%9D%E6%96%87%E5%BA%AB-%E5%A4%A7%E5%A0%B4%E6%83%91/dp/4041026288">Amazon</a>)</span>
+    <span class="review-subtitle">大場惑、新海誠による - (<a href="https://www.amazon.co.jp/%E5%B0%8F%E8%AA%AC-%E3%81%BB%E3%81%97%E3%81%AE%E3%81%93%E3%81%88-%E8%A7%92%E5%B7%9D%E6%96%87%E5%BA%AB-%E5%A4%A7%E5%A0%B4%E6%83%91/dp/4041026288">Amazon</a>)</span>
   </div>
   <div class="review-header-right">
     <p class="review-stars">★★☆☆☆</p>
   </div>
 </div>
+
+A very "fine" affair from start to end, detailing the story of a pair of childhood friends, one half of which becomes a child space fighter pilot (why?) and departs from the other, only for them to have an emotional reunion. Honestly can't remember most of the plot details of this book anymore, but you can definitely tell this is a debut work. That, combined with the odd dual penmanship from 大場惑 and 新海誠, makes this a very middle of the road read for me.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -179,15 +181,67 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+The beginning of yet another mystery series from 米澤穂信, with the second volume in this series already released in 単行本 format as of writing. This one was a strange read for me - the plot itself, as well as the few mysteries contained within it, I remember quite well, however the characterisation within felt quite poor. Would still consider this a perfectly acceptable fun mystery novel, but this does feel like a dip in form compared to his hot streak of works like 満願 and 黒牢城 recently.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">1Q84 BOOK 1 後編</h3>
     <span class="review-subtitle">村上春樹による - (<a href="https://www.amazon.co.jp/1Q84-BOOK1%E3%80%884%E6%9C%88%E2%80%906%E6%9C%88%E3%80%89%E5%BE%8C%E7%B7%A8-%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-%E6%9D%91%E4%B8%8A-%E6%98%A5%E6%A8%B9/dp/410100160X/">Amazon</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★★☆</p>
+    <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+I'll be honest, I don't remember which plot points of 1Q84 appeared in which separate volumes, and the descriptions of their listings on Amazon is less than helpful, so I'm just going to spread my review over the five volumes I read this year. This 'series' of volumes is an odd way to bundle this originally three 単行本 volume work. It definitely feels like 村上 could have scraped by just fine with simply a two or three 文庫 volume set, however chose to split the story over six separate volumes, which I'm not a fan of as someone who buys all their books physically. So in celebration, I've decided to pointlessly split this review over the next five volumes.
+
+<div class="review-header">
+  <div class="review-header-left">
+    <h3 class="review-title">1Q84 BOOK 2 前編</h3>
+    <span class="review-subtitle">村上春樹による - (<a href="https://www.amazon.co.jp/1Q84-BOOK2%E3%80%887%E6%9C%88%E2%80%909%E6%9C%88%E3%80%89%E5%89%8D%E7%B7%A8-%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-%E6%9D%91%E4%B8%8A-%E6%98%A5%E6%A8%B9/dp/4101001618/">Amazon</a>)</span>
+  </div>
+  <div class="review-header-right">
+    <p class="review-stars">★★★☆☆</p>
+  </div>
+</div>
+
+With format questions aside, in terms of the story itself, I found it perfectly serviceable as a basic romance plot with occult elements sprinkled throughout. Personally, it was quite disappointing that many of the mysteries and various odd tidbits that made themselves present over the earlier volumes seemed to be either forgotten or simply hand-waved away by the closing chapters, however the bulk of the important questions raised through the course of the story about さきがけ and the くうきさなぎ are resolved competently and in a decently satisfying fashion.
+
+<div class="review-header">
+  <div class="review-header-left">
+    <h3 class="review-title">1Q84 BOOK 2 後編</h3>
+    <span class="review-subtitle">村上春樹による - (<a href="https://www.amazon.co.jp/1Q84-BOOK2%E3%80%887%E6%9C%88%E2%80%909%E6%9C%88%E3%80%89%E5%BE%8C%E7%B7%A8-%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-%E6%9D%91%E4%B8%8A-%E6%98%A5%E6%A8%B9/dp/4101001626/">Amazon</a>)</span>
+  </div>
+  <div class="review-header-right">
+    <p class="review-stars">★★★☆☆</p>
+  </div>
+</div>
+
+In usual 村上 style, there are frequent breaks throughout the plot for asides of philisophical ramblings and the insertion of metaphors and parables which have some tangential relevance to the story, which I wasn't entirely averse to, although struggled to find anything but tenuous links between some of these and the main threads being diverted from. Everything is clouded in a layer or three of metaphor, which is great for building up mystery and suspense, but did leave me head scratching at multiple points.
+
+<div class="review-header">
+  <div class="review-header-left">
+    <h3 class="review-title">1Q84 BOOK 3 前編</h3>
+    <span class="review-subtitle">村上春樹による - (<a href="https://www.amazon.co.jp/1Q84-BOOK3%E3%80%8810%E6%9C%88%E2%80%9012%E6%9C%88%E3%80%89%E5%89%8D%E7%B7%A8-%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-%E6%9D%91%E4%B8%8A-%E6%98%A5%E6%A8%B9/dp/4101001634/">Amazon</a>)</span>
+  </div>
+  <div class="review-header-right">
+    <p class="review-stars">★★★☆☆</p>
+  </div>
+</div>
+
+村上 scholars will probably be carrying their heads in their hands here, and proclaim I simply wasn't analysing hard enough. Probably? I'm sure there is a valid reason for most (if not all) of the above mentioned, but I wasn't reading for an in-depth 行間 analysis, and I'm sure that a re-read would yield some tangible results. With all the complaining I've done about 1Q84, I still enjoyed the concepts introduced and most (ふかえり excluded) of the characterisation presented throughout. It managed to keep me hooked over a few months, separated over 6 volumes, so I would consider that a win.
+
+<div class="review-header">
+  <div class="review-header-left">
+    <h3 class="review-title">1Q84 BOOK 3 後編</h3>
+    <span class="review-subtitle">村上春樹による - (<a href="https://www.amazon.co.jp/1Q84-BOOK3%E3%80%8810%E6%9C%88%E2%80%9012%E6%9C%88%E3%80%89%E5%BE%8C%E7%B7%A8-%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-%E6%9D%91%E4%B8%8A-%E6%98%A5%E6%A8%B9/dp/4101001642/">Amazon</a>)</span>
+  </div>
+  <div class="review-header-right">
+    <p class="review-stars">★★★☆☆</p>
+  </div>
+</div>
+
+The ending was also fitting, and didn't leave a huge amount of question marks hanging over the reader, even if that was did seem half by way of force through the final volume hoovering up loose plot threads. Overall, a satisfying read, and if you enjoy the typical 村上 prose, this will definitely be in your wheelhouse. If I were to recommend this to anyone, however, I would recommend going with the 単行本 or Kindle version of each volume.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -199,6 +253,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+My favourite book I read this calendar year, and one of my favourite works thus far from 夏目漱石. This is one of those books that absolutely deserves it's classic status, and as expected of a debut work is slightly different in tone from many of Soseki's later writing - in my opinion, in a good way. Unlike his more morose こころ and slightly more poetic (although still humorous) 草枕, 吾輩は猫である is comedy throughout, and the protagonist of the cat does a stellar job at portraying this through a "serious" writing style, while simultaneously being ridiculous. Similar to other older authors, a slightly more difficult read, but nonetheless highly recommended.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">新世界より（上）</h3>
@@ -209,65 +265,19 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+The opening volume of a fantasy tale set in a land where humans have lost their status as the apex predator of the planet, through a mysterious set of events that aren't made clear to the reader come the outset. This volume sets up an enticing fantasy setting, establishing interesting magic elements and dynamics between humans and other species dotted in the vincinity of the settlement that the protagonists call home. There is a particular focus on the controlling societal structure that's been established in order to maintain the few remaining human settlements, although it's left slightly in the dark for now. A solid opening volume.
+
 <div class="review-header">
   <div class="review-header-left">
-    <h3 class="review-title">十角館の殺人</h3>
-    <span class="review-subtitle">綾辻行人による - (<a href="https://www.amazon.co.jp/%E5%8D%81%E8%A7%92%E9%A4%A8%E3%81%AE%E6%AE%BA%E4%BA%BA-%E6%96%B0%E8%A3%85%E6%94%B9%E8%A8%82%E7%89%88-%E8%AC%9B%E8%AB%87%E7%A4%BE%E6%96%87%E5%BA%AB-%E7%B6%BE%E8%BE%BB-%E8%A1%8C%E4%BA%BA/dp/4062758571/">Amazon</a>)</span>
+    <h3 class="review-title">新世界より（中）</h3>
+    <span class="review-subtitle">貴志祐介による - (<a href="https://www.amazon.co.jp/%E6%96%B0%E4%B8%96%E7%95%8C%E3%82%88%E3%82%8A-%E4%B8%AD-%E8%AC%9B%E8%AB%87%E7%A4%BE%E6%96%87%E5%BA%AB-%E8%B2%B4%E5%BF%97-%E7%A5%90%E4%BB%8B/dp/4062768542/">Amazon</a>)</span>
   </div>
   <div class="review-header-right">
     <p class="review-stars">★★★★☆</p>
   </div>
 </div>
 
-<div class="review-header">
-  <div class="review-header-left">
-    <h3 class="review-title">有頂天家族</h3>
-    <span class="review-subtitle">森見登美彦による - (<a href="https://www.amazon.co.jp/%E6%9C%89%E9%A0%82%E5%A4%A9%E5%AE%B6%E6%97%8F-%E5%B9%BB%E5%86%AC%E8%88%8E%E6%96%87%E5%BA%AB-%E6%A3%AE%E8%A6%8B-%E7%99%BB%E7%BE%8E%E5%BD%A6/dp/4344415264/">Amazon</a>)</span>
-  </div>
-  <div class="review-header-right">
-    <p class="review-stars">★★★★☆</p>
-  </div>
-</div>
-
-<div class="review-header">
-  <div class="review-header-left">
-    <h3 class="review-title">1Q84 BOOK 2 前編</h3>
-    <span class="review-subtitle">村上春樹による - (<a href="https://www.amazon.co.jp/1Q84-BOOK2%E3%80%887%E6%9C%88%E2%80%909%E6%9C%88%E3%80%89%E5%89%8D%E7%B7%A8-%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-%E6%9D%91%E4%B8%8A-%E6%98%A5%E6%A8%B9/dp/4101001618/">Amazon</a>)</span>
-  </div>
-  <div class="review-header-right">
-    <p class="review-stars">★★★★☆</p>
-  </div>
-</div>
-
-<div class="review-header">
-  <div class="review-header-left">
-    <h3 class="review-title">小説 雲の向こう、約束の場所</h3>
-    <span class="review-subtitle">新海誠、加納新太による - (<a href="https://www.amazon.co.jp/%E5%B0%8F%E8%AA%AC-%E9%9B%B2%E3%81%AE%E3%82%80%E3%81%93%E3%81%86%E3%80%81%E7%B4%84%E6%9D%9F%E3%81%AE%E5%A0%B4%E6%89%80-%E8%A7%92%E5%B7%9D%E6%96%87%E5%BA%AB-%E6%96%B0%E6%B5%B7-%E8%AA%A0/dp/4041026369/">Amazon</a>)</span>
-  </div>
-  <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
-  </div>
-</div>
-
-<div class="review-header">
-  <div class="review-header-left">
-    <h3 class="review-title">1Q84 BOOK 2 後編</h3>
-    <span class="review-subtitle">村上春樹による - (<a href="https://www.amazon.co.jp/1Q84-BOOK2%E3%80%887%E6%9C%88%E2%80%909%E6%9C%88%E3%80%89%E5%BE%8C%E7%B7%A8-%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-%E6%9D%91%E4%B8%8A-%E6%98%A5%E6%A8%B9/dp/4101001626/">Amazon</a>)</span>
-  </div>
-  <div class="review-header-right">
-    <p class="review-stars">★★★★☆</p>
-  </div>
-</div>
-
-<div class="review-header">
-  <div class="review-header-left">
-    <h3 class="review-title">虚構推理短編集 岩永琴子の出現</h3>
-    <span class="review-subtitle">城平京による - (<a href="https://www.amazon.co.jp/%E8%99%9A%E6%A7%8B%E6%8E%A8%E7%90%86%E7%9F%AD%E7%B7%A8%E9%9B%86-%E5%B2%A9%E6%B0%B8%E7%90%B4%E5%AD%90%E3%81%AE%E5%87%BA%E7%8F%BE-%E8%AC%9B%E8%AB%87%E7%A4%BE%E3%82%BF%E3%82%A4%E3%82%AC-%E5%9F%8E%E5%B9%B3-%E4%BA%AC/dp/4065139287/">Amazon</a>)</span>
-  </div>
-  <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
-  </div>
-</div>
+The real meat and bones of the 新世界より canon lies in this volume, with many of the mysteries presented in the first volume being slowly revealed to the protagonists, and by extension, the reader, throughout the course of the volume. Events also heat up considerably over the course of the story here, and this was a gripping read from start to end. As a continuation of the first volume, this more than fulfills expectations.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -279,6 +289,56 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+A satisfying closing volume to what I would consider a pretty stellar future fantasy work. If you, like me, didn't realise why this novel was considered a "Sci-Fi" as well as a "Fantasy" up until this point, this is the point at which you'll realise why. Plot threads from the prior two volumes are well tied-up, and ethical and societal issues raised by the events of the plot are much more of a focus towards the latter half of this volume, taking a back seat from the plot to tie up the story. A definite standout from this year's reading list for me.
+
+<div class="review-header">
+  <div class="review-header-left">
+    <h3 class="review-title">十角館の殺人</h3>
+    <span class="review-subtitle">綾辻行人による - (<a href="https://www.amazon.co.jp/%E5%8D%81%E8%A7%92%E9%A4%A8%E3%81%AE%E6%AE%BA%E4%BA%BA-%E6%96%B0%E8%A3%85%E6%94%B9%E8%A8%82%E7%89%88-%E8%AC%9B%E8%AB%87%E7%A4%BE%E6%96%87%E5%BA%AB-%E7%B6%BE%E8%BE%BB-%E8%A1%8C%E4%BA%BA/dp/4062758571/">Amazon</a>)</span>
+  </div>
+  <div class="review-header-right">
+    <p class="review-stars">★★★★☆</p>
+  </div>
+</div>
+
+As the outset to a widely revered murder mystery series, I had high expectations of this one coming in, and it (mostly) continued to deliver on those throughout. I quite enjoyed the heavier writing style and world building, and felt this quite reminiscent of old English detective mysteries, with the grand old estate of a mysterious dead eccentric and the very "suspension of disbelief" (but nonetheless exciting) format in which the scene is set. I can't write much else without spoiling a perfectly good read, but post-completion, I can definitely understand why this is hailed as one of the books that revived the 本格ミステリー genre. Recommended for fans of a good mystery.
+
+<div class="review-header">
+  <div class="review-header-left">
+    <h3 class="review-title">有頂天家族</h3>
+    <span class="review-subtitle">森見登美彦による - (<a href="https://www.amazon.co.jp/%E6%9C%89%E9%A0%82%E5%A4%A9%E5%AE%B6%E6%97%8F-%E5%B9%BB%E5%86%AC%E8%88%8E%E6%96%87%E5%BA%AB-%E6%A3%AE%E8%A6%8B-%E7%99%BB%E7%BE%8E%E5%BD%A6/dp/4344415264/">Amazon</a>)</span>
+  </div>
+  <div class="review-header-right">
+    <p class="review-stars">★★★★☆</p>
+  </div>
+</div>
+
+Another comedy from 森見登美彦, and one that delivers on premise with his typical wit and absurdist humour. Here, we follow a 狸 family in their trials and tribulations surviving through a series of ridiculous events encompassing themselves, a dishevelled wingless 天狗 and port wine addict named 赤玉先生, and a pair of mischeivous brothers 銀閣 and 金閣. A little different in setting from his other novels, but definitely recommended.
+
+<div class="review-header">
+  <div class="review-header-left">
+    <h3 class="review-title">小説 雲の向こう、約束の場所</h3>
+    <span class="review-subtitle">新海誠、加納新太による - (<a href="https://www.amazon.co.jp/%E5%B0%8F%E8%AA%AC-%E9%9B%B2%E3%81%AE%E3%82%80%E3%81%93%E3%81%86%E3%80%81%E7%B4%84%E6%9D%9F%E3%81%AE%E5%A0%B4%E6%89%80-%E8%A7%92%E5%B7%9D%E6%96%87%E5%BA%AB-%E6%96%B0%E6%B5%B7-%E8%AA%A0/dp/4041026369/">Amazon</a>)</span>
+  </div>
+  <div class="review-header-right">
+    <p class="review-stars">★★★☆☆</p>
+  </div>
+</div>
+
+A perfectly acceptable 新海 story. Follows three friends in their building of a homemade aircraft, which they create with the goal of flying to an ominous obelisk that looms over modern day 北海道, which has in-universe become part of a break-off nation from Japan. An interesting concept for a 新海, and one I feel isn't used to its best potential, however this is a perfectly serviceable friendship story if you're a fan of his other works. This again has dual penmanship from both 新海誠 and 加納新太.
+
+<div class="review-header">
+  <div class="review-header-left">
+    <h3 class="review-title">虚構推理短編集 岩永琴子の出現</h3>
+    <span class="review-subtitle">城平京による - (<a href="https://www.amazon.co.jp/%E8%99%9A%E6%A7%8B%E6%8E%A8%E7%90%86%E7%9F%AD%E7%B7%A8%E9%9B%86-%E5%B2%A9%E6%B0%B8%E7%90%B4%E5%AD%90%E3%81%AE%E5%87%BA%E7%8F%BE-%E8%AC%9B%E8%AB%87%E7%A4%BE%E3%82%BF%E3%82%A4%E3%82%AC-%E5%9F%8E%E5%B9%B3-%E4%BA%AC/dp/4065139287/">Amazon</a>)</span>
+  </div>
+  <div class="review-header-right">
+    <p class="review-stars">★★★☆☆</p>
+  </div>
+</div>
+
+The first short story collection in the 虚構推理 series, and one of the more enjoyable entries in my opinion. Not a whole lot to say on this one, other than you would definitely be served by reading the prior volumes in the series beforehand, even if this is meant to be a completely separate set of stories. Otherwise, a typical 虚構推理 affair of 妖怪-based mysteries and wacky characterisation.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">巴里マカロンの謎</h3>
@@ -288,6 +348,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+Over 10 years since the publication of the previous volume, a new book in the 小市民 series from 米澤穂信, and unfortunately, the first book in the series I read. For some reason, I didn't catch that this was not the first entry prior to beginning, but that didn't affect my reading experience too drastically. A solid set of everyday mysteries not dissimilar in tone from the 古典部 series, but with a vastly different set of characters to play with. Recommended for any 米澤穂信 fans.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -299,6 +361,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+The second entry in the 館シリーズ from 綾辻行人, and certainly not a disappointing one. Again we return to a stately home built by the deceased eccentric builder 中村青司, this time for a set of murders involving an incredibly "this is a murder mystery" cast of characters (for reference, one viewpoint is the 仮面-wearing wheelchair-bound owner of the house with a mysterious past). The trick in this one is, in my opinion, on par or better than the first one, and absolutely worth a read if you're a fan of classic murder mysteries.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">東京の子</h3>
@@ -308,6 +372,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+This book follows the journey of a parkour runner turned freelance agent through the underbelly of the largest new university in Japan, Tokyo Dual, which is allegedly abusing labour laws through its shady company placement programme, following the sudden disappearance of one of their students. The setup and characterisation in this one was a big enough pull for me to take the plunge and buy this one, but I honestly couldn't tell you the ending now, a few months post-completion. From my memory, a perfectly acceptable read.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -319,6 +385,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+One of the other 夏目漱石 works that I decided to read this year, and probably my second favourite behind 吾輩は猫である. Follows an aspiring poet through a journey to "find himself", in the course of which he gets swept up into the sidelines of a short character drama. A quite humorous affair compared to some of the others I've consumed this year, and filled to the brim with poetry and random musings. An enjoyable read.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">祈りの幕が下りる時</h3>
@@ -328,6 +396,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+The latest in the 加賀 series from 東野圭吾, and unusually, one that more heavily relies on the events of prior books in the series to gain a full appreciation of the plot. Most detective mysteries in this series typically provide little (if any) character development to the main cast, so it's nice to see some actual progression here even if being so deep into the series. As for the mystery itself, a perfectly decent read, as for all entries to date.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -339,6 +409,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+Following my accidental plunge into the 小市民 series from the latest entry in the series, I decided to read through from the first entry in release order, starting with this one. You can definitely perceive the difference in writing style from Yonezawa's old works in comparison to the latest entry, however the general vibe stays consistent and the everyday mysteries presented throughout are of decent quality.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">阪急電車</h3>
@@ -348,6 +420,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+One of the more well known works of 有川浩 along with 海の底, although this departs in being a much more grounded ロマンス系. It's presented as a set of short stories, following the 阪急電車 up and down its line, with small story arcs for each of the sets of characters introduced in the first half of the collection being tied up nicely in a separate conclusion story. A solid recommend for anyone who likes some simple, heartwarming first meetings.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -359,15 +433,19 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+Another slapstick comedy story from 森見登美彦, this time following a university student hopelessly in love with a 深窓の令嬢-type character. It follows a ridiculous chain of events in the protagonist chasing the attention of his crush, along the way competing in a spicy soup challenge against four charismatic weirdos and making friends with a ruthlessly witty child god of books. Predictably enjoyable, and definitely something I'd recommend for a light comedy read.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">逆ソクラテス</h3>
-    <span class="review-subtitle">森見登美彦による - (<a href="https://www.amazon.co.jp/%E9%80%86%E3%82%BD%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9-%E9%9B%86%E8%8B%B1%E7%A4%BE%E6%96%87%E5%BA%AB-%E4%BC%8A%E5%9D%82-%E5%B9%B8%E5%A4%AA%E9%83%8E/dp/4087445321/">Amazon</a>)</span>
+    <span class="review-subtitle">伊坂幸太郎による - (<a href="https://www.amazon.co.jp/%E9%80%86%E3%82%BD%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9-%E9%9B%86%E8%8B%B1%E7%A4%BE%E6%96%87%E5%BA%AB-%E4%BC%8A%E5%9D%82-%E5%B9%B8%E5%A4%AA%E9%83%8E/dp/4087445321/">Amazon</a>)</span>
   </div>
   <div class="review-header-right">
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+My first read through of anything by 伊坂幸太郎, which was surprising even to me. Saw this laid out in the 丸前本店 in 丸の内, and the copy sounded interesting so gave it a go. A cute set of a few stories, the contents of which I honestly don't remember much of, barring the first story following a set of elementary school students aiming to make a point to their pessimistic teacher. A pretty enjoyable 短編集, although nothing particularly out of the ordinary.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -379,6 +457,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+The third entry in the series, and the second 長編, following an interesting premise of convincing an eccentric billionaire's children that their father committed a murder by proxy, avoiding the fact that he paid a 狐 to perform it. Personally, I much preferred the 長編 entries over the 短編集 in 虚構推理 so far, and this one has by far an interesting enough hook to justify a read. Recommended if you enjoyed the prior entries in the series.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">Iの悲劇</h3>
@@ -388,6 +468,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★★★★★</p>
   </div>
 </div>
+
+My second favourite read of the year, and one that is a quite interesting blend of both the everyday mysteries for which 米澤穂信 is so well known, as well as a commentary on the rural depopulation and birth rate problems of Japan that are becoming more relevant by the year. All of that, followed by a big ending reveal that was as shocking as it was effective. Highly recommended.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -399,25 +481,7 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
-<div class="review-header">
-  <div class="review-header-left">
-    <h3 class="review-title">1Q84 BOOK 3 前編</h3>
-    <span class="review-subtitle">村上春樹による - (<a href="https://www.amazon.co.jp/1Q84-BOOK3%E3%80%8810%E6%9C%88%E2%80%9012%E6%9C%88%E3%80%89%E5%89%8D%E7%B7%A8-%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-%E6%9D%91%E4%B8%8A-%E6%98%A5%E6%A8%B9/dp/4101001634/">Amazon</a>)</span>
-  </div>
-  <div class="review-header-right">
-    <p class="review-stars">★★★★☆</p>
-  </div>
-</div>
-
-<div class="review-header">
-  <div class="review-header-left">
-    <h3 class="review-title">1Q84 BOOK 3 後編</h3>
-    <span class="review-subtitle">村上春樹による - (<a href="https://www.amazon.co.jp/1Q84-BOOK3%E3%80%8810%E6%9C%88%E2%80%9012%E6%9C%88%E3%80%89%E5%BE%8C%E7%B7%A8-%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-%E6%9D%91%E4%B8%8A-%E6%98%A5%E6%A8%B9/dp/4101001642/">Amazon</a>)</span>
-  </div>
-  <div class="review-header-right">
-    <p class="review-stars">★★★★☆</p>
-  </div>
-</div>
+A short set of two stories from 恒川光太郎, the headliner being the "Night Market" (夜市), where a boy sells his brother for the power of some extra skill in baseball at a young age, and his endeavour to retrieve him from the market. Nothing remarkable, but a very brief adventure, and one I can recommend for that reason.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -429,6 +493,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+The second entry in the story of the 狸 family and 赤玉先生, and a worthy successor to the opening volume in many ways. Personally, I was just glad to be able to have another peek into the universe of 有頂天家族, and as this is reportedly the second in a trilogy which will eventually be finished, I'm looking forward to the eventual third volume. Very much recommended if you've already read the first book.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">世界でいちばん透きとおった物語</h3>
@@ -438,6 +504,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+An interesting book with a unique trick that, as the obi quite confidently states, could definitely only be realised in print. Unfortunately not something that digital readers will be able to access, however if any physical 文庫 readers are reading this, I'd give it a go just for the shock of the reveal at the end. It's nothing special plot-wise, and the quality of prose isn't particularly noteworthy, but personally, when I realised the trick, it made reading the rest entirely worth it.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -449,6 +517,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+The opening volume to another legendary locked room murder mystery series, and the debut novel of 森博嗣. Wasn't the biggest fan of the actual trick itself, and felt it slightly difficult to hold my suspension of disbelief here, but the story was gripping throughout, and I ended up reading through this in a few long sessions. A required read for any fans of locked room mysteries purely for the cultural value, but a light recommendation otherwise.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">満願</h3>
@@ -458,6 +528,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★★★★★</p>
   </div>
 </div>
+
+A collection of short stories of various forms published serially from 米澤穂信, compiled into a single work with a few new 書き下ろし sprinkled in. One of my favourite mystery 短編集 from the past few years, and a worthy winner of このミス and two other awards. Definite recommendation.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -469,6 +541,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+The third entry in the 館シリーズ, and one which I thoroughly enjoyed purely for the novel-in-novel format in which it was presented. The story is told through 島田 reading a novel based on a series of murders at a gathering of authors, all taking place in yet another eccentric spooky building built by 中村青司, with a typical 綾辻行人 style どんでん返し at the end. Slightly less impressive than the previous two in the series, but I enjoyed the setting and atmosphere of this one thoroughly. Another thumbs up.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">舟を編む</h3>
@@ -478,6 +552,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+One of my favourites from this year that slipped the top three list, and one about a topic that I'm sure most people reading will be invested in - languages and the creation of dictionaries. The story follows a young employee at a publishing company, who sets out on the great journey of creating a new mid-size dictionary. It well emphasises the importance of words and how we define them, and had some memorable characters which felt worth following. A recommendation for anyone who loves linguistics and language learning.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -489,6 +565,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+Another mystery classic, this time from 小泉喜美子. Quite enjoyed the prose in this one - more old-fashioned flowery in comparison to most other modern mystery works, and doesn't exceed on descriptors. The mystery itself was perfectly fine, however I did see the twist coming by around the halfway mark. Doesn't overstay its welcome at only a few hundred pages, so a recommendation if you're interested in landmark mystery works.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">か「」く「」し「」ご「」と「</h3>
@@ -498,6 +576,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★★☆☆☆</p>
   </div>
 </div>
+
+Following my enjoyment of また同じ夢を見ていた, I decided to pick this up when I saw it on a trip to Japan in October. This follows the story of a group of high school students and is a basic ロマンス系, although I can't say I particularly enjoyed this one, and honestly, don't have much memory of the contents. Also, the title is an absolute SEO nightmare.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -509,6 +589,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+The second entry in the S&Mシリーズ (yes, I know) from 森博嗣, and in my opinion a clear step-up in terms of the mystery elements used, which is surprising given how close in proximity the first five books in the series were written to each other. A solid recommendation if you've read すべてがFになる.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">本日は、お日柄もよく</h3>
@@ -518,6 +600,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+From the premise of the run-up to the 2009 Japanese general election, to the introduction to the world of speech writing and advertising copy, the concept of this book was quite appealing to me from the outset, and in both of these respects it did not disappoint. Perhaps it's not a universally appealing read, but one I found thoroughly enjoyable.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -529,6 +613,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+Originally known as 卒業―雪月花殺人ゲーム, and the debut novel of 東野圭吾. It's remarkable how consistent his style has seemingly remained from this entry through the latest in the series, but I found his writing as perfectly serviceable here as it is at present day. The trick in this one I ended up a bit confused by - the information required to solve it seemed very insignificant, and didn't seem as satisfying as the ohters in the series. Still a recommendation, if only to start this series.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">笑わない数学者</h3>
@@ -538,6 +624,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+The third entry in the S&Mシリーズ, again following a series of murders in seemingly impossible situations. I appreciated this one more for the character development than the actual mystery itself, however the suspense still held my interest well enough to power through to the end in just a couple of longer reading sessions. The trick becomes slightly obvious around two thirds of the way through (at least it did for me), but still a recommendation for anyone reading the series.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -549,6 +637,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+I'll group the upper and lower volume of these together, since they're both fairly short volumes, and I'm not enough of a savant to remember the plot distinct between volumes. The second release order entry in the 小市民 series, this follows a series of mysterious arsons which continue throughout the city, with 小鳩 suspecting 小佐内さん of pulling them off due to a series of spoilery circumstances. (Cont.)
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">秋季限定栗きんとん事件（下）</h3>
@@ -558,6 +648,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+(Cont.) Honestly, I'm not a huge fan of the character dynamic between 小鳩 and 小佐内さん, and that's coming from someone who enjoys the character interactions in almost all of the other works from 米澤穂信 focused on young adults. However, the supporting cast this time are solid enough, and the mystery was enticing enough to keep me hooked in until the end. The volumes being fairly short here also probably aided in that. Light recommendation if you enjoyed the first book.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -569,6 +661,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+Something a bit different from the other 百田尚樹 work I read, 永遠のゼロ. This is a collection of short stories, all of which describing heartwearming meetings or blessings, set on Christmas Eve. For the relatively festive period of the year I read this at the theme was appropriate, and it competently delivered on what it promised. Recommended if you need something to smile at in your life.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">虚構推理短編集 岩永琴子の純真</h3>
@@ -578,6 +672,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+The second 短編集 in this series, and the fourth book overall. I honestly can't remember a huge amount from the short stories in this volume, the 短編集 entries all just seem to blend together a bit for me. From the bits I can remember being specifically from this volume, it's a perfectly acceptable volume. Would recommend if you're already following the series.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -589,6 +685,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+As a follow-on to 卒業, this follows 加賀 at a much later point in his career, solving a case involving a troupe of ballerinas who are being systematically murdered, one by one. I enjoyed this entry about as equally as 卒業, but for much different reasons, however could much more understand the methods and conclusion to the mystery presented in this compared to the first. Would recommend to anyone who likes a good mystery, and there's no real need to read the prior entry for context apart from a few throwaway scenes.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">占星術殺人事件</h3>
@@ -598,6 +696,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+Following my quest to read as many mystery classics as possible, this is one of the more notable works from 島田荘司, and his debut novel. For the opening segment, I absolutely despised this one - the first ~70 pages are simply endless soliloquy by a crazed artist, and don't exactly make for interesting reading. It's essentially like reading an astrology manual from the early 1900s. After that section, however, I grew to quite appreciate the old 本格ミステリー writing style along with the ridiculous tricks and murder setups, and ended up being quite fond of it by the end. Would definitely recommend if you can make it past the first chapter intact.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -609,6 +709,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+Another 村上春樹 affair, read after a couple month break post-1Q84. This seems to be a much slower story than 1Q84, which I'm at current feeling appreciative of, and he seems to be taking time to perform some character building before breaking into anything insane, but I'll give this a cautious positive recommendation for now. I still haven't read the closing volume of this one (I didn't own it at the time), so this might be a regretful decision, but I enjoyed it well enough.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">坊っちゃん</h3>
@@ -618,6 +720,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+The final 夏目漱石 work that I read this year, this one also purchased during my Japan trip. This one follows a teacher from a well-off family whose family passed away and left him with a meager inheritance upon leaving university. He travels to the middle of nowhere to accept a teaching position, and being the clumsy middle class dolt that he is, ends up causing havoc in the process. Would definitely recommend.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -629,6 +733,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+The story of a post office run by ghosts, receiving mail from the living and dead, and ferrying messages between both sides. Yet another one picked up from Japan on a whim based on the marketing copy, however I will say I'm glad that I read it. A good lighthearted read, with a small mystery subplot that resolves fairly satisfyingly. Would recommend if you're light on 積読 material.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">斜陽</h3>
@@ -638,6 +744,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+My first foray into 太宰, and certainly not one that I regret. Over the course of the story, we trace the downfall of a noble family into poverty, following the daughter of the family as a primary viewpoint. It's undeniably well written, and I blasted through this in two sittings over a couple of days. Also quite short, so something I'd definitely recommend if you've got a little free time.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -649,6 +757,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+Arguably the most well known work of 東野圭吾, and one that won him the 直木賞. Post-read, I can certainly understand why. The mystery itself is fairly plain if explained from the outset, however through the context of the plot it was a quite startling twist, and certainly was not what I was expecting through the first act of the story. I did catch onto the trick around two thirds of the way through, however that didn't impact my enjoyment of the last third significantly. A definite recommendation for any mystery fan.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">限りなく透明に近いブルー</h3>
@@ -658,6 +768,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★☆☆☆☆</p>
   </div>
 </div>
+
+Although I did make my apathy toward this clear in my "best and worst" segment, I'll quickly run over it again here. There's essentially no plot to the story, and despite the brilliant descriptions strewn around here and there, it's essentially just vivid descriptions of partying and drug abuse. I couldn't find myself a reason to recommend this to anyone. I certainly wouldn't recommend it to my past self, anyway. 
 
 <div class="review-header">
   <div class="review-header-left">
@@ -669,6 +781,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+A murder mystery told in an interesting format - a written back and forth between a newspaper reporter, 一本木通る, and the murderer, ワクチン, much akin to the real-life Zodiac Killer case (which is referenced briefly within). The way this was presented felt fresh, and the mystery book-ending the plot didn't feel disappointing in the slightest, so I'd be happy to recommend this to any mystery enjoyers.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">探偵ガリレオ</h3>
@@ -678,6 +792,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+The first book in another popular series from 東野圭吾, the ガリレオ series (as you may have guessed from the title). Comes as a short story collection presented from the viewpoint of 草薙刑事, who depends on help physicist and professor 湯川学 to solve a series of cases with interesting physics-related tricks. A fun series of murder mystery puzzles, for sure, but didn't feel like anything to write home about in terms of plot or writing in my opinion. Still, I would consider this worth reading as an entry to the series, as the later entries are most definitely of higher quality.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -689,6 +805,8 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
+Yet another 短編集 in the 虚構推理 universe, and the fifth entry in this series as a whole. At this point, I was kind of hoping for another 長編 to finally release in this series, but to my surprise, this turned out to essentially be a shorter 長編 split into three small stories (上、中、下) with two other small stories tacked on either end. This definitely scratched my itch for the much needed extra character development at this point in the series, and I finally feel able to look forward to reading the sixth entry now. Would recommend for any readers of the series, but definitely wouldn't skip any prior entries for context.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">詩的私的ジャック</h3>
@@ -699,15 +817,7 @@ That's my best and worst of 2023, all that remains now is to fill in the rest! B
   </div>
 </div>
 
-<div class="review-header">
-  <div class="review-header-left">
-    <h3 class="review-title">新世界より（中）</h3>
-    <span class="review-subtitle">貴志祐介による - (<a href="https://www.amazon.co.jp/%E6%96%B0%E4%B8%96%E7%95%8C%E3%82%88%E3%82%8A-%E4%B8%AD-%E8%AC%9B%E8%AB%87%E7%A4%BE%E6%96%87%E5%BA%AB-%E8%B2%B4%E5%BF%97-%E7%A5%90%E4%BB%8B/dp/4062768542/">Amazon</a>)</span>
-  </div>
-  <div class="review-header-right">
-    <p class="review-stars">★★★★☆</p>
-  </div>
-</div>
+The fourth book in the S&Mシリーズ, and one that I managed to squeeze in during the last couple days of the year. This also happens to be the longest book in the series that I've read so far, at around 510 pages with bonus content. This might just be the recency bias speaking, but I'd probably place this as my second favourite of the series that I've read thus far, just behind 冷たい密室と博士達. The mystery was solid, and provided a few extra puzzles to have a crack at compared to prior entries. Would recommend for any readers of the series.
 
 ## Visual Media of 2023
 
