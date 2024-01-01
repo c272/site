@@ -5,7 +5,7 @@ tags:
   - Immersion
   - Reading
   - Retrospective
-coverImage: /img/covers/yearinreview2022.jpg
+coverImage: /img/covers/yearinreview2023.jpg
 ---
 
 <!-- Styling for this post. -->
@@ -76,12 +76,12 @@ All this very much building towards the future, but I'll take this blog post as 
 In 2023, I --
 - Read **56** Japanese books, almost all fiction. (<span style="color: #089c2f">+7.7%</span>)
 - Listened to **153** podcast episodes. (<span style="color: #f0020b">-11%</span>)
-- Completed **4** series of anime, **1** TV show and **1** movie. (<span style="color: #f0020b">-92.7%</span>)
+- Completed **4** series of anime, **2** TV shows and **1** movie. (<span style="color: #f0020b">-87.3%</span>)
 - Watched **632** hours of YouTube in Japanese. (<span style="color: #f0020b">-41.7%</span>)
-- Played through **** video games in Japanese, on PC and Switch. (%)
-- Spoke for ~**81** hours in Japanese. (<span style="color: #f0020b">-5.8%</span>)
+- Played through **24** video games in Japanese, on 3DS, PC and Switch. (<span style="color: #089c2f">+118%</span>)
+- Spoke for ~**81** hours in Japanese. (<span style="color: #757575">-5.8%</span>)
 
-In comparison to last year's numbers, very much down on every front barring reading. I did achieve a majority of my goals set out in last year's post, however - I read more than 53 books, passed my N1, and wrote content throughout the year in Japanese, both for my 就活 and also in various blog posts and other formats which I won't dive into here.
+In comparison to last year's numbers, very much down on most fronts barring reading and games. I did achieve a majority of my goals set out in last year's post, however - I read more than 53 books, passed my N1, and wrote content throughout the year in Japanese, both for my 就活 and also in various blog posts and other formats which I won't dive into here.
 
 Aside from visual media consumption, other areas I mostly kept consistent, with small time reductions to allow myself to devote time to other hobbies and an increased workload. After passing the N1 and confirming my move to Japan, I feel less pressed to consume media at a rapid pace, and have spent this year enjoying my immersion at a more leisurely speed.
 
@@ -126,7 +126,7 @@ With the basic numbers out of the way, let's move on to the exciting part - the 
 </tr>
 </table>
 
-Here's my lineup of favourite books from the 56 I read this year, and it's a surprisingly diverse list in comparison to the year prior. Over the past two years, I've read a number of comedies from both modern and classic authors, but none of them quite measure up to **吾輩は猫である**, which takes a well-deserved #1 spot. From the opening line,「吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。」, Soseki's writing is filled with wit and charm, and in my opinion, one of his best works from the several I've consumed so far. If I had one complaint with the novelised version, it would be the quite abrupt ending, as is common with many serialised works, however it is a small blemish on a stellar work which keeps its luster over 100 years post-publication.
+Here's my lineup of favourite books from the 56 I read this year, and it's a surprisingly diverse list in comparison to the year prior. Over the past two years, I've read a number of comedies from both modern and classic authors, but none of them quite measure up to **吾輩は猫である**, which takes a well-deserved #1 spot. From the very opening line, "吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ", Soseki's writing is filled with wit and charm, and this is in my opinion, one of his best works from the several I've consumed so far. If I had one complaint with the novelised version, it would be the quite abrupt ending, as is common with many serialised works, however it is a small blemish on a stellar work which keeps its luster over 100 years post-publication.
 
 In the #2 spot is **Iの悲劇**, a 2019 work from my favourite active author, 米澤穂信, published in 文庫 form in the latter half of last year. The book describes the goings-on of the Iターンプロジェクト, a project to restore a small country town in the mountains, and the mysterious events and difficulties surrounding the citizens that move there. It serves as both a poignant commentary on the depopulation and aging of Japan, and a thoroughly enjoyable series of everyday mysteries, a blend which is pulled off in shockingly effective fashion.
 
@@ -769,7 +769,7 @@ Arguably the most well known work of 東野圭吾, and one that won him the 直�
   </div>
 </div>
 
-Although I did make my apathy toward this clear in my "best and worst" segment, I'll quickly run over it again here. There's essentially no plot to the story, and despite the brilliant descriptions strewn around here and there, it's essentially just vivid descriptions of partying and drug abuse. I couldn't find myself a reason to recommend this to anyone. I certainly wouldn't recommend it to my past self, anyway. 
+Although I did make my apathy toward this clear in my "best and worst" segment, I'll quickly run over it again here. There's essentially no plot to the story, and despite the brilliant descriptions strewn around here and there, it ends up as just vivid descriptions of partying and drug abuse. I couldn't find myself a reason to recommend this to anyone. I certainly wouldn't recommend it to my past self, anyway. 
 
 <div class="review-header">
   <div class="review-header-left">
@@ -781,7 +781,7 @@ Although I did make my apathy toward this clear in my "best and worst" segment, 
   </div>
 </div>
 
-A murder mystery told in an interesting format - a written back and forth between a newspaper reporter, 一本木通る, and the murderer, ワクチン, much akin to the real-life Zodiac Killer case (which is referenced briefly within). The way this was presented felt fresh, and the mystery book-ending the plot didn't feel disappointing in the slightest, so I'd be happy to recommend this to any mystery enjoyers.
+A murder mystery told in an interesting format - a written back and forth between a newspaper reporter, 一本木通る, and the murderer, ワクチン, in a fashion much akin to the real-life Zodiac Killer (which is referenced briefly within). The way this was presented felt fresh, and the mystery book-ending the plot didn't feel disappointing in the slightest, so I'd be happy to recommend this to any mystery enjoyers.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -821,4 +821,107 @@ The fourth book in the S&Mシリーズ, and one that I managed to squeeze in dur
 
 ## Visual Media of 2023
 
-One area that evidently fell through the cracks this year was my visual media consumption. I only watched 6 pieces of JP content this year, far down from the 55 from last year. To be frank, my interest in consuming anime and TV in general declined significantly in the latter months of last year, and I felt little drive or interest to continue watching things in any language, hence my consumption time was spent on other media (mostly novels). Having less free time this year overall also played a major factor, and with some area having to give, this was the one I chose to reduce significantly.
+One area that evidently fell through the cracks this year was my visual media consumption. I only watched 7 pieces of JP content this year, far down from the 55 from last year. To be frank, my interest in consuming anime and TV in general declined significantly in the latter months of last year, and I felt little drive or interest to continue watching things in any language, hence my consumption time was spent on other media (mostly novels). Having less free time this year overall also played a major factor, and with some area having to give, this was the one I chose to reduce significantly.
+
+I'm not going to give a top three and bottom one here like I did last year, since I've consumed so little of this format of media that I don't think it really warrants it. It's something I'm considering either removing next year, or stepping back up my media consumption in this area if I gain the interest back.
+
+There are certainly a bunch of series for novels I've read in the past year which have anime and TV drama adaptations which I have bookmarked and would like to watch at some point, but I'm not sure if I'll be able to make the time to move on any of those in the near future. We'll have to see.
+
+What I will do, however, is place a list of some of the content that I can remember consuming below, in no particular order, for anyone who's curious.
+
+- [聲の形](https://myanimelist.net/anime/28851/Koe_no_Katachi)
+- [推しの子](https://myanimelist.net/anime/52034/Oshi_no_Ko)
+- [組長娘と世話係](https://myanimelist.net/anime/49776/Kumichou_Musume_to_Sewagakari)
+- [ぼっち・ざ・ろっく！](https://myanimelist.net/anime/47917/Bocchi_the_Rock)
+- [トークサバイバー！S1](https://www.netflix.com/jp/title/81484461)
+- [トークサバイバー！S2](https://www.netflix.com/jp/title/81484461)
+- [ソラニン](https://eiga.com/movie/54566/)
+
+## Games of 2023
+
+I managed to dive into playing games in Japanese much more than I did last year, mostly thanks to importing a Japanese 3DS, a boatload of visual novels and various other content earlier this spring, so I've actually got a proper top three, bottom one ranking for this section this year! Be aware that most of these were played on native hardware, but some were remasters or ports. Firstly, my top picks of the year:
+
+<table class="podium-table">
+<tr>
+<!-- Third place. -->
+<td style="text-align: center; padding-top: 4em">
+  <p>#3</p>
+  <img src="/img/posts/2023-retro/katamari.jpg" style="height:200px;width:auto" />
+  <p style="line-height:1.1em;">
+    <b>塊魂アンコール</b>
+    <br>
+    <span style="font-size: 0.7em; color: #AAAAAA">BANDAI NAMCO</span>
+  </p>
+</td>
+
+<!-- First place. -->
+<td style="text-align: center">
+  <p style="font-size: 1.25em">♛</p>
+  <img src="/img/posts/2023-retro/fusiginamachi.jpg" style="height:200px;width:auto" />
+  <p style="line-height:1.1em;">
+    <b>レイトン教授と不思議な町</b>
+    <br>
+    <span style="font-size: 0.7em; color: #AAAAAA">LEVEL-5</span>
+  </p>
+</td>
+
+<!-- Second place. -->
+<td style="text-align: center; padding-top: 4em">
+  <p>#2</p>
+  <img src="/img/posts/2023-retro/dqx.avif" style="height:200px;width:auto" />
+  <p style="line-height:1.1em;">
+    <b>ドラゴンクエストX<br/>オフライン</b>
+    <br>
+    <span style="font-size: 0.7em; color: #AAAAAA">SQUARE ENIX</span>
+  </p>
+</td>
+
+</tr>
+</table>
+
+In my top spot, admittedly a game I am incredibly biased towards from my childhood, but nonetheless, Professor Layton and the Curious Village. Replaying this game for the first time in over a decade, I am honestly shocked at how high the production value is for an E-for-everyone puzzle game. It contains fully animated cutscenes, character voice acting, some absolutely top class music and a competently put together mystery, if a bit ruined by the fact I was already aware of the ending. I would definitely recommend everyone give this a play if they have a spare moment and a DS system to hand.
+
+Secondly, a game I hadn't been able to experience at all until this year, ドラゴンクエストX. This package allows certain story segments of the MMO to be played offline, and it's got all the trappings you'd expect from a typical Dragon Quest game. I thoroughly enjoyed playing through this after playing through most of XI S last year, and I wasn't too put off by the "legacy" graphical look given my fondness for Dragon Quest IX's polygon fest appearance.
+
+Last, but certainly not least, was 塊魂アンコール. This one is pure arcade fun, and the soundtrack is filled with nothing but bangers, which is saying something it being produced with the team that it was. I would absolutely recommend this to anyone who didn't get an opportunity to play it on original platforms with its modern re-release. Finally, here's a complete list of the games I played this year. Not all of these were played to completion, but a majority should be completed.
+
+- 逆転裁判1 (NDS)
+- 逆転裁判2 (NDS)
+- 逆転裁判3 (NDS)
+- レイトン教授と不思議な町 (NDS)
+- レイトン教授と悪魔の箱 (NDS)
+- レイトン教授と最後の時間旅行 (NDS)
+- レイトン教授と魔神の笛 (NDS)
+- レイトン教授と奇跡の仮面 (3DS)
+- レイトン教授と超文明Aの遺産 (3DS)
+- 逆転裁判4 (NDS)
+- レイトン教授VS逆転裁判 (3DS)
+- 逆転裁判6 (3DS)
+- ポケモン不思議のダンジョン空の探検隊 (NDS)
+- 極限脱出 9時間9人9の扉 (NDS)
+- ポケットモンスター ホワイト (NDS)
+- 逆転裁判5 (3DS)
+- 極限脱出ADV 善人シボウデス (3DS)
+- ZERO ESCAPE 刻のジレンマ (3DS)
+- 逆転検事1 (NDS)
+- 逆転検事2 (NDS)
+- JUDGE EYES:死神の遺言 (PC)
+- LOST JUDGMENT：裁かれざる記憶 (PC)
+- ドラゴンクエストX オフライン (NSW)
+- 塊魂アンコール (NSW)
+- みんな大好き塊魂アンコール+ (NSW)
+
+## Conclusion & Goals
+With that all out of the way, that marks the end of my brief look back on the past 365 days of immersion! Unlike last year, not a complete home run with my 新年抱負 from last year, however I'll consider it mostly a win that I completed a majority of the goals I set for myself, and exceeded a couple, given the additional time restraints I had this year. 
+
+And, in keeping with last year's review post, I'll state my end goals for the next 365 days of my Japanese learning journey, and some things I'd ideally like to achieve along the way before this time rolls around again next year. Last year, I made the quite critical mistake of not anticipating my coming year's time restrictions on immersion, so my aim this year is to not fall into the same trap and instead rethink what I want to achieve with my immersion, now that I've reached a level of comprehension that I'm quite happy with.
+
+So, with that said, next year, I will --
+- Read at least **53** books. This isn't changing from this year, and I'm still enjoying reading as much as ever, so I want to keep that going into the new year.
+- Do some substantial **creative writing** in Japanese. Last year's goal was to simply write more in Japanese, which I feel I managed to achieve, so this time I'm setting my sights on increasing my 語彙力 and ability to form a competent bit of prose.
+- **Move to Japan**. This is already more of a scheduled event than a goal, but pulling this off on its own is (almost certainly) going to be a big accomplishment for me if I can pull it off smoothly.
+- Improve my **pitch accent** by speaking more with native speakers. I'm already doing this a fair bit already, and I feel I've got my pitch accent to a decent place, but I'd certainly like to improve it more in the coming year.
+
+Last year, I stated that I was very happy with my pace of learning, and wanted to maintain my motivation and drive to learn into the coming year. This year, I very much feel like I've reached a place in which I'm no longer immersing with a set goal of "passing an exam" or "raising my Japanese ability", it's just become "for fun". And that, more than anything, is what I want to maintain throughout 2024.
+
+As always, a very happy new year to you all, and I wish everyone else luck with their new round of 新年抱負. 🎉
