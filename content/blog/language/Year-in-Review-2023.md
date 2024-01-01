@@ -1,6 +1,6 @@
 ---
 title: 'Year in Review: 2023'
-date: 2023-12-29 15:57:00
+date: 2023-12-31 15:57:00
 tags:
   - Immersion
   - Reading
