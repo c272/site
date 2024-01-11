@@ -74,7 +74,7 @@ This year has been an unexpected one in many aspects, especially in terms of my 
 All this very much building towards the future, but I'll take this blog post as an opportunity to look back at this year, and reflect on the highlights and disappointments of the content I've consumed, as well as perform a short analysis on how I spent my time and how I plan to adjust my immersion going into 2024. But first, a quick summary.
 
 In 2023, I --
-- Read **56** Japanese books, almost all fiction. (<span style="color: #089c2f">+7.7%</span>)
+- Read **58** Japanese books, almost all fiction. (<span style="color: #089c2f">+11.5%</span>)
 - Listened to **153** podcast episodes. (<span style="color: #f0020b">-11%</span>)
 - Completed **4** series of anime, **2** TV shows and **1** movie. (<span style="color: #f0020b">-87.3%</span>)
 - Watched **632** hours of YouTube in Japanese. (<span style="color: #f0020b">-41.7%</span>)
@@ -818,6 +818,30 @@ Yet another 短編集 in the 虚構推理 universe, and the fifth entry in this 
 </div>
 
 The fourth book in the S&Mシリーズ, and one that I managed to squeeze in during the last couple days of the year. This also happens to be the longest book in the series that I've read so far, at around 510 pages with bonus content. This might just be the recency bias speaking, but I'd probably place this as my second favourite of the series that I've read thus far, just behind 冷たい密室と博士達. The mystery was solid, and provided a few extra puzzles to have a crack at compared to prior entries. Would recommend for any readers of the series.
+
+<div class="review-header">
+  <div class="review-header-left">
+    <h3 class="review-title">青の炎</h3>
+    <span class="review-subtitle">貴志祐介による - (<a href="https://www.amazon.co.jp/%E9%9D%92%E3%81%AE%E7%82%8E-%E8%A7%92%E5%B7%9D%E6%96%87%E5%BA%AB-%E8%B2%B4%E5%BF%97-%E7%A5%90%E4%BB%8B/dp/4041979064/">Amazon</a>)</span>
+  </div>
+  <div class="review-header-right">
+    <p class="review-stars">★★★☆☆</p>
+  </div>
+</div>
+
+A very classically structured tragedy about a boy who attempts to murder his mother's abusive boyfriend and stay entirely undetected, using an innocuous method which should make it seem like heart failure. This one is from an interesting perspective, as you are shown the exact reverse of your typical mystery story -- the setup, the crime and the payoff are all told from the criminal's perspective. I found it hard to get through the back third of this personally, just due to how somber the tone is, but it's definitely worth a read.
+
+<div class="review-header">
+  <div class="review-header-left">
+    <h3 class="review-title">つきのふね</h3>
+    <span class="review-subtitle">森絵都による - (<a href="https://www.amazon.co.jp/%E3%81%A4%E3%81%8D%E3%81%AE%E3%81%B5%E3%81%AD-%E8%A7%92%E5%B7%9D%E6%96%87%E5%BA%AB-%E6%A3%AE-%E7%B5%B5%E9%83%BD/dp/404379102X/">Amazon</a>)</span>
+  </div>
+  <div class="review-header-right">
+    <p class="review-stars">★★★☆☆</p>
+  </div>
+</div>
+
+Honestly, I don't remember much of this one. There's a boy who incessantly chases around a girl, both of whom are in middle school, who happen to become friends with a man working at a convenience store where the girl was caught shoplifting. He's a bit insane, and thinks he's working towards saving all of humanity by designing a spaceship to extract the human race when the end times come (you know, standard stuff), although is just a bit insane. From what I remember, it was perfectly fine.
 
 ## Visual Media of 2023
 
