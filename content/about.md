@@ -4,7 +4,7 @@ layout: page
 ---
 
 # About
-If this is your first time here, welcome to my site! I'm a software engineer from the UK who's currently studying towards an MEng in Software Engineering, while pursuing a myriad of personal projects and language learning goals.
+If this is your first time here, welcome to my site! I'm a software engineer from the UK who's currently studying towards an MSci in Software Engineering, while pursuing a myriad of personal projects and language learning goals.
 
 On this site, I post about various different fields which pique my interest, including programming-related topics (mostly compiler architecture & real-time rendering), language learning and Japanese. If you're interested in my current career situation, check out the [landing page](/) of this site.
 
