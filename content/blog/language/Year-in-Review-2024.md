@@ -69,7 +69,19 @@ coverImage: /img/covers/yearinreview2024.jpg
 
 </style>
 
-TODO: Post introduction, overview of year.
+This year has been one unlike any other in many ways, which has been reflected quite evidently in my Japanese immersion. Following from my decision last year to take the plunge and move to Japan, along with a career switch to the game industry (if you can call anything I was doing prior a career), I finally managed to move this year and have begun living and working here full-time. With all the chaos of moving countries and getting set up in a new job, I've tried my best to keep my Japanese immersion consistent and at a decent pace in line with prior years, however as I think you'll see in the stats my content consumption has leaned heavily in one single direction - books.
+
+So in this post, I'd like to take the opportunity to look back at the year and reflect on the various bits of content I've consumed, as well as perform a short analysis on how I feel I did for the year and what I want to adjust moving forward. As usual, however, we'll start with a short summary.
+
+In 2024, I --
+- Read **73** Japanese books, mostly fiction. (<span style="color: #089c2f">+25.9%</span>)
+- Listened to **131** podcast episodes. (<span style="color: #f0020b">-14.4%</span>)
+- Completed **1** series of anime, **0** TV shows and **0** movies. (<span style="color: #f0020b">-85.8%</span>)
+- Watched **1,196** hours of YouTube in Japanese. (<span style="color: #089c2f">+89.2%</span>)
+- Spoke for an untracked number of hours in Japanese. ※ (<span style="color: var(--text-color-light)">~%</span>)
+
+{{<footnote-text "※ This year I stopped my tracked video chat time and began simply working and living using Japanese, so the number has almost definitely gone up but I have no way of confirming this.">}}
+
 
 ## Books of 2024
 <table class="podium-table">
@@ -837,6 +849,26 @@ TODO: Explanation of last place, introduction to general review section.
   <div class="review-header-left">
     <h3 class="review-title">地面師たち</h3>
     <span class="review-subtitle">新庄耕、集英社文庫 - (<a href="https://bookmeter.com/books/14652415">Bookmeter</a>)</span>
+  </div>
+  <div class="review-header-right">
+    <p class="review-stars">★★★☆☆</p>
+  </div>
+</div>
+
+<div class="review-header">
+  <div class="review-header-left">
+    <h3 class="review-title">46番目の密室</h3>
+    <span class="review-subtitle">有栖川有栖、講談社文庫 - (<a href="https://bookmeter.com/books/562660">Bookmeter</a>)</span>
+  </div>
+  <div class="review-header-right">
+    <p class="review-stars">★★★☆☆</p>
+  </div>
+</div>
+
+<div class="review-header">
+  <div class="review-header-left">
+    <h3 class="review-title">姑獲鳥の夏</h3>
+    <span class="review-subtitle">京極夏彦、講談社文庫 - (<a href="httaps://bookmeter.com/books/562660">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
     <p class="review-stars">★★★☆☆</p>
