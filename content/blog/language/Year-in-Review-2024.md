@@ -69,7 +69,7 @@ coverImage: /img/covers/yearinreview2024.jpg
 
 </style>
 
-This year has been one unlike any other in many ways, which has been reflected quite evidently in my Japanese immersion. Following from my decision last year to take the plunge and move to Japan, along with a career switch to the game industry (if you can call anything I was doing prior a career), I finally managed to move this year and have begun living and working here full-time. With all the chaos of moving countries and getting set up in a new job, I've tried my best to keep my Japanese immersion consistent and at a decent pace in line with prior years, however as I think you'll see in the stats my content consumption has leaned heavily in one single direction - books.
+This year has been one unlike any other in many ways, which has been reflected quite evidently in my Japanese immersion. Following my decision last year to take the plunge and move to Japan, along with a career switch to the game industry (if you can call anything I was doing prior a career), I finally managed to move this year and have begun living and working here full-time. With all the chaos of moving countries and getting set up in a new job, I've tried my best to keep my Japanese immersion consistent and at a decent pace in line with prior years, however as I think you'll see in the stats my content consumption has leaned heavily in one single direction - books.
 
 So in this post, I'd like to take the opportunity to look back at the year and reflect on the various bits of content I've consumed, as well as perform a short analysis on how I feel I did for the year and what I want to adjust moving forward. As usual, however, we'll start with a short summary.
 
@@ -146,13 +146,15 @@ TODO: Explanation of top three, introduction to worst one.
 </tr>
 </table>
 
-While I struggled quite a bit to pick my favourite three books of the year, as my pick for worst of the year "そして二人だけになった Until Death Do Us Part" was a shoe-in for the number #73 spot. That isn't to say it's even a particularly objectively terrible book, at least from a pure literary standpoint -- the writing style is perfectly fine, and from an author I enjoy. It does, however, completely fail to meet the minimum bar of cohesion as a mystery novel.
+While I struggled quite a bit to pick my favourite three books of the year, as my pick for worst of the year "**そして二人だけになった Until Death Do Us Part**" was a shoe-in for the number #73 spot. That isn't to say it's even a particularly objectively terrible book, at least from a pure literary standpoint -- the writing style is perfectly fine, and from an author I enjoy. It does, however, completely fail to meet the minimum bar of cohesion as a mystery novel.
 
-If this book were in any other genre, I would most likely not have any complaints. However, with the marketing copy self-professing it as a 密室殺人事件 (it would not have been amiss to see the all-too-familiar "ミステリーの金字塔") and coming from a particularly prolific mystery author whose main series I read and very much enjoyed, it was difficult to give this one a pass when it fundamentally fails to work as a mystery plot.
+If this book were in any other genre, I would most likely not have any complaints. However, with the marketing copy self-professing it as a 密室殺人事件 (it would not have been amiss to see the all-too-familiar "ミステリーの金字塔" on the cover) and coming from a particularly prolific mystery author whose most famous series I read and very much enjoyed, it was difficult to give this one a pass when it fundamentally fails to work as a mystery plot.
 
 Some books, for instance this year's incredibly popular 方舟, have tricks that I would consider near impossible to determine prior to the reveal with the information provided. This isn't even particularly a stain on the work -- in fact, in the case of 方舟 the reveal is an incredibly impactful end to the book, has logical grounding in-universe, and left a long lasting impression post-read.
 
-"そして二人だけになった Until Death Do Us Part", on the other hand, ...
+"そして二人だけになった", on the other hand, reveals its trick to a resounding "huh?". The conclusion is set up as a two-layered reveal which is meant to provide one shocking どんでん返し after another, however instead falls entirely flat when it lacks the base believability required to make their subversion of expectations impactful. Each of the two "solutions" to the mysteries provided throughout the book feel incredibly absurdist and hand-wavey, and manage to blow away any tension built up through the prior chapters of the book.
+
+That's my best and worst of 2024, now all that remains is to fill in the middle! From here I'll write a short, few sentence review of every book I've read this year, along with a rough star rating out of five. I've tried my best to combat my recency bias here and have refamiliarised myself with the older books in this list, but the ones toward the end will still probably end up being more detailed. This year's list is in exact chronological order (thank you Bookmeter!).
 
 <!-- Book review section. -->
 
@@ -162,9 +164,11 @@ Some books, for instance this year's incredibly popular 方舟, have tricks that
     <span class="review-subtitle">森博嗣、講談社文庫 - (<a href="https://bookmeter.com/books/576426">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+As a first book of the year, 封印再度 is the fifth entry in the S&M series (yes, the name is terrible) and one that is faithful to the series' routine of describing interesting locked room murders with tricks based around construction and physics techniques. This time, however, a lot more of the focus is placed on the interpersonal relationships between characters (particularly 犀川 and 萌絵), which personally was very welcome progression in a series that felt in need of additional character development. From what I remember, I blasted through this in a few sittings. Definitely worth a read if you're working through the S&M series.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -176,6 +180,8 @@ Some books, for instance this year's incredibly popular 方舟, have tricks that
   </div>
 </div>
 
+Since I enjoyed 封印再度 considerably, I moved directly onto the sixth entry in the series, 幻惑の死と使途. This book is part of a pair along with 夏のレプリカ which occur simultaneously in-universe, however this entry does not rely at all on the contents of that book, so the reading order is thankfully sane. This entry follows a magician who is murdered during a locked box escape, only to have their body mysteriously disappear post-murder. Overall the payoff is satisfying, and definitely worth a read if continuing the S&M series, even if not containing as interesting character development as 封印再度.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">ノルウェイの森 下</h3>
@@ -186,15 +192,19 @@ Some books, for instance this year's incredibly popular 方舟, have tricks that
   </div>
 </div>
 
+Following from the upper volume of ノルウェイの森 which I finished in 2023, this volume concludes the story following the protagonist through his relationship with 直子 and another patient/mentor レイコ during her stay at the psychiatric care facility. I feel I can't speak too heavily on this volume for fear of spoilers, however I was satisfied with how the story resolved itself, even if it was a tad bittersweet. Overall, I'd recommend both volumes for any readers of 村上春樹.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">天上の葦 上</h3>
     <span class="review-subtitle">太田愛、角川文庫 - (<a href="https://bookmeter.com/books/14616696">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+The first part of a two part thriller/mystery epic by 太田愛, and one that had me captured for its duration. This follows the story of a man who stops dead still in Shibuya crossing, points directly up at the sky and dies on the spot, chasing it all the way down to a gritty tale about wartime censorship and journalistic integrity. I originally picked this up as I was a fan of another mystery from 太田愛, "幻夏", and this volume definitely convinced me to later read more of her novels. A definite recommend for enjoyers of mystery or thriller.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -206,6 +216,8 @@ Some books, for instance this year's incredibly popular 方舟, have tricks that
   </div>
 </div>
 
+Another book from my favourite active author in the mystery genre, 米澤穂信, and one that was released considerably close to his debut (2005). While there were definitely some highlights to be found in the characterisation and individual compartmentalised mysteries, this definitely feels more akin one of his older works when compared to something like 満願 or 黒牢城. Something I'd recommend if you're already a fan of 米澤穂信, but otherwise just your average competent mystery novel.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">禁断の罠</h3>
@@ -215,6 +227,8 @@ Some books, for instance this year's incredibly popular 方舟, have tricks that
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+Sticking with the mystery theme, but this time trying something different with a short story anthology written by a "who's who" of current-day mystery authors. All of the short stories contained within the collection are of generally high quality (as you'd hope), despite there not being anything that sticks out as particularly memorable barring 供米. A light recommend for mystery enjoyers.
 
 <div class="review-header">
   <div class="review-header-left">
