@@ -82,6 +82,11 @@ In 2024, I --
 
 {{<footnote-text "※ This year I stopped my tracked video chat time and began simply working and living using Japanese, so the number has almost definitely gone up but I have no way of confirming this.">}}
 
+In a continuing trend from last year, my reading time has gone up significantly while my consumption of other visual media and games has decreased by a significant margin. This is partially due to a shift in interests (books are awesome), but also simply due to physical books being the most easily accessible format throughout the moving process while having less access to a desktop/the internet.
+
+Looking back at my goals for 2024, however, I have managed to achieve with a large margin all but one of them, which is an awesome feeling! It does feel like a slightly hollow victory, however, given how narrow my media consumption has been over the past year, so that's something I'll try to improve going into next year. Or maybe not, it's best to consume what you enjoy.
+
+With the overall stats out of the way, we can transition to the more exciting part - the books!
 
 ## Books of 2024
 <table class="podium-table">
@@ -129,7 +134,7 @@ TODO: Explanation of top three, introduction to worst one.
 
 <!-- Worst place. -->
 <td style="text-align: center">
-  <p>#71</p>
+  <p>#73</p>
   <img src="/img/posts/2024-retro/untildeathdouspart.jpg" style="height:250px;width:auto" />
   <p style="line-height:1.1em;">
     <b>そして二人だけになった Until Death Do Us Part</b>
@@ -141,7 +146,13 @@ TODO: Explanation of top three, introduction to worst one.
 </tr>
 </table>
 
-TODO: Explanation of last place, introduction to general review section.
+While I struggled quite a bit to pick my favourite three books of the year, as my pick for worst of the year "そして二人だけになった Until Death Do Us Part" was a shoe-in for the number #73 spot. That isn't to say it's even a particularly objectively terrible book, at least from a pure literary standpoint -- the writing style is perfectly fine, and from an author I enjoy. It does, however, completely fail to meet the minimum bar of cohesion as a mystery novel.
+
+If this book were in any other genre, I would most likely not have any complaints. However, with the marketing copy self-professing it as a 密室殺人事件 (it would not have been amiss to see the all-too-familiar "ミステリーの金字塔") and coming from a particularly prolific mystery author whose main series I read and very much enjoyed, it was difficult to give this one a pass when it fundamentally fails to work as a mystery plot.
+
+Some books, for instance this year's incredibly popular 方舟, have tricks that I would consider near impossible to determine prior to the reveal with the information provided. This isn't even particularly a stain on the work -- in fact, in the case of 方舟 the reveal is an incredibly impactful end to the book, has logical grounding in-universe, and left a long lasting impression post-read.
+
+"そして二人だけになった Until Death Do Us Part", on the other hand, ...
 
 <!-- Book review section. -->
 
