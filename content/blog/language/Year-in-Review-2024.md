@@ -240,6 +240,8 @@ Sticking with the mystery theme, but this time trying something different with a
   </div>
 </div>
 
+Another entry in the indomitable 館シリーズ by 綾辻行人, and in my opinion the weakest mystery thus far. Considering that the other books in the series are all stellar, however, that just makes this a slightly predictable but overall very competent mystery novel. The theming is on point, and feels more similar to the author's horror novels than the other books in the series, tying the whole package nicely together even if the mystery elements were a tad weak. Recommend for 館シリーズ readers, light recommend otherwise.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">キネマの神様</h3>
@@ -250,15 +252,19 @@ Sticking with the mystery theme, but this time trying something different with a
   </div>
 </div>
 
+After reading another 原田マハ book which was one of my top three reads last year, "本日はお日柄もよく", I was inspired to try more of her works this year, beginning with キネマの神様. This one follows a deadbeat father whose only hobby is cinema, written from the perspective of his daughter. He takes takes to writing movie reviews, and the plot spirals out from there. It was an enjoyable read throughout, and I didn't have to force myself through any of the 331 pages. Recommended for fans of character dramas.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">お帰り キネマの神様</h3>
     <span class="review-subtitle">原田マハ、文春文庫 - (<a href="https://bookmeter.com/books/21576152">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★☆☆☆</p>
   </div>
 </div>
+
+I bought this almost wholly unaware of its contents, assuming that it was a follow up to the original "キネマの神様". This is not that, however, and is in fact a rehashing of the movie adaptation of the original book which has then been re-novelised. Not worth the read if you've already picked up "キネマの神様", and I would not even personally recommend it over the original. Skip this one and read the source material.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -270,6 +276,8 @@ Sticking with the mystery theme, but this time trying something different with a
   </div>
 </div>
 
+This one follows five university students, detailing their relationships as they go through a series of dramatic life events and how their dynamics change. This is one I find difficult to write about, as detailing anything feels like a spoiler, but I thoroughly enjoyed this one as with all of the other 伊坂幸太郎 books that I've gone through. It's not a light read, but something I'd definitely recommend as a palette cleanser.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">夏のレプリカ</h3>
@@ -280,15 +288,19 @@ Sticking with the mystery theme, but this time trying something different with a
   </div>
 </div>
 
+The companion novel to "幻惑の死と使途", this one follows a friend of 萌絵 as they try to escape a set of kidnappers which are holding their family to ransom. To me, this feels a little like the author created an initial concept that took place outside of the S&M series universe, but decided to link this and the prior book together when coming to put pen to paper. It stands to reason, then, that while an enjoyable mystery novel considered alone, this has nearly no impact on the overall series, which disappointed me a little. If you're in this deep though, there are some good interactions with 萌絵 here and there, so it's worth the time investment for S&M series readers.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">ペンギン・ハイウェイ</h3>
     <span class="review-subtitle">森見登美彦、角川文庫 - (<a href="https://bookmeter.com/books/5586115">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+Another 森見登美彦 classic, ペンギン・ハイウェイ follows a set of schoolchildren investigating the mysterious appearance of penguins in their bog standard Japanese town, leading to some surrealist fun and typical charm I've come to expect from this author. There are some heavier topics included here, but overall it's quite a light read and something I'd definitely recommend. This author really does not miss.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -300,6 +312,8 @@ Sticking with the mystery theme, but this time trying something different with a
   </div>
 </div>
 
+Continuing on the S&M series train, this is the first book to be set in the form of a series of diary entries, entirely written by a third party. The mystery laid out here is enjoyable alone, however what made me appreciate this one a significant amount more is that while at first glance it appears to make no contribution to the overall series' plot, there is additional character background being provided without the reader even noticing for nearly the entire runtime. A definite recommend for S&M series readers.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">空の中</h3>
@@ -309,6 +323,8 @@ Sticking with the mystery theme, but this time trying something different with a
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+As the last entry in my read-through of the 有川浩 自衛隊 trilogy, 空の中 details the story of a pilot acting as a negotiator with a giant entity of unknown origin floating in the skies above the 四国 shoreline. While not as strong as the two prior works in this series (塩の街 and 海の底), it still has fairly compelling character drama, and the premise was delivered on satisfyingly. Recommended, along with the other works in this series.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -320,15 +336,19 @@ Sticking with the mystery theme, but this time trying something different with a
   </div>
 </div>
 
+The ninth entry in the S&M series, and one that is a hefty read at 720 bunko pages. While I did blast through this in the space of about five days, this does mark the point in the series where I was hoping for a satisfying conclusion to the overall story. There is a fair amount of eye-roll worthy fan service (if you can even call it that?) included here, and while the central two murder mysteries converge in a satisfying way the overall payoff feels slightly too weak. A recommend for S&M series readers, as there is some overarching character development included here, but not something I'd hard recommend if it was a standalone novel.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">虚構推理短編集 岩永琴子の密室</h3>
     <span class="review-subtitle">城平京、講談社タイガ - (<a href="https://bookmeter.com/books/20593879">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★☆☆☆</p>
   </div>
 </div>
+
+Another 短編集 in the 虚構推理 series, and the overall sixth entry. While I did enjoy each individual 短編 and generally don't have any complaints about the book on its own merits, I do wish that the author would focus on writing more 長編 in this series. As it stands, the 虚構推理 universe doesn't really feel like it's going anywhere, and while short and sweet stories within the existing framework of characters are a fun diversion, personally there's a point at which, lacking any real development, they start feeling repetitive. Recommended standalone, but skippable if you're breezing through the 虚構推理 series.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -340,6 +360,8 @@ Sticking with the mystery theme, but this time trying something different with a
   </div>
 </div>
 
+Reading through 斜陽 in 2023 really encouraged me to get more into works from 太宰治, and so I decided to pick up the 新潮文庫 version of 走れメロス, which also includes a few other short stories packaged into a still surprisingly short 304 pages. While I didn't enjoy this as much as 斜陽, it was still a good time and definitely something I can recommend to anyone who enjoys 太宰治 or 文豪 content in general.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">プリズム</h3>
@@ -349,6 +371,10 @@ Sticking with the mystery theme, but this time trying something different with a
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+This is one of the very few books this year for which I wrote a review on Bookmeter, so I'll borrow that here for the end of year impressions. Apologies, it is in Japanese.
+
+四人の語り手が描き出す被害者像、殺害方法、そしてそれから導き出される結論を中心とする作品です。 一人ひとりの主人公が握っている情報や被害者との関係による違いが生み出す10通りの結論も全部面白く、一気に読み通しました。 最後に結論が出ないのは、いくら本の核心でも、やはりすっきりしませんが。7/10
 
 <div class="review-header">
   <div class="review-header-left">
@@ -360,6 +386,8 @@ Sticking with the mystery theme, but this time trying something different with a
   </div>
 </div>
 
+Something a little different from my usual mystery reading habits, a hard-boiled police procedural. This book follows a female detective and her partner, detailing their efforts to solve an arson-homicide case while overcoming their communication issues. Not the peak of 純文学 or anything, but an enjoyable binge read. Recommended for any enjoyers of police detective novels.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">この気持ちもいつか忘れる</h3>
@@ -369,6 +397,8 @@ Sticking with the mystery theme, but this time trying something different with a
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+It seems that I never learn with 住野よる, and this is another one of his classic romance plots which revolve around a unique concept, in this case the fact that the two protagonists can only communicate through an otherworldly phenomenon found at a bus shelter near the male protagonist's house. Honestly, as far as 住野よる books go this was considerably better than かくしごと, so I'd recommend it if you're a fan of his other works or romance in general. Otherwise, there's no harm in giving this a miss.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -380,15 +410,19 @@ Sticking with the mystery theme, but this time trying something different with a
   </div>
 </div>
 
+The final and concluding tenth volume of the S&M series, and something I had been considerably looking forward to reading. The very first culprit of the series returns as the villain for this final volume, and contains the appropriate buildup and dramatic release expected of a 森博嗣 book. Unfortunately, due to a considerable focus on technology in this volume, some of the arguments made have not aged particularly well since the book was originally published in 1998. Still a worthwhile conclusion for this series, even simply for concluding character arcs that have been continuing for the past 8-10 volumes. Recommended for S&M series readers, obviously don't jump into this if you haven't gone through the prior 9 volumes.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">アンマーとぼくら</h3>
     <span class="review-subtitle">有川ひろ、講談社文庫 - (<a href="https://bookmeter.com/books/16152552">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+After reading the entire 自衛隊 trilogy, a slight tone shift and even a shift in author name (later works now display her name as 有川ひろ). "アンマーとぼくら" follows the protagonist as he returns to Okinawa to visit his mother, and the everyday activities they get up to during his short stay back home. It's a very sweet book with a potent message waiting at the end, and something I'd definitely recommend to anyone who's currently living away from family.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -396,9 +430,11 @@ Sticking with the mystery theme, but this time trying something different with a
     <span class="review-subtitle">西條奈加、集英社文庫 - (<a href="https://bookmeter.com/books/21537431">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+The 直木賞 winning book describing the life of citizens that call the area around 心淋し川 their home -- from the de-facto town leader with a troubled past to individual citizens battling to keep their families in good health, it's a work that was definitely deserving of the praise it received at the time and one I enjoyed for the character description alone. Not entering my best books of all time, but a definite recommend.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -410,6 +446,8 @@ Sticking with the mystery theme, but this time trying something different with a
   </div>
 </div>
 
+As my fourth or fifth (at this point I've lost track) 村上春樹 work, the upper half of one of his more famous outside of Japan: 海辺のカフカ (Kafka on the Shore). At this point, there are several very consistent thematic similarities between the 村上春樹 works that I've read, and this book very much continues that trend even while in a slightly different setting. If you're familiar with the 村上 writing style (春樹, not 龍), then you probably already know whether you'll like this book. If you're someone who's just looking to try one of his works for the first time, I'd perhaps rather start with ノルウェイの森, but this isn't a bad pick either.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">異人たちの館</h3>
@@ -420,6 +458,8 @@ Sticking with the mystery theme, but this time trying something different with a
   </div>
 </div>
 
+Also known as "Ghost Writers" by its English subtitle, this book follows the work of one such ghostwriter as he tries to track down the past of a missing aspiring author at the request of his mother, in order to write a memoir on his life. As a mystery book, the trick itself left a fair impression on me post-read, so I have no complaints in that department. As a pure novel outside of the mystery elements, the characters are relatively interesting and the writing style was not particularly memorable in either a good or bad way. Recommended for mystery enjoyers, only a light recommendation otherwise.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">ヒトでなし: 金剛界の章</h3>
@@ -429,6 +469,8 @@ Sticking with the mystery theme, but this time trying something different with a
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+The first 京極夏彦 book I read, and one of his that leans very much into the 純文学 aspects. Large chunks of this book are quite dark, and veers deep into what some people would consider "edgy" territory for portions of the protagonist's internal monologues. There are definitely some points at which I did internally cringe while reading descriptions the protagonist's psyche, however overall it did provide a cathartic conclusion to the tension built up throughout the novel, so it balanced out to an overall neutral impression. Light recommend for enjoyers of darker content and/or 純文学.
 
 <div class="review-header">
   <div class="review-header-left">
