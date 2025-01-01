@@ -478,9 +478,11 @@ The first 京極夏彦 book I read, and one of his that leans very much into the
     <span class="review-subtitle">米澤穂信、創元推理文庫 - (<a href="https://bookmeter.com/books/21854331">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+The final book in the 小市民 series, which has recently been the subject of a very well timed anime adaptation. As a climax to the push-pull dynamic between the two main characters, and as an individual mystery, I think I like this entry the most out of the four books in the series. If you've already worked through the prior three entries, "冬期限定" is a definite recommend. Would not recommend starting from this book however, despite the fact that it stands on its own as a mystery novel. You'll miss out on all of the character development from prior instalments.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -492,15 +494,19 @@ The first 京極夏彦 book I read, and one of his that leans very much into the
   </div>
 </div>
 
+As the concluding volume of 海辺のカフカ, I have little to say about this volume that wasn't mentioned in my overview of the first half. The story concludes in a satisfying way, with the underlying mystery element resolving itself properly. If you enjoyed the first volume, the second won't disappoint. Likewise, if you didn't particularly enjoy the first volume, there's nothing fresh in the concluding half in my opinion.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">斜め屋敷の犯罪</h3>
     <span class="review-subtitle">島田荘司、講談社文庫 - (<a href="https://bookmeter.com/books/10128752">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★☆☆☆</p>
   </div>
 </div>
+
+This one has left quite a large impression in my memory for the solution being completely preposterous. Some spoiler-free reviews that I'd looked at online for this mentioned that the trick was just as shocking as 占星術殺人事件, which is one of my favourite books of all time and by the same author, so I went into this with fairly high expectations. The provided solution is legitimately insane; if anybody managed to figure this out before the reveal was presented, their mind should be studied for science. Only recommended if you're an existing fan of 島田荘司 and want some background on his body of works.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -508,9 +514,11 @@ The first 京極夏彦 book I read, and one of his that leans very much into the
     <span class="review-subtitle">湊かなえ、双葉文庫 - (<a href="https://bookmeter.com/books/578162">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+Possibly one of the best out of left field hitters that I read this year. Having not previously read any 湊かなえ, this stood out from online chatter as the best of her current works, so I gave it a go. The hook kept me invested throughout, and the dynamic between schoolteacher and student throughout the mystery elements makes this a breath of fresh air compared to many similar setups from other authors. Saying anything more here would betray the quality of this book, which is always a pain point for reviewing mystery novels, but if you're at all into character-driven mystery novels definitely give this one a read.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -532,6 +540,10 @@ The first 京極夏彦 book I read, and one of his that leans very much into the
   </div>
 </div>
 
+I'll group both together for my review, as there isn't a particular difference between the volumes and they're part of a single continuous plotline. In comparsion to the previous entry in the 館シリーズ, "人形館の殺人", this one feels more like a return to the normal format of the series, with 河南 finding himself in yet another eerie grand house and facing a set of bewildering murders one by one.
+
+Although I managed to figure out the gimmick for this book by around halfway through the first volume, sussing out the intricacies of the solution and enjoying the tension between the characters built throughout made for a satisfying read nonetheless. Definite recommend for readers of the 館シリーズ, if you find the premise particularly interesting you can read this one without touching any of the prior books in the series without any issue.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">天上の葦 下</h3>
@@ -541,6 +553,8 @@ The first 京極夏彦 book I read, and one of his that leans very much into the
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+The concluding volume of the thriller/mystery novel by 太田愛. This half is a sharp change of pace from the prior volume, as the three protagonists make their way to a remote island community where they suspect a fugitive police officer they're chasing has fled to. From a thriller on a grand scale the story very much focuses down to a character-driven drama about unfolding the secrets of this remote island, almost to the point where it feels like a separate book from the first volume. This does eventually tie into a satisfying ending with the elements discovered during the first book, however it may be a little jarring (it certainly was for me). Recommended if the upper volume got you invested in the story.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -552,15 +566,19 @@ The first 京極夏彦 book I read, and one of his that leans very much into the
   </div>
 </div>
 
+Continuing the 加賀恭一郎シリーズ, this volume focuses on a murder where the suspects are very quickly whittled down to just two friends of the deceased, and spends most of its runtime providing clues to help the reader answer the titular question. The book itself does not actually reveal the answer to the very end, which may be offputting to some readers, however I personally don't have a problem with that. The hook of this one was interesting enough to get me to read through in a few days, however it took me a little while longer away from the book to figure out which of the suspects was actually the murderer. Recommended if you're the type that enjoys trying to figure out the mystery before the reveal hits, otherwise this may be less in your wheelhouse.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">何者</h3>
     <span class="review-subtitle">朝井リョウ、新潮文庫 - (<a href="https://bookmeter.com/books/9763365">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★★</p>
   </div>
 </div>
+
+People often say that timing has a great effect on your individual experience of a piece of media, and perhaps this was the case for me and 何者. This book is a character drama that follows the experience of university students searching for jobs in preparation for exiting university, which lined up with the period directly after I had just finished doing the same. It also helps that I'm the type of person to shamelessly self-insert into the main character, no matter how terrible their characterisation, which led directly into the trap that the author sets for the unexpecting reader. A book which absolutely deserved its 直木賞, and one I would wholeheartedly recommend to anyone who has gone through the corporate recruiting meat grinder.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -582,15 +600,19 @@ The first 京極夏彦 book I read, and one of his that leans very much into the
   </div>
 </div>
 
+Bundled review for a chronologically adjacent 上下 set. Another thriller from 太田愛, this time following the sole survivor of a freak stabbing in central Tokyo who is chased by an assassin for unknown reasons. Similar to her other books, this feels a lot like reading a hit drama series if it was put to paper, which makes sense considering her career history as a screenwriter before entering the novel space. Definitely worth a read for any fans of suspense/thriller novels.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">魍魎の匣</h3>
     <span class="review-subtitle">京極夏彦、講談社文庫 - (<a href="https://bookmeter.com/books/576591">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+My second foray into 京極夏彦, this time into his more mystery focused body of works. This series is meant to be a classic blend of mystery, horror and 妖怪 folklore, and it certainly delivers on that promise. The author's writing style I had already considerably enjoyed when reading "ヒトでなし", so when placed into a mystery setting (much more of my wheelhouse) everything aligned to make a great reading experience. In its horror aspects you could consider this similar to the 館シリーズ, except with a much diminished emphasis on the trick element of the mystery and more emphasis on the folklore elements. Definite recommend, although be warned that several of the books in this series are ridiculously long and generally contain difficult language.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -602,15 +624,19 @@ The first 京極夏彦 book I read, and one of his that leans very much into the
   </div>
 </div>
 
+Bought this one purely out of curiosity for what goes into making a "good" mystery novel "good" rather than a desire to write any myself, although that may be something fun to try in future. As a beginners guide, it's interesting to see an editor's perspective on how mystery novels should be structured to both keep the reader engaged and convince any prospective editor that your work is worth not throwing out at first sight. More of a curiosity than anything, but interesting if you're curious about the selection process for book awards and how the publishing industry treats mystery works.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">ミステリーの書き方</h3>
     <span class="review-subtitle">日本推理作家協会、幻冬舎文庫 - (<a href="https://bookmeter.com/books/9865041">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★☆☆☆</p>
   </div>
 </div>
+
+Similar to the last entry, although this one is written by a collection of mystery authors who are all members of 日本推理作家協会, with each giving their perspective on a different topic regarding the writing and perception of mystery novels. While some of the essays in here give a very interesting perspective on the modern mystery landscape, some felt quite dry and/or self-aggrandising, so personally I'd give this a skip if you aren't genuinely interested in writing mystery novels yourself.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -621,6 +647,8 @@ The first 京極夏彦 book I read, and one of his that leans very much into the
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+Continuing my dive into 太宰治 this year, the revered 遺作 and one that almost always comes up as the first work mentioned under his name. Personally, I didn't enjoy this one as much as I did 斜陽, however it was still a thoroughly enjoyable experience and the prose is expectedly great. Would recommend for any fans of 太宰 or 文豪 in general.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -698,7 +726,7 @@ The first 京極夏彦 book I read, and one of his that leans very much into the
     <span class="review-subtitle">米澤穂信、角川文庫 - (<a href="https://bookmeter.com/books/21917883">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★★</p>
   </div>
 </div>
 
