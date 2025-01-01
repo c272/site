@@ -660,15 +660,19 @@ Continuing my dive into 太宰治 this year, the revered 遺作 and one that alm
   </div>
 </div>
 
+Another 東野圭吾 fare, this time following the murder of a popular author who dies under mysterious circumstances the night before he is due to leave the country. Compared to other more trick-focused 東野圭吾 books, this one leans more into the interpersonal relationship and motive side, which I think works to its benefit. Worth a read if you're interested in getting into his books or are an existing fan. 
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">恋文の技術</h3>
     <span class="review-subtitle">森見登美彦、ポプラ文庫 - (<a href="https://bookmeter.com/books/3030088">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+Presented as a series of letters from a single individual out towards his friends, another comedy with light romance elements from 森見登美彦. The structure of this one feels very well put together, as even though you only get to see one side of the letter exchange, the way in which those letters are written allows you to perfectly draw out the kind of response and the details inside that are not explicitly printed on the page. Overall I really enjoyed reading through this one, and would definitely recommend it as a lighthearted gateway into 森見登美彦 books.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -676,9 +680,11 @@ Continuing my dive into 太宰治 this year, the revered 遺作 and one that alm
     <span class="review-subtitle">島田荘司、講談社文庫 - (<a href="https://bookmeter.com/books/572104">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★☆☆☆</p>
   </div>
 </div>
+
+The first 短編集 in the 御手洗潔 series of books, and one that I thought was perfectly "fine". None of the mysteries here left as much of an impression as either 占星術殺人事件 or 斜め屋敷の犯罪, in either a good or bad way. Perhaps worth a look through if you're interested in reading the entire series, but definitely not required reading in my opinion.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -690,6 +696,8 @@ Continuing my dive into 太宰治 this year, the revered 遺作 and one that alm
   </div>
 </div>
 
+Not to be confused with the 今敏 film of the same name, a classic early 宮部みゆき work written from an interesting perspective. The whole story is told through the eyes of a former police dog, マサ, and follows the events surrounding the murder of an up-and-coming youth league baseball player. Forcing all events in the book to be viewed through this lens does cause some believability issues, however it didn't impact my enjoyment of the book in a major way. Would recommend for existing fans of 宮部みゆき.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">ガリレオの苦悩</h3>
@@ -699,6 +707,8 @@ Continuing my dive into 太宰治 this year, the revered 遺作 and one that alm
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+Following on from the events of 容疑者Xの献身, this encompasses several smaller stories expressing the reluctance of ガリレオ to work with police since the incident (although he eventually ends up assisting in essentially every case). I honestly don't remember many of the stories from this collection, so it's safe to say it didn't leave a lasting impression. Perhaps pick this one up if you're following the series, otherwise there are plenty of other mystery novels which will fill the same void.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -710,6 +720,8 @@ Continuing my dive into 太宰治 this year, the revered 遺作 and one that alm
   </div>
 </div>
 
+Another entry in the long-running 館シリーズ, and the one that left the least of an impression post-read. The trick used for the primary mystery didn't really feel equal in shock factor or logical grounding to those presented in prior books, and left me with a slightly bitter aftertaste considering the rest of the book had managed to get me quite invested. Still worth the read if you're going through the 館シリーズ as it manages to keep the tension well throughout and has other interesting elements, but I wouldn't go in expecting the trick to be as satisfying as those in prior volumes.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">異邦の騎士</h3>
@@ -719,6 +731,8 @@ Continuing my dive into 太宰治 this year, the revered 遺作 and one that alm
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+The third full-length volume in the 御手洗潔 series, and one which marked a considerable step up for me from the prior 斜め屋敷の犯罪. This volume is written from the perspective of a man who wakes up on a park bench in the middle of 高円寺 with no idea of his name, address or memory of his past life, who through a series of coincidences becomes friends with 御手洗 and attempts to regain his memories. The mysteries presented here are interesting and their payoff sound, even if the ending was predictable from around the halfway mark. Definitely worth a read for any enjoyers of 占星術殺人事件.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -730,6 +744,10 @@ Continuing my dive into 太宰治 this year, the revered 遺作 and one that alm
   </div>
 </div>
 
+Another 直木賞 winner, and one from my favourite currently active author nonetheless. It should not be particularly surprising, then, that I absolutely adore 黒牢城. Set in 戦国時代 Japan, this book takes the form of a series of murder mysteries told from the perspective of 荒木村重, whose castle is being slowly surrounded by the forces of 織田信長. Each mystery is carefully woven into the overarching story, and comes with an ending reveal which, while in itself not overly shocking, hides behind it an additional layer of trickery. Possibly one of my favourite books of all time, and one I would recommend any self-professing mystery enjoyer read.
+
+The one pain point for newer readers may be that due to the setting being 戦国時代 Japan, the language and descriptions used are also era appropriate, meaning that there is some modestly difficult grammar and word use throughout. In my opinion though, even if that poses a challenge, the experience is definitely worth it.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">さいはての彼女</h3>
@@ -740,15 +758,19 @@ Continuing my dive into 太宰治 this year, the revered 遺作 and one that alm
   </div>
 </div>
 
+The second 原田マハ book I got into this year, and a relatively light read compared to the majority of books I'd been working through. It's a feel good experience and doesn't include anything too hard-hitting, but also didn't leave a huge impression on me post read. It's also quite short at just 240 pages, so if you're looking for a quick palette cleanser, perhaps give it a try.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">江戸川乱歩傑作選</h3>
     <span class="review-subtitle">江戸川乱歩、新潮文庫 - (<a href="https://bookmeter.com/books/578279">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+For someone who's fairly into mystery novels, and Japanese ones in particular, having read no 江戸川乱歩 was a glaring omission which I sought to fix this year. There are several collections of his short stories available, which for some reason all have confusingly similar names, and I selected this one essentially at random. D坂の殺人事件 and 人間椅子 were standouts from this collection, and it also contained the chilling 芋虫 which was honestly quite hard to read through. Definitely a must-read if you're a follower of Japanese mystery. 
 
 <div class="review-header">
   <div class="review-header-left">
@@ -756,9 +778,11 @@ Continuing my dive into 太宰治 this year, the revered 遺作 and one that alm
     <span class="review-subtitle">朝井リョウ、新潮文庫 - (<a href="https://bookmeter.com/books/21248535">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+After reading 何者 earlier in the year and being totally blindsided, I was keen to try another one work from 朝井リョウ, and eventually settled on 正欲. The topics covered in this book are quite sensitive, and due to that alone I'm going to gloss over the actual content of the book and just suggest you give it a read if you enjoyed any other book from 朝井リョウ.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -766,9 +790,11 @@ Continuing my dive into 太宰治 this year, the revered 遺作 and one that alm
     <span class="review-subtitle">三浦しをん、新潮文庫 - (<a href="https://bookmeter.com/books/578430">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+Another one highlight of the books that I read this year, at least in terms of what left an impression. This book follows a no-name university running club who work their way up from having no running experience at all to competing in that year's 箱根駅伝, with the power of friendship™ and sheer will of their slightly injured but enthusiastic leader. The writing style of 三浦しをん really carries this one in my opinion, definitely worth a read.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -806,7 +832,7 @@ Continuing my dive into 太宰治 this year, the revered 遺作 and one that alm
     <span class="review-subtitle">夕木春央、講談社文庫 - (<a href="https://bookmeter.com/books/22032679">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★☆</p>
   </div>
 </div>
 
@@ -816,7 +842,7 @@ Continuing my dive into 太宰治 this year, the revered 遺作 and one that alm
     <span class="review-subtitle">水野太貴、角川出版 - (<a href="https://bookmeter.com/books/22026934">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★☆☆☆</p>
   </div>
 </div>
 
