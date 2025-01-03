@@ -94,33 +94,33 @@ With the overall stats out of the way, we can transition to the more exciting pa
 <!-- Third place. -->
 <td style="text-align: center; padding-top: 4em">
   <p>#3</p>
-  <img src="/img/posts/2023-retro/honjitu.jpg" style="height:200px;width:auto" />
+  <img src="/img/posts/2024-retro/hakobune.jpg" style="height:200px;width:auto" />
   <p style="line-height:1.1em;">
-    <b>本日は、お日柄もよく</b>
+    <b>方舟</b>
     <br>
-    <span style="font-size: 0.8em; color: #AAAAAA">原田マハによる</span>
+    <span style="font-size: 0.8em; color: #AAAAAA">夕木春央による</span>
   </p>
 </td>
 
 <!-- First place. -->
 <td style="text-align: center">
   <p style="font-size: 1.25em">♛</p>
-  <img src="/img/posts/2023-retro/wagahai.jpg" style="height:200px;width:auto" />
+  <img src="/img/posts/2024-retro/kokuroujou.jpg" style="height:200px;width:auto" />
   <p style="line-height:1.1em;">
-    <b>吾輩は猫である</b>
+    <b>黒牢城</b>
     <br>
-    <span style="font-size: 0.8em; color: #AAAAAA">夏目漱石による</span>
+    <span style="font-size: 0.8em; color: #AAAAAA">米澤穂信による</span>
   </p>
 </td>
 
 <!-- Second place. -->
 <td style="text-align: center; padding-top: 4em">
   <p>#2</p>
-  <img src="/img/posts/2023-retro/inohigeki.jpg" style="height:200px;width:auto" />
+  <img src="/img/posts/2024-retro/nanimono.jpg" style="height:200px;width:auto" />
   <p style="line-height:1.1em;">
-    <b>Iの悲劇</b>
+    <b>何者</b>
     <br>
-    <span style="font-size: 0.8em; color: #AAAAAA">米澤穂信による</span>
+    <span style="font-size: 0.8em; color: #AAAAAA">朝井リョウによる</span>
   </p>
 </td>
 
@@ -133,7 +133,7 @@ TODO: Explanation of top three, introduction to worst one.
 <tr>
 
 <!-- Worst place. -->
-<td style="text-align: center">
+<td style="text-align: center" id="worst-place">
   <p>#73</p>
   <img src="/img/posts/2024-retro/untildeathdouspart.jpg" style="height:250px;width:auto" />
   <p style="line-height:1.1em;">
@@ -806,6 +806,8 @@ Another one highlight of the books that I read this year, at least in terms of w
   </div>
 </div>
 
+As someone who self-professes as a Japanese mystery author enjoyer, it would be hypocritical of me to have not read any 横溝正史 over my several years of Japanese reading at this point. One of his more famous works, this follows the story of 真珠郎, a boy bred purely for the purpose of revenge, as he carries out several murders in mysterious circumstances. Overall an enjoyable look into classic Japanese mystery, light recommendation.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">総員玉砕せよ!</h3>
@@ -816,15 +818,19 @@ Another one highlight of the books that I read this year, at least in terms of w
   </div>
 </div>
 
+Embarassingly, I picked this up thinking it was a novel looking back at the Pacific front, however it ended up being a manga on that topic in bunko format. Nevertheless it was an impactful read though, and does well to highlight the meaningless defenses that characterised Japan in the closing chapters of World War 2. Definitely not something that you can read over lunch, but I would recommend it if you're looking for some wartime manga.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">言語オタクが友だちに700日間語り続けて引きずり込んだ言語沼</h3>
     <span class="review-subtitle">堀本見、水野大貴、あさ出版 - (<a href="https://bookmeter.com/books/22210199">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★☆☆☆</p>
   </div>
 </div>
+
+One of the podcasts which I'm a huge fan of, ゆる言語学ラジオ, put this out as a pseudo-novelised form of their format, taking the form of a discussion between the two hosts on various interesting tidbits on languages and linguistics in general. If you've never heard of this podcast and aren't the type to listen to podcasts, I'd definitely recommend checking this book out. However, as an existing listener, this touches on topics that have essentially all been covered within previous episodes (and in my opinion in a more enjoyable format), so there wasn't much additional value left for me.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -836,6 +842,8 @@ Another one highlight of the books that I read this year, at least in terms of w
   </div>
 </div>
 
+This book seemed to be absolutely everywhere in Japan over the latter half of the year, and with very good reason. The initial hook had me reading through this in a few days flat, and the mystery concludes in a way which is both very satisfying as a reader and makes logical sense within the context of the book (a surprisingly rare trait, unfortunately). If there is one gripe that I have with 方舟, as I mentioned in my worst book overview, it's that the trick seems near impossible to deduce before the reveal. Even then, this does not diminish the impact of the book at all for me, and I was thinking about this one for weeks after finishing reading. Definite recommend.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">きょう、ゴリラをうえたよ 愉快で深いこどものいいまちがい集</h3>
@@ -846,15 +854,19 @@ Another one highlight of the books that I read this year, at least in terms of w
   </div>
 </div>
 
+Also related to ゆる言語学ラジオ, this book is from the 喋り手 of that show and details a compilation of linguistically interesting and funny quotes from small children still getting a grasp on language, which as a concept sounded interesting to me (I even picked up a signed copy). Unfortunately, as much as I appreciated the gems in this one and the illustrations were incredibly cute, it felt a bit thin in overall content. Recommended if you're just looking for a light read and a laugh, but don't come into this with expectations of any deep linguistic analysis.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">何様</h3>
     <span class="review-subtitle">朝井リョウ、新潮文庫 - (<a href="https://bookmeter.com/books/14023720">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★☆☆☆</p>
   </div>
 </div>
+
+The follow up to 何者, one of my favourite books of the year, which naturally meant I picked this up with high expectations. It was fairly surprising, then, when 何様 felt less like a proper sequel and more like a "plus alpha" or epilogue to the first book. This book picks up several years after 何者 concludes, detailing the future lives of each of the cast members and their current life situation and thoughts. As someone who very much enjoyed the first book, I was not disappointed with the contents here, but my expectations were clearly a little off. Would recommend to anyone who read and enjoyed 何者.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -866,6 +878,8 @@ Another one highlight of the books that I read this year, at least in terms of w
   </div>
 </div>
 
+Returning to some classic 米澤穂信, リカーシブル follows the story of a family returning to the mother's home town after the sudden disappearance of the father. The two children of the family begin attending a new school in a new environment, and discover that they have memories of this place that they've supposedly never visited; cue mystery plot. Overall just a plain fun competent mystery experience, and one I enjoyed figuring out moving through the last third of the book. Recommended for any 米澤穂信 or mystery enjoyers.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">聖女の救済</h3>
@@ -875,6 +889,8 @@ Another one highlight of the books that I read this year, at least in terms of w
     <p class="review-stars">★★★☆☆</p>
   </div>
 </div>
+
+Continuing in the ガリレオ series, this time a 長編 following the poisoning of a business magnate in his own home. The suspects here are quickly whittled down to only the wife, who was visiting her parents in 北海道 at the time of the murder, and the latter two thirds turn into a quite compelling "howdunnit". The ending (at least from memory) was satisfying enough, and as I'm personally fond of the 東野圭吾 style I found this to be an enjoyable read. Recommended if you're following the ガリレオ series, but you can absolutely jump straight to this one with no background.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -886,15 +902,19 @@ Another one highlight of the books that I read this year, at least in terms of w
   </div>
 </div>
 
+The first in a four volume epic, and the longest entry in the currently published 館シリーズ. Compared to prior entries in the series, this one feels a little more like 人形館の殺人 in that it leans more into the horror aspects of the 綾辻行人 style and less the mystery portion, particularly in this first volume. If I'm being honest, this first book took quite a while to get through, as it's almost entirely character background and setup for the following murders that occur in the last two thirds of the story. If you're prepared for a 2000+ bunko page journey though, and have enjoyed previous 館シリーズ books, I would definitely recommend sticking through this one.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">ホテルメドゥーサ</h3>
     <span class="review-subtitle">尾崎英子、角川文庫 - (<a href="https://bookmeter.com/books/17013800">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★☆☆☆</p>
   </div>
 </div>
+
+One of the books that I just selected on a whim while in a 丸善 this year, and accordingly one that was fairly middle of the road. The plot centers around a hotel which allegedly houses a service which allows guests to travel to parallel universes, to which several disenfranchised and beaten-down individuals gather to discover the truth. While perfectly passable, it felt on the whole quite generic and not something I'd go out of my way to read had this not been an impulse buy. If you think the concept is interesting, then maybe give it a go, but apart from that you'll do no ill by skipping this entirely.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -902,9 +922,11 @@ Another one highlight of the books that I read this year, at least in terms of w
     <span class="review-subtitle">綾辻行人、講談社文庫 - (<a href="https://bookmeter.com/books/573610">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+The second of four volumes. Finally some plot happening here, and the story begins to turn in an interesting direction. While the four volumes as a whole do all play more into horror elements than other 館シリーズ entries, the mystery provided here is in my opinion much more substantial than that of 人形館の殺人. Once the first half of this second volume was through, it no longer felt like a slog whatsoever. Worth the payoff, needless to say if you managed to finish the first volume, best lock in for the next three.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -916,15 +938,19 @@ Another one highlight of the books that I read this year, at least in terms of w
   </div>
 </div>
 
+Another 東野圭吾 affair, and honestly I'm having a hard time keeping track of all the various "○○が××を殺した" titles here. This one follows the murder of a popular screenwriter and author, 穂高誠, who is essentially such a detestable human being that all of those in close relation to him have a motive for bumping him off. The book boils down to a "whodunnit" presented from the viewpoint four different suspects, with the answer not being revealed explicitly within the book in much similar fashion to "どちらかが彼女を殺した". Similarly recommended for those who enjoy a classic "whodunnit" puzzle.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">暗黒館の殺人(三)</h3>
     <span class="review-subtitle">綾辻行人、講談社文庫 - (<a href="https://bookmeter.com/books/573611">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+Unfortunately, this volume mentally blends with the fourth in my head, as the plot is now at full speed through both latter volumes. Accordingly, I don't have much to say about specifically the third book, apart from that the lost child character (if you've read this, you'll know which one) was ungodly infuriating. Keep reading if you're working through this one, the end is worth it (in my opinion)!
 
 <div class="review-header">
   <div class="review-header-left">
@@ -932,9 +958,11 @@ Another one highlight of the books that I read this year, at least in terms of w
     <span class="review-subtitle">森博嗣、講談社文庫 - (<a href="https://bookmeter.com/books/13117491">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★☆☆☆☆</p>
   </div>
 </div>
+
+Acclaimed winner by a considerable margin of my "Worst of the Year" award for 2024. If you want to see why it's not particularly worth your time, [read the more detailed review](#worst-place) that is placed at the top of the article (or linked right there!).
 
 <div class="review-header">
   <div class="review-header-left">
@@ -942,9 +970,11 @@ Another one highlight of the books that I read this year, at least in terms of w
     <span class="review-subtitle">綾辻行人、講談社文庫 - (<a href="https://bookmeter.com/books/573612">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+The fourth and concluding volume of 暗黒館の殺人. Not much that I can say here without massively spoiling the ending for anyone thinking about picking this one up, apart from that the ending was satisfying enough to make me not regret reading through the prior 1600+ pages to reach this point. Compared to other entries in the series, not as immediately "leap out of your chair" shocking in terms of the tricks used, but definitely the most satisfying to finish as the characters had much more room to breathe and develop here compared to a typical 館シリーズ book.
 
 <div class="review-header">
   <div class="review-header-left">
@@ -952,19 +982,23 @@ Another one highlight of the books that I read this year, at least in terms of w
     <span class="review-subtitle">歌野晶午、講談社文庫 - (<a href="https://bookmeter.com/books/549475">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★☆☆☆</p>
   </div>
 </div>
+
+Picked this up due to the interesting concept of murderers playing detective with each other over the internet, performing murders in person and then having the others solve it as a game. It's really a 短編集 hiding as a 長編, as each mystery is almost entirely compartmentalised save for a few linking threads between each chapter, and some are fairly trivial to guess. The final reveal was quite impactful, which was much needed, however the final 50-75 pages fly off the rails into something completely different, eventually ending up with some unneeded sequel baiting. While I enjoyed a majority of this, it didn't leave a good aftertaste, so I'd recommend on the condition of just reading the 短編 portions and skipping the final chapter.
 
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">光</h3>
-    <span class="review-subtitle">歌野晶午、講談社文庫 - (<a href="https://bookmeter.com/books/7364122">Bookmeter</a>)</span>
+    <span class="review-subtitle">三浦しをん、集英社文庫 - (<a href="https://bookmeter.com/books/7364122">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★★★☆</p>
   </div>
 </div>
+
+Continuing on my 三浦しをん journey, this time the one that's probably closest to 純文学 from this author. This was unexpectedly fairly unlike any of the other 三浦しをん books I'd read thus far, not necessarily in a negative way but certainly not her usual style. This is the type of book where I'm loath to say anything about the contents of itself, so I'll just give a blanket recommendation here for anyone who enjoys character dramas with morally questionable characters.  
 
 <div class="review-header">
   <div class="review-header-left">
@@ -976,6 +1010,8 @@ Another one highlight of the books that I read this year, at least in terms of w
   </div>
 </div>
 
+After seeing the buzz around the Netflix series this year, decided to give this one a try as the concept of a novel about land hustlers sounded interesting. I can see why this made a good target for a streaming series, and did mostly enjoy my time with it throughout, but taken as a standalone book it was just kind of "fine". Nothing particularly left an impression from this as I look back, good or bad, so I'll leave it at an average review here.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">46番目の密室</h3>
@@ -986,15 +1022,19 @@ Another one highlight of the books that I read this year, at least in terms of w
   </div>
 </div>
 
+Following my theme this year of trying to get into a larger pool of mystery authors, my first foray into the works of 有栖川有栖 (if you don't count that one essay from ミステリーの書き方). Coincidentally, this one was also set at Christmas, so timing-wise matched very nicely. The book follows a standard issue detective story around the killing of an author and a random intruder during a Christmas party, hosted by the deceased. The way the mystery plays out gave me no complaints, and the writing style was to my liking, so I'll definitely be reading more 有栖川有栖 in the future. Recommended if you're a mystery head.
+
 <div class="review-header">
   <div class="review-header-left">
     <h3 class="review-title">姑獲鳥の夏</h3>
     <span class="review-subtitle">京極夏彦、講談社文庫 - (<a href="httaps://bookmeter.com/books/562660">Bookmeter</a>)</span>
   </div>
   <div class="review-header-right">
-    <p class="review-stars">★★★☆☆</p>
+    <p class="review-stars">★★☆☆☆</p>
   </div>
 </div>
+
+My final book of the year, and one that took me quite a while to finish due to extenuating circumstances (mostly just being busy around the end of the year). As the follow-up to "魍魎の匣", this does not disappoint with the same blend of 妖怪 folklore and murder mystery, however the solution this time felt incredibly cheap and definitely dampened my impressions on the overall book. For almost all of the length of the book an enjoyable read, however one that felt tainted by a failed landing. I will read on in this series, but this may be worth a skip if you're following on from 魍魎の匣.
 
 ## Visual Media of 2024
 
