@@ -69,7 +69,7 @@ coverImage: /img/covers/yearinreview2024.jpg
 
 </style>
 
-This year has been one unlike any other in many ways, which has been reflected quite evidently in my Japanese immersion. Following my decision last year to take the plunge and move to Japan, along with a career switch to the game industry (if you can call anything I was doing prior a career), I finally managed to move this year and have begun living and working here full-time. With all the chaos of moving countries and getting set up in a new job, I've tried my best to keep my Japanese immersion consistent and at a decent pace in line with prior years, however as I think you'll see in the stats my content consumption has leaned heavily in one single direction - books.
+This year has been one unlike any other in many ways, which has reflected quite heavily in my Japanese immersion. Following my decision last year to take the plunge and move to Japan, along with a career switch to the game industry (if you can call anything I was doing prior a career), I finally managed to move this year and have begun living and working here full-time. With all the chaos of moving countries and getting set up in a new job, I've tried my best to keep my Japanese immersion consistent and at a decent pace in line with prior years, however as I think you'll see in the stats my content consumption has leaned heavily in one single direction - books.
 
 So in this post, I'd like to take the opportunity to look back at the year and reflect on the various bits of content I've consumed, as well as perform a short analysis on how I feel I did for the year and what I want to adjust moving forward. As usual, however, we'll start with a short summary.
 
@@ -77,14 +77,14 @@ In 2024, I --
 - Read **73** Japanese books, mostly fiction. (<span style="color: #089c2f">+25.9%</span>)
 - Listened to **131** podcast episodes. (<span style="color: #f0020b">-14.4%</span>)
 - Completed **1** series of anime, **0** TV shows and **0** movies. (<span style="color: #f0020b">-85.8%</span>)
-- Watched **1,196** hours of YouTube in Japanese. (<span style="color: #089c2f">+89.2%</span>)
+- Watched **1,096** hours of YouTube in Japanese. (<span style="color: #089c2f">+73.4%</span>)
 - Spoke for an untracked number of hours in Japanese. ※ (<span style="color: var(--text-color-light)">~%</span>)
 
 {{<footnote-text "※ This year I stopped my tracked video chat time and began simply working and living using Japanese, so the number has almost definitely gone up but I have no way of confirming this.">}}
 
-In a continuing trend from last year, my reading time has gone up significantly while my consumption of other visual media and games has decreased by a significant margin. This is partially due to a shift in interests (books are awesome), but also simply due to physical books being the most easily accessible format throughout the moving process while having less access to a desktop/the internet.
+In a continuing trend from last year, my reading time has gone up significantly while my consumption of other visual media and games has decreased by a fair margin. This is partially due to a shift in interests (books are awesome), but also simply due to physical books being the most easily accessible format throughout the moving process while having less access to a desktop/the internet.
 
-Looking back at my goals for 2024, however, I have managed to achieve with a large margin all but one of them, which is an awesome feeling! It does feel like a slightly hollow victory, however, given how narrow my media consumption has been over the past year, so that's something I'll try to improve going into next year. Or maybe not, it's best to consume what you enjoy.
+Looking back at my goals for 2024, however, I have managed to achieve all but one of them with a large margin, which is an awesome feeling! It does feel like a slightly hollow victory, however, given how narrow my media consumption has been over the past year, so that's something I'll try to improve going into next year. Or maybe not, it's best to consume what you enjoy.
 
 With the overall stats out of the way, we can transition to the more exciting part - the books!
 
@@ -127,7 +127,13 @@ With the overall stats out of the way, we can transition to the more exciting pa
 </tr>
 </table>
 
-TODO: Explanation of top three, introduction to worst one.
+Picking a number one for this year was not a difficult task. There were very few books I read this year that truly stood out as something that would slot in to my top reads of all time, however **黒牢城** certainly rose to the occasion. Set in 戦国時代 Japan, the book takes the form of a series of murder mysteries told from the perspective of 荒木村重, whose castle is being slowly surrounded by the forces of 織田信長. Each mystery is individually enjoyable, well crafted and uniquely enabled by the setting of the story. Coming from my favourite active author, it's also no surprise that the writing style was also very much in my wheelhouse, only compounded with the use of classical era-appropriate Japanese.
+
+In the #2 spot is **何者**, a book for which I was totally unprepared going in. Having myself just run through the corporate recruitment meat grinder, this read was incredibly well timed for me, and paired with the shocking reveal at the close made for a thrilling and memorable experience. This is one of those books where its best you know as little as possible before going in, so I'm going to give this one a flat recommendation here and suggest you check the [individual review](#nanimono-review) below for slightly more spoiler-lite information.
+
+Finally, in the #3 spot is **方舟**, a book whose praises have been sung very thoroughly at this point by many Japanese publications. The initial hook of a murder mystery set in an abandoned underground bunker had me reading through this in a few days flat, and the mystery concludes in a way which is both very satisfying as a reader and makes logical sense within the context of the book (a surprisingly rare trait, unfortunately). I did still have some minor reservations with this book, which you can read in my [individual review](#hakobune-review), so decided to slot this in at the number three spot. Still a book absolutely worth reading, and deserving of a top spot.
+
+And with the top out of the way, let's head down to the very bottom of the barrel of my reading content from this year, that being --
 
 <table class="podium-table" style="margin-top: 0em">
 <tr>
@@ -568,7 +574,7 @@ The concluding volume of the thriller/mystery novel by 太田愛. This half is a
 
 Continuing the 加賀恭一郎シリーズ, this volume focuses on a murder where the suspects are very quickly whittled down to just two friends of the deceased, and spends most of its runtime providing clues to help the reader answer the titular question. The book itself does not actually reveal the answer to the very end, which may be offputting to some readers, however I personally don't have a problem with that. The hook of this one was interesting enough to get me to read through in a few days, however it took me a little while longer away from the book to figure out which of the suspects was actually the murderer. Recommended if you're the type that enjoys trying to figure out the mystery before the reveal hits, otherwise this may be less in your wheelhouse.
 
-<div class="review-header">
+<div class="review-header" id="nanimono-review">
   <div class="review-header-left">
     <h3 class="review-title">何者</h3>
     <span class="review-subtitle">朝井リョウ、新潮文庫 - (<a href="https://bookmeter.com/books/9763365">Bookmeter</a>)</span>
@@ -832,7 +838,7 @@ Embarassingly, I picked this up thinking it was a novel looking back at the Paci
 
 One of the podcasts which I'm a huge fan of, ゆる言語学ラジオ, put this out as a pseudo-novelised form of their format, taking the form of a discussion between the two hosts on various interesting tidbits on languages and linguistics in general. If you've never heard of this podcast and aren't the type to listen to podcasts, I'd definitely recommend checking this book out. However, as an existing listener, this touches on topics that have essentially all been covered within previous episodes (and in my opinion in a more enjoyable format), so there wasn't much additional value left for me.
 
-<div class="review-header">
+<div class="review-header" id="hakobune-review">
   <div class="review-header-left">
     <h3 class="review-title">方舟</h3>
     <span class="review-subtitle">夕木春央、講談社文庫 - (<a href="https://bookmeter.com/books/22032679">Bookmeter</a>)</span>
@@ -1038,6 +1044,94 @@ My final book of the year, and one that took me quite a while to finish due to e
 
 ## Visual Media of 2024
 
+Unfortunately, unlike previous years, this section is going to be almost entirely a footnote. I watched barely any visual media in 2024, only viewing a single anime series that I can remember at any point throughout the year.
+
+That isn't to say I watched no content in Japanese -- in fact, quite the opposite. My YouTube watch time went through the roof this year as I found several channels that I really enjoy watching, however traditional media content has as a result taken a back seat.
+
+I'm not going to give a bottom or top here since there aren't even enough entries to fill those spots, but I'll give a list of the shows that I either touched or watched through. There are probably some entries missing here, since I did a very bad job at tracking my watch history this year (maybe in part due to feeling not like study and more like leisure).
+
+- [小市民シリーズ](https://myanimelist.net/anime/57810/Shoushimin_Series)
+- [虚構推理](https://myanimelist.net/anime/39017/Kyokou_Suiri)
+- [すべてがFになる THE PERFECT INSIDER](https://myanimelist.net/anime/28621/Subete_ga_F_ni_Naru)
+
 ## Games of 2024
 
+Similar to my visual media consumption, this year my game consumption decreased significantly. Slightly ironic considering that I've started work in the game industry now, but that's how the cookie crumbles when losing access to a computer with a decent graphics card for most of the year.
+
+With that being said, I will give a top three for this year since I did play enough to actually constitute a list. Similar to prior years, these aren't necessarily games which came out in the year 2024, simply titles I actually managed to get around to playing this year. All of my games this year were played on native hardware, so no ports or emulators.
+
+<table class="podium-table">
+<tr>
+<!-- Third place. -->
+<td style="text-align: center; padding-top: 4em">
+  <p>#3</p>
+  <img src="/img/posts/2024-retro/mariojamboree.jpg" style="height:200px;width:auto" />
+  <p style="line-height:1.1em;">
+    <b>スーパーマリオパーティ<br/>ジャンボリー</b>
+    <br>
+    <span style="font-size: 0.7em; color: #AAAAAA">任天堂</span>
+  </p>
+</td>
+
+<!-- First place. -->
+<td style="text-align: center">
+  <p style="font-size: 1.25em">♛</p>
+  <img src="/img/posts/2024-retro/famikontantei.jpg" style="height:200px;width:auto" />
+  <p style="line-height:1.1em;">
+    <b>ファミコン探偵倶楽部 笑み男</b>
+    <br>
+    <span style="font-size: 0.7em; color: #AAAAAA">MAGES、任天堂企画制作本部</span>
+  </p>
+</td>
+
+<!-- Second place. -->
+<td style="text-align: center; padding-top: 4em">
+  <p>#2</p>
+  <img src="/img/posts/2024-retro/daigyakuten.jpg" style="height:200px;width:auto" />
+  <p style="line-height:1.1em;">
+    <b>大逆転裁判 成歩堂龍ノ介</b>
+    <br>
+    <span style="font-size: 0.7em; color: #AAAAAA">SQUARE ENIX</span>
+  </p>
+</td>
+
+</tr>
+</table>
+
+In first place, a game I was very much looking forward to playing since its announcement, **ファミコン探偵倶楽部 笑み男**. As a self-professed enjoyer of mystery content, this was a godsend for a series which hadn't seen action in a ridiculous amount of time (slightly evident from the name), and I went into this one with fairly high expectations, particularly given the developer. Thankfully, *笑み男* did not disappoint. This is (again) one of those titles where the less you know before playing, the better. If you're a fan of mystery-based visual novels I would definitely give this one a try, perhaps after playing through the remaster of the first game (also available on Switch) for some context for the series.
+
+Coming in second, a game which I had failed to get round to until importing my Japanese New 3DS LL, **大逆転裁判 成歩堂龍ノ介**. Set in a completely different time period to the rest of the games, this felt like a breath of fresh air in the series, which had for the past few entries been exploring ideas in a modern setting (save for branching out into more religion and faith oriented themes). It also features, in my opinion, better character writing and more funny and genuinely interesting one-off characters than the past few 逆転裁判 games I played through, which greatly increased my enjoyment with the game. Definitely would recommend if you've played through any of the other games in the series and enjoyed it.
+
+Finally, in the third spot, one perhaps which does not look too similar to any of the others on this list, but one I enjoyed thoroughly nonetheless: **スーパーマリオパーティジャンボリー**. From a pure "stupid fun" perspective, this マリオパーティ in particular has been a hit for me. Prior to this, I'd only ever played the games through friends, and was surprised with how much fun I had with the core gamemode simply sitting through and playing on my own time (in two player mode, mind).
+
+Finally, here's a list of some of the games I played and remembered from this year. This will be an incomplete list since, again, I did a pretty terrible job at tracking what I was consuming outside of written media.
+
+- スーパーマリオパーティジャンボリー (NSW)
+- ファミコン探偵倶楽部 笑み男 (NSW)
+- 大逆転裁判 成歩堂龍ノ介 (3DS)
+- LOST JUDGMENT：裁かれざる記憶 (PC)
+- Longvinter (PC)
+- STEINS;GATE (Incomplete, PC)
+- 地球防衛軍５ (Incomplete, PC)
+- プレートアップ！ (PC)
+- Gigantic: Rampage Edition (PC)
+- Deep Rock Galactic (PC)
+- AI:ソムニウムファイル (Incomplete, PC)
+- Bomb Rush Cyberfunk (PC)
+
 ## Conclusion & Goals
+
+With that all out of the way, that marks the end of my brief look back on the past 365 days of immersion! This year felt like a bit of a step back in terms of variety, however I still managed to achieve all but one of my 新年抱負, which I'll take as a win given the reduction in time I've had available over the past year.
+
+And, in keeping with last year’s review post, I’ll state my end goals for the next 365 days of my journey with Japanese, and some things I’d like to achieve along the way before this time rolls around again next year. Last year's goals were set out with the expectation of additional time restrictions, which allowed me to set more realistic targets. This year, I'd like to try and shift my immersion toward more variety than simply novels, while keeping my time expectations in check.
+
+So, with that said, next year, I will --
+
+- Read at least **52** books. One book per week seems like a reasonable pace for me to achieve while consuming other media, and my main source of enjoyment for Japanese consumption comes from novels, so I'd like to continue that into the new year.
+- Watch at least **25** pieces of visual media. I've missed being more into anime, so perhaps I'll start watching some new series again this year.
+- Play at least **10** singleplayer games. Specifying specifically singleplayer here to avoid cheesing this one, and it's something I want to get back into more even outside of Japanese immersion.
+- Finally do some substantial **creative writing** in Japanese. This was the singular goal from last year that I didn't achieve, and one I am determined to smash through this time round.
+
+Last year, I stated that I was happy to have reached a place where I was no longer immersing with the goal of learning specific content or passing an exam, and could simply immerse "for fun". This year, I want to broaden what I'm able to enjoy with that understanding, and get back into the variety that I have been slowly losing over the course of 2023 and 2024.
+
+As always, a very happy new year to you all, and I wish everyone else luck with their new round of 新年抱負. 🎉
