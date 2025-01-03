@@ -1,14 +1,162 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>c272</title><link>http://c272.org/</link><description>Recent content on c272</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><copyright>(c) c272, All rights reserved.</copyright><lastBuildDate>Sun, 31 Dec 2023 15:57:00 +0000</lastBuildDate><atom:link href="http://c272.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Year in Review: 2023</title><link>http://c272.org/blog/language/year-in-review-2023/</link><pubDate>Sun, 31 Dec 2023 15:57:00 +0000</pubDate><guid>http://c272.org/blog/language/year-in-review-2023/</guid><description>This year has been an unexpected one in many aspects, especially in terms of my Japanese immersion. After previously having such a packed year in 2022 with a boatload of memorable milestones, this year feels much like a calm after the storm, continuing steadily and diving deeper into personal preferences and hobbies, rather than focusing on exam study or aiming toward any specific goal. That isn&amp;rsquo;t to say this year was without note, though - I officially passed the JLPT N1 with a score of 156/180 (with a perfect reading section!</description></item><item><title>Google's Proposal to Close the Gates of an Open Web - WEI</title><link>http://c272.org/blog/code/google-proposal-wei/</link><pubDate>Sat, 22 Jul 2023 00:40:00 +0000</pubDate><guid>http://c272.org/blog/code/google-proposal-wei/</guid><description>A new API proposal being prototyped within Chromium, and the brainchild of a team comprised solely of Google engineers, has become a topic of heated conversation recently - Web Environment Integrity. This proposal has actually been public on GitHub from as far back as late April, however has gained the attention (and ire) of much of the larger developer community and users alike due to its highly polarising end goal and far-reaching implications if implemented across web services and devices.</description></item><item><title>The Great Blog Migration</title><link>http://c272.org/blog/code/the-great-blog-migration/</link><pubDate>Wed, 21 Jun 2023 18:31:15 +0100</pubDate><guid>http://c272.org/blog/code/the-great-blog-migration/</guid><description>Hello! If you&amp;rsquo;re viewing this site after 21st June, 2023, you may notice that the design of this site has changed. In fact, if you&amp;rsquo;re viewing any of my blogs, you may notice that they have all changed, be it my programming blog, Gengo! 言語 or 脇道の看板. To explain why this all happened in the first place, I&amp;rsquo;ll present a little bit of backstory.
-The Backstory I&amp;rsquo;ve run several different blogs for several different purposes for quite a number of years.</description></item><item><title>冒険の糸口！</title><link>http://c272.org/blog/jp/%E5%86%92%E9%99%BA%E3%81%AE%E7%B3%B8%E5%8F%A3/</link><pubDate>Mon, 24 Apr 2023 20:41:31 +0100</pubDate><guid>http://c272.org/blog/jp/%E5%86%92%E9%99%BA%E3%81%AE%E7%B3%B8%E5%8F%A3/</guid><description>脇道の看板へようこそ！将来にここで沢山の小さい記事を書きたいと考えていますので、これはその当初の印として残しておきたいです。日本語での話し方とか、散文の書き方といったことに全然詳しくありませんので、変な構文になったらどうか許してください。
-それとともに、ここでは大体丁寧の言い方を保持しようとします。インターネット上の日本語では出来る限り丁寧の言い方を使うことにしていますが、それは明白に伝わっているでしょうか？ :)
-このサイトの他にもっとカジュアルなブログも幾つか書いていますので、英語が読める方（もしくは英語学習を少ししたい方）にはおすすめです。以下に書いておりますので、気が向いたら是非辿って見てください 1。
-c272 (英語)： (link)
-言語！（英語）： (link)
-では、また今度！
-（2023/6) 幾つかの個人サイトを統合している内に、「他のサイト」へのリンクを訂正しました。&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description></item><item><title>Year in Review: 2022</title><link>http://c272.org/blog/language/year-in-review-2022/</link><pubDate>Sat, 31 Dec 2022 19:30:29 +0000</pubDate><guid>http://c272.org/blog/language/year-in-review-2022/</guid><description>This year has been a very interesting (and productive!) year in terms of my Japanese learning, and certainly not one with a moment to spare. I progressed from being halfway through TOBIRA in January and finally reading my first Japanese novel, to in December having taken the JLPT N1 and reaching my goal of reading 52 novels this calendar year.
-Here I&amp;rsquo;ll take the opportunity to look back over all of the content I consumed this year, and hopefully talk about some of both the standouts and letdowns.</description></item><item><title>1½ Years of Learning - A Retrospective</title><link>http://c272.org/blog/language/1-5-years-of-learning-a-retrospective/</link><pubDate>Wed, 16 Feb 2022 19:49:51 +0000</pubDate><guid>http://c272.org/blog/language/1-5-years-of-learning-a-retrospective/</guid><description>注：This article took almost a whole month to finish, so the statistics here may represent an extra month of data due to my tardiness. During the writing of this article, the UK JLPT exams have also been un-cancelled for this year (yay!). As I write this, I have just started studying using Shinkanzen Master N1 (新完全マスターN1), after having finished the N2 series (and learning that the JLPT exams in the UK are cancelled this year - again!</description></item><item><title>Postprocessing in SadConsole</title><link>http://c272.org/blog/code/postprocessing-in-sadconsole/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>http://c272.org/blog/code/postprocessing-in-sadconsole/</guid><description>This was originally an article I wrote for the SadConsole wiki in 2019, which I have moved over to this blog. You can find (and use) SadConsole here. Sometimes you may want to apply a shader or graphical effect to your game when drawing, which this article will explain how to do.
-To apply a post processing effect to the screen, you can override SadConsole&amp;rsquo;s default drawing functionality, and then apply your own custom draw commands.</description></item><item><title>To Clip, or Not To Clip</title><link>http://c272.org/blog/code/to-clip-or-not-to-clip/</link><pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate><guid>http://c272.org/blog/code/to-clip-or-not-to-clip/</guid><description>We all have the same issue; Should I clip all my props? Won’t it make players annoyed and cause frustration when something that looks like it should be wallbang enabled/walkable is not?
-The answer to the first: Yes. The answer to the second: Yes.
-There’s a compromise to be made here, one that a lot of mappers struggle to find a balance between. For a great example, look at Valve’s maps, especially fine polished ones such as Dust2.</description></item><item><title>8 Bools in a Byte</title><link>http://c272.org/blog/code/eight-bools-in-a-byte/</link><pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate><guid>http://c272.org/blog/code/eight-bools-in-a-byte/</guid><description>Storing booleans is an odd topic for the programming world, specifcally for storage. Typically, the smallest addressable chunk of memory is a byte, or 8 bits. The boolean type, having two states, requires just a single bit. This causes the following dilemma: If I want to store 8 bools, why am I using 8 bytes? That’s 64 bits, 56 more than I actually need to store that amount.
-//What a waste of storage!</description></item><item><title>The Little Man Computer</title><link>http://c272.org/blog/code/the-little-man-computer/</link><pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate><guid>http://c272.org/blog/code/the-little-man-computer/</guid><description>Over the past couple of months, apart from writing my book, “You Suck at Programming” 1, I’ve been working on an emulator/interpreter for the famous computer simulation “Little Man Computer&amp;quot;, by Peter Higginson. It was created many years ago to help students learn about how the CPU and memory worked and interacted with each other, and was a great way for me to try and understand some lower level emulation, as it has an instruction set consisting of just nine operations.</description></item><item><title>Steam Inventories in NodeJS</title><link>http://c272.org/blog/code/steam-inventories-in-node/</link><pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate><guid>http://c272.org/blog/code/steam-inventories-in-node/</guid><description>Warning: This article was written in 2018, when the Steam API for inventory management was different. The information here may now be outdated or incorrect. In NodeJS, the closest you’ll get to indexing is using a dictionary with keys as the name of the object, and data as the contents. This is what Dr. McKay employed when he created node-steamcommunity, and is used in the function that allows you to grab the available inventories of a user, called getUserInventoryContents().</description></item><item><title>About</title><link>http://c272.org/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://c272.org/about/</guid><description>About If this is your first time here, welcome to my site! I&amp;rsquo;m a software engineer from the UK who&amp;rsquo;s currently studying towards an MSci in Software Engineering, while pursuing a myriad of personal projects and language learning goals.
-On this site, I post about various different fields which pique my interest, including programming-related topics (mostly compiler architecture &amp;amp; real-time rendering), language learning and Japanese. If you&amp;rsquo;re interested in my current career situation, check out the landing page of this site.</description></item><item><title>日本語版</title><link>http://c272.org/jp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://c272.org/jp/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>c272</title><link>http://c272.org/</link><description>Recent content on c272</description><generator>Hugo</generator><language>en-uk</language><copyright>(c) c272, All rights reserved.</copyright><lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://c272.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Year in Review: 2024</title><link>http://c272.org/blog/language/year-in-review-2024/</link><pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate><guid>http://c272.org/blog/language/year-in-review-2024/</guid><description>&lt;!-- Styling for this post. -->
+&lt;style>
+
+/* Table styling. */
+.podium-table {
+ border: none;
+ background-color: inherit;
+ box-shadow: none;
+ margin-top: -3em;
+ padding-top: 0;
+}
+
+.podium-table table, tr, td {
+ border: none !important;
+}
+
+.podium-table tr td img {
+ margin-top: 0 !important;
+ margin-bottom: 0 !important;
+}
+
+/* Review styling. */
+.review-header-left {
+ float: left;
+ width: 75%;
+}
+
+.review-header-right {
+ float: right;
+ padding-left: auto;
+}
+
+/* Clear floats after the columns */
+.review-header:after {
+ content: "";
+ display: table;
+ clear: both;
+}
+
+.review-title {
+ margin-bottom: 0;
+ padding-bottom: 0;
+}
+
+.review-subtitle {
+ color: #AAAAAA; 
+ margin-top:0
+}
+
+.review-subtitle a {
+ color: #AAAAAA !important; 
+}
+
+.review-stars {
+ margin-top: 0.5em;
+ font-size: 1.25em;
+ margin-bottom: 0;
+}
+
+&lt;/style>
+&lt;p>This year has been one unlike any other in many ways, which has reflected quite heavily in my Japanese immersion. Following my decision last year to take the plunge and move to Japan, along with a career switch to the game industry (if you can call anything I was doing prior a career), I finally managed to move this year and have begun living and working here full-time. With all the chaos of moving countries and getting set up in a new job, I&amp;rsquo;ve tried my best to keep my Japanese immersion consistent and at a decent pace in line with prior years, however as I think you&amp;rsquo;ll see in the stats my content consumption has leaned heavily in one single direction - books.&lt;/p></description></item><item><title>Year in Review: 2023</title><link>http://c272.org/blog/language/year-in-review-2023/</link><pubDate>Sun, 31 Dec 2023 15:57:00 +0000</pubDate><guid>http://c272.org/blog/language/year-in-review-2023/</guid><description>&lt;!-- Styling for this post. -->
+&lt;style>
+
+/* Table styling. */
+.podium-table {
+ border: none;
+ background-color: inherit;
+ box-shadow: none;
+ margin-top: -3em;
+ padding-top: 0;
+}
+
+.podium-table table, tr, td {
+ border: none !important;
+}
+
+.podium-table tr td img {
+ margin-top: 0 !important;
+ margin-bottom: 0 !important;
+}
+
+/* Review styling. */
+.review-header-left {
+ float: left;
+ width: 75%;
+}
+
+.review-header-right {
+ float: right;
+ padding-left: auto;
+}
+
+/* Clear floats after the columns */
+.review-header:after {
+ content: "";
+ display: table;
+ clear: both;
+}
+
+.review-title {
+ margin-bottom: 0;
+ padding-bottom: 0;
+}
+
+.review-subtitle {
+ color: #AAAAAA; 
+ margin-top:0
+}
+
+.review-subtitle a {
+ color: #AAAAAA !important; 
+}
+
+.review-stars {
+ margin-top: 0.5em;
+ font-size: 1.25em;
+ margin-bottom: 0;
+}
+
+&lt;/style>
+&lt;p>This year has been an unexpected one in many aspects, especially in terms of my Japanese immersion. After previously having such a packed year in 2022 with a boatload of memorable milestones, this year feels much like a calm after the storm, continuing steadily and diving deeper into personal preferences and hobbies, rather than focusing on exam study or aiming toward any specific goal. That isn&amp;rsquo;t to say this year was without note, though - I officially passed the JLPT N1 with a score of 156/180 (with a perfect reading section!), and ran through the whole 就活 gauntlet to receive a job offer, and made plans to move to Japan late next year.&lt;/p></description></item><item><title>Google's Proposal to Close the Gates of an Open Web - WEI</title><link>http://c272.org/blog/code/google-proposal-wei/</link><pubDate>Sat, 22 Jul 2023 00:40:00 +0000</pubDate><guid>http://c272.org/blog/code/google-proposal-wei/</guid><description>&lt;p>A new API proposal being prototyped within Chromium, and the brainchild of a team comprised solely of Google engineers, has become a topic of heated conversation recently - Web Environment Integrity. This proposal has actually been public on GitHub from &lt;a href="https://github.com/RupertBenWiser/Web-Environment-Integrity">as far back as late April&lt;/a>, however has gained the attention (and ire) of much of the larger developer community and users alike due to its highly polarising end goal and far-reaching implications if implemented across web services and devices.&lt;/p></description></item><item><title>The Great Blog Migration</title><link>http://c272.org/blog/code/the-great-blog-migration/</link><pubDate>Wed, 21 Jun 2023 18:31:15 +0100</pubDate><guid>http://c272.org/blog/code/the-great-blog-migration/</guid><description>&lt;p>Hello! If you&amp;rsquo;re viewing this site after 21st June, 2023, you may notice that the design of this site has changed. In fact, if you&amp;rsquo;re viewing any of my blogs, you may notice that they have &lt;strong>all&lt;/strong> changed, be it my programming blog, &lt;em>Gengo! 言語&lt;/em> or &lt;em>脇道の看板&lt;/em>. To explain why this all happened in the first place, I&amp;rsquo;ll present a little bit of backstory.&lt;/p>
+&lt;h2 id="the-backstory">The Backstory&lt;/h2>
+&lt;p>I&amp;rsquo;ve run several different blogs for several different purposes for quite a number of years. First came my programming blog, which has always been on the apex domain of the site you&amp;rsquo;re currently on, &lt;a href="http://c272.org/">c272.org&lt;/a>. From 2016 onwards, I continued to (infrequently) update the site and its design up until late 2018, adding posts about various programming projects I was working on at the time, and creating a fair few cringeworthy articles, which have thankfully been lost to time.&lt;/p></description></item><item><title>冒険の糸口！</title><link>http://c272.org/blog/jp/%E5%86%92%E9%99%BA%E3%81%AE%E7%B3%B8%E5%8F%A3/</link><pubDate>Mon, 24 Apr 2023 20:41:31 +0100</pubDate><guid>http://c272.org/blog/jp/%E5%86%92%E9%99%BA%E3%81%AE%E7%B3%B8%E5%8F%A3/</guid><description>&lt;p>脇道の看板へようこそ！将来にここで沢山の小さい記事を書きたいと考えていますので、これはその当初の印として残しておきたいです。日本語での話し方とか、散文の書き方といったことに全然詳しくありませんので、変な構文になったらどうか許してください。&lt;/p>
+&lt;p>それとともに、ここでは大体丁寧の言い方を保持しようとします。インターネット上の日本語では出来る限り丁寧の言い方を使うことにしていますが、それは明白に伝わっているでしょうか？ :)&lt;/p>
+&lt;p>このサイトの他にもっとカジュアルなブログも幾つか書いていますので、英語が読める方（もしくは英語学習を少ししたい方）にはおすすめです。以下に書いておりますので、気が向いたら是非辿って見てください &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>。&lt;/p>
+&lt;p>c272 (英語)： (&lt;a href="http://c272.org/blog/code">link&lt;/a>)&lt;br>
+言語！（英語）： (&lt;a href="http://c272.org/blog/language">link&lt;/a>)&lt;/p>
+&lt;p>では、また今度！&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>（2023/6) 幾つかの個人サイトを統合している内に、「他のサイト」へのリンクを訂正しました。&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Year in Review: 2022</title><link>http://c272.org/blog/language/year-in-review-2022/</link><pubDate>Sat, 31 Dec 2022 19:30:29 +0000</pubDate><guid>http://c272.org/blog/language/year-in-review-2022/</guid><description>&lt;p>This year has been a very interesting (and productive!) year in terms of my Japanese learning, and certainly not one with a moment to spare. I progressed from being halfway through TOBIRA in January and finally reading my first Japanese novel, to in December having taken the JLPT N1 and reaching my goal of reading 52 novels this calendar year.&lt;/p>
+&lt;p>Here I&amp;rsquo;ll take the opportunity to look back over all of the content I consumed this year, and hopefully talk about some of both the standouts and letdowns. I&amp;rsquo;ll also present a portion of the interesting reading and immersion data I collected on myself this year, which should give you an idea of roughly how my time was split up, and in what (unfortunately embarassing) areas I invested far too much time into. Before this though, a quick, mostly complete overview of everything that I consumed this year.&lt;/p></description></item><item><title>1½ Years of Learning - A Retrospective</title><link>http://c272.org/blog/language/1-5-years-of-learning-a-retrospective/</link><pubDate>Wed, 16 Feb 2022 19:49:51 +0000</pubDate><guid>http://c272.org/blog/language/1-5-years-of-learning-a-retrospective/</guid><description>&lt;div class="notice">
+ &lt;em>注：This article took almost a whole month to finish, so the statistics here may represent an extra month of data due to my tardiness. During the writing of this article, the UK JLPT exams have also been un-cancelled for this year (yay!).&lt;/em>
+&lt;/div>
+&lt;p>As I write this, I have just started studying using Shinkanzen Master N1 (新完全マスターN1), after having finished the N2 series (and learning that the JLPT exams in the UK are cancelled this year - again!), and was reminded as I went to buy my new textbooks that it has been just under a year and a half since I ordered my copy of Genki 1, and just about one and a half years since I began considering studying Japanese at all. With this in mind, I thought it might be a good time to reflect on what I&amp;rsquo;ve learnt so far, what resources I&amp;rsquo;ve used, things I enjoyed, and what I would do differently if I could start again from scratch. There have been a million posts on this subject before me, and there will probably be millions after, so take this as one experience and opinion in a sea of many (probably more qualified) opinions!&lt;/p></description></item><item><title>Postprocessing in SadConsole</title><link>http://c272.org/blog/code/postprocessing-in-sadconsole/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>http://c272.org/blog/code/postprocessing-in-sadconsole/</guid><description>&lt;div class="notice">
+ This was originally an article I wrote for the SadConsole wiki in 2019, which I have moved over to this blog. You can find (and use) SadConsole &lt;a href="https://github.com/Thraka/SadConsole">here.&lt;/a>
+&lt;/div>
+&lt;p>Sometimes you may want to apply a shader or graphical effect to your game when drawing, which this article will explain how to do.&lt;/p>
+&lt;p>To apply a post processing effect to the screen, you can override SadConsole&amp;rsquo;s default drawing functionality, and then apply your own custom draw commands.&lt;/p></description></item><item><title>To Clip, or Not To Clip</title><link>http://c272.org/blog/code/to-clip-or-not-to-clip/</link><pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate><guid>http://c272.org/blog/code/to-clip-or-not-to-clip/</guid><description>&lt;p>We all have the same issue; Should I clip all my props? Won’t it make players annoyed and cause frustration when something that looks like it should be wallbang enabled/walkable is not?&lt;/p>
+&lt;p>The answer to the first: Yes.
+The answer to the second: Yes.&lt;/p>
+&lt;p>There’s a compromise to be made here, one that a lot of mappers struggle to find a balance between. For a great example, look at Valve’s maps, especially fine polished ones such as Dust2. These take a more balanced approach to clipping, as well as employing some clever techniques to make the clipping as smooth and unnoticeable for the player as possible, such as at the stairs leading to B as seen in the cover image of this post.&lt;/p></description></item><item><title>8 Bools in a Byte</title><link>http://c272.org/blog/code/eight-bools-in-a-byte/</link><pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate><guid>http://c272.org/blog/code/eight-bools-in-a-byte/</guid><description>&lt;p>Storing booleans is an odd topic for the programming world, specifcally for storage. Typically, the smallest addressable chunk of memory is a byte, or 8 bits. The boolean type, having two states, requires just a single bit. This causes the following dilemma: If I want to store 8 bools, why am I using 8 bytes? That’s 64 bits, 56 more than I actually need to store that amount.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl">&lt;span class="c1">//What a waste of storage!
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="kt">bool&lt;/span> &lt;span class="n">option1&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">true&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kt">bool&lt;/span> &lt;span class="n">option2&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">true&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kt">bool&lt;/span> &lt;span class="n">option3&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">true&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kt">bool&lt;/span> &lt;span class="n">option4&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">true&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kt">bool&lt;/span> &lt;span class="n">option5&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">true&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kt">bool&lt;/span> &lt;span class="n">option6&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">true&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kt">bool&lt;/span> &lt;span class="n">option7&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">true&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kt">bool&lt;/span> &lt;span class="n">option8&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">true&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>C++, thankfully, has a way to fix this issue. Namely, through using 1 byte, with each individual bit in said byte being a boolean on it’s own. There are two methods to do this, one being much easier than the other, but I’ll explain both so that it becomes obvious what’s happening.&lt;/p></description></item><item><title>The Little Man Computer</title><link>http://c272.org/blog/code/the-little-man-computer/</link><pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate><guid>http://c272.org/blog/code/the-little-man-computer/</guid><description>&lt;p>Over the past couple of months, apart from writing my book, “You Suck at Programming” &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>, I’ve been working on an emulator/interpreter for the famous computer simulation “Little Man Computer&amp;quot;, by Peter Higginson. It was created many years ago to help students learn about how the CPU and memory worked and interacted with each other, and was a great way for me to try and understand some lower level emulation, as it has an instruction set consisting of just nine operations. These operations are:&lt;/p></description></item><item><title>Steam Inventories in NodeJS</title><link>http://c272.org/blog/code/steam-inventories-in-node/</link><pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate><guid>http://c272.org/blog/code/steam-inventories-in-node/</guid><description>&lt;div class="notice-alert">
+ Warning: This article was written in 2018, when the Steam API for inventory management was different. The information here may now be outdated or incorrect.
+&lt;/div>
+&lt;p>In NodeJS, the closest you’ll get to indexing is using a dictionary with keys as the name of the object, and data as the contents. This is what Dr. McKay employed when he created node-steamcommunity, and is used in the function that allows you to grab the available inventories of a user, called &lt;strong>getUserInventoryContents()&lt;/strong>.&lt;/p></description></item><item><title>About</title><link>http://c272.org/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://c272.org/about/</guid><description>&lt;h1 id="about">About&lt;/h1>
+&lt;p>If this is your first time here, welcome to my site! I&amp;rsquo;m a software engineer from the UK who&amp;rsquo;s currently working in the game industry in Japan as an engine and tooling developer, while pursuing a variety of personal projects and language learning goals.&lt;/p>
+&lt;p>On this site, I post about various different fields which pique my interest, including programming-related topics (mostly compiler architecture, game engine architecture &amp;amp; real-time rendering), language learning and Japanese. If you&amp;rsquo;re interested in my current career situation, check out this blog&amp;rsquo;s &lt;a href="http://c272.org/">landing page&lt;/a>. I&amp;rsquo;m not currently publishing my current place of work on this site for privacy reasons, however a full CV is available at request.&lt;/p></description></item><item><title>日本語版</title><link>http://c272.org/jp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://c272.org/jp/</guid><description/></item></channel></rss>

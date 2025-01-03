@@ -1,2 +1,122 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reading on c272</title><link>http://c272.org/tags/reading/</link><description>Recent content in Reading on c272</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><copyright>(c) c272, All rights reserved.</copyright><lastBuildDate>Sun, 31 Dec 2023 15:57:00 +0000</lastBuildDate><atom:link href="http://c272.org/tags/reading/index.xml" rel="self" type="application/rss+xml"/><item><title>Year in Review: 2023</title><link>http://c272.org/blog/language/year-in-review-2023/</link><pubDate>Sun, 31 Dec 2023 15:57:00 +0000</pubDate><guid>http://c272.org/blog/language/year-in-review-2023/</guid><description>This year has been an unexpected one in many aspects, especially in terms of my Japanese immersion. After previously having such a packed year in 2022 with a boatload of memorable milestones, this year feels much like a calm after the storm, continuing steadily and diving deeper into personal preferences and hobbies, rather than focusing on exam study or aiming toward any specific goal. That isn&amp;rsquo;t to say this year was without note, though - I officially passed the JLPT N1 with a score of 156/180 (with a perfect reading section!</description></item><item><title>Year in Review: 2022</title><link>http://c272.org/blog/language/year-in-review-2022/</link><pubDate>Sat, 31 Dec 2022 19:30:29 +0000</pubDate><guid>http://c272.org/blog/language/year-in-review-2022/</guid><description>This year has been a very interesting (and productive!) year in terms of my Japanese learning, and certainly not one with a moment to spare. I progressed from being halfway through TOBIRA in January and finally reading my first Japanese novel, to in December having taken the JLPT N1 and reaching my goal of reading 52 novels this calendar year.
-Here I&amp;rsquo;ll take the opportunity to look back over all of the content I consumed this year, and hopefully talk about some of both the standouts and letdowns.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reading on c272</title><link>http://c272.org/tags/reading/</link><description>Recent content in Reading on c272</description><generator>Hugo</generator><language>en-uk</language><copyright>(c) c272, All rights reserved.</copyright><lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://c272.org/tags/reading/index.xml" rel="self" type="application/rss+xml"/><item><title>Year in Review: 2024</title><link>http://c272.org/blog/language/year-in-review-2024/</link><pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate><guid>http://c272.org/blog/language/year-in-review-2024/</guid><description>&lt;!-- Styling for this post. -->
+&lt;style>
+
+/* Table styling. */
+.podium-table {
+ border: none;
+ background-color: inherit;
+ box-shadow: none;
+ margin-top: -3em;
+ padding-top: 0;
+}
+
+.podium-table table, tr, td {
+ border: none !important;
+}
+
+.podium-table tr td img {
+ margin-top: 0 !important;
+ margin-bottom: 0 !important;
+}
+
+/* Review styling. */
+.review-header-left {
+ float: left;
+ width: 75%;
+}
+
+.review-header-right {
+ float: right;
+ padding-left: auto;
+}
+
+/* Clear floats after the columns */
+.review-header:after {
+ content: "";
+ display: table;
+ clear: both;
+}
+
+.review-title {
+ margin-bottom: 0;
+ padding-bottom: 0;
+}
+
+.review-subtitle {
+ color: #AAAAAA; 
+ margin-top:0
+}
+
+.review-subtitle a {
+ color: #AAAAAA !important; 
+}
+
+.review-stars {
+ margin-top: 0.5em;
+ font-size: 1.25em;
+ margin-bottom: 0;
+}
+
+&lt;/style>
+&lt;p>This year has been one unlike any other in many ways, which has reflected quite heavily in my Japanese immersion. Following my decision last year to take the plunge and move to Japan, along with a career switch to the game industry (if you can call anything I was doing prior a career), I finally managed to move this year and have begun living and working here full-time. With all the chaos of moving countries and getting set up in a new job, I&amp;rsquo;ve tried my best to keep my Japanese immersion consistent and at a decent pace in line with prior years, however as I think you&amp;rsquo;ll see in the stats my content consumption has leaned heavily in one single direction - books.&lt;/p></description></item><item><title>Year in Review: 2023</title><link>http://c272.org/blog/language/year-in-review-2023/</link><pubDate>Sun, 31 Dec 2023 15:57:00 +0000</pubDate><guid>http://c272.org/blog/language/year-in-review-2023/</guid><description>&lt;!-- Styling for this post. -->
+&lt;style>
+
+/* Table styling. */
+.podium-table {
+ border: none;
+ background-color: inherit;
+ box-shadow: none;
+ margin-top: -3em;
+ padding-top: 0;
+}
+
+.podium-table table, tr, td {
+ border: none !important;
+}
+
+.podium-table tr td img {
+ margin-top: 0 !important;
+ margin-bottom: 0 !important;
+}
+
+/* Review styling. */
+.review-header-left {
+ float: left;
+ width: 75%;
+}
+
+.review-header-right {
+ float: right;
+ padding-left: auto;
+}
+
+/* Clear floats after the columns */
+.review-header:after {
+ content: "";
+ display: table;
+ clear: both;
+}
+
+.review-title {
+ margin-bottom: 0;
+ padding-bottom: 0;
+}
+
+.review-subtitle {
+ color: #AAAAAA; 
+ margin-top:0
+}
+
+.review-subtitle a {
+ color: #AAAAAA !important; 
+}
+
+.review-stars {
+ margin-top: 0.5em;
+ font-size: 1.25em;
+ margin-bottom: 0;
+}
+
+&lt;/style>
+&lt;p>This year has been an unexpected one in many aspects, especially in terms of my Japanese immersion. After previously having such a packed year in 2022 with a boatload of memorable milestones, this year feels much like a calm after the storm, continuing steadily and diving deeper into personal preferences and hobbies, rather than focusing on exam study or aiming toward any specific goal. That isn&amp;rsquo;t to say this year was without note, though - I officially passed the JLPT N1 with a score of 156/180 (with a perfect reading section!), and ran through the whole 就活 gauntlet to receive a job offer, and made plans to move to Japan late next year.&lt;/p></description></item><item><title>Year in Review: 2022</title><link>http://c272.org/blog/language/year-in-review-2022/</link><pubDate>Sat, 31 Dec 2022 19:30:29 +0000</pubDate><guid>http://c272.org/blog/language/year-in-review-2022/</guid><description>&lt;p>This year has been a very interesting (and productive!) year in terms of my Japanese learning, and certainly not one with a moment to spare. I progressed from being halfway through TOBIRA in January and finally reading my first Japanese novel, to in December having taken the JLPT N1 and reaching my goal of reading 52 novels this calendar year.&lt;/p>
+&lt;p>Here I&amp;rsquo;ll take the opportunity to look back over all of the content I consumed this year, and hopefully talk about some of both the standouts and letdowns. I&amp;rsquo;ll also present a portion of the interesting reading and immersion data I collected on myself this year, which should give you an idea of roughly how my time was split up, and in what (unfortunately embarassing) areas I invested far too much time into. Before this though, a quick, mostly complete overview of everything that I consumed this year.&lt;/p></description></item></channel></rss>
