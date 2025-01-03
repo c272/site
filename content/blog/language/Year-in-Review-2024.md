@@ -1,6 +1,6 @@
 ---
 title: 'Year in Review: 2024'
-date: 2024-11-30 00:00:00
+date: 2024-12-31 00:00:00
 tags:
   - Immersion
   - Reading
