@@ -4,12 +4,12 @@ layout: page
 ---
 
 # About
-If this is your first time here, welcome to my site! I'm a software engineer from the UK who's currently studying towards an MSci in Software Engineering, while pursuing a myriad of personal projects and language learning goals.
+If this is your first time here, welcome to my site! I'm a software engineer from the UK who's currently working in the game industry in Japan as an engine and tooling developer, while pursuing a variety of personal projects and language learning goals.
 
-On this site, I post about various different fields which pique my interest, including programming-related topics (mostly compiler architecture & real-time rendering), language learning and Japanese. If you're interested in my current career situation, check out the [landing page](/) of this site.
+On this site, I post about various different fields which pique my interest, including programming-related topics (mostly compiler architecture, game engine architecture & real-time rendering), language learning and Japanese. If you're interested in my current career situation, check out this blog's [landing page](/). I'm not currently publishing my current place of work on this site for privacy reasons, however a full CV is available at request.
 
 ## Contact Details
-I keep a fairly open line if you wish to contact me, but I simply ask that you follow the chart below when doing so, as it makes it much easier for me to find and respond to your message.
+Feel free to shoot me a friendly email if you wish to contact me! If possible, please follow the chart below when doing so, as it makes it much easier for me to find and respond to your message.
 
 <style>
     .business-use-yes {
