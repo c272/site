@@ -1,0 +1,156 @@
+/* Font defines. */
+@import url("fonts.css");
+
+/* Tailwind. */
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@source "hugo_stats.json";
+
+/* Tailwind theme properties. */
+@theme {
+  /* Default serif font family. */
+  --font-serif: "CrimsonPro-Variable", "Noto Serif JP";
+  /* Foreground text color (light theme). */
+  --color-light-fore: #000000;
+  /* Background color (light theme). */
+  --color-light-back: #F7F7F7;
+  /* Secondary text color (light theme). */
+  --color-light-secondary: #777777;
+  /* Border color (light theme). */
+  --color-light-border: #AAAAAA;
+  /* Accent color (theme independent). */
+  --color-accent: #EE0000;
+  /* Hover accent color (theme independent). */
+  --color-accent-hover: #880000;
+  /* Font sizes, adjusted for easier reading (1.2x). */
+  --text-xs: 0.9rem;
+  --text-sm: 1.05rem;
+  --text-base: 1.2rem;
+  --text-lg: 1.35rem;
+  --text-xl: 1.5rem;
+  --text-2xl: 1.8rem;
+  --text-3xl: 2.25rem;
+  --text-4xl: 2.7rem;
+  --text-5xl: 3.6rem;
+  --text-6xl: 4.5rem;
+  --text-7xl: 5.4rem;
+  --text-8xl: 7.2rem;
+  --text-9xl: 9.6rem;
+
+  /* Legacy variables. */
+  --bubble-color: #dedede
+}
+
+/* Base rules. */
+@layer base {
+  body {
+    @apply bg-light-back text-light-fore font-serif text-base
+  }
+  a {
+    @apply text-accent underline hover:text-accent-hover;
+  }
+  p {
+    @apply mb-4
+  }
+  h1 {
+    @apply text-4xl font-semibold mt-8 mb-4
+  }
+  h2 {
+    @apply text-3xl font-semibold mt-8 mb-4
+  }
+  h3 {
+    @apply text-2xl font-semibold mt-4 mb-4
+  }
+  h4 {
+    @apply text-xl font-semibold mb-4
+  }
+  blockquote {
+    @apply text-light-secondary pl-5 mb-4 border-l-4 border-light-border
+  }
+  ul {
+    @apply list-disc ml-8 mb-4
+  }
+  table {
+    @apply border-collapse border border-light-border mb-4
+  }
+  tr {
+    @apply border border-light-border
+  }
+  th {
+    @apply border border-light-border px-2 py-1
+  }
+  td {
+    @apply border border-light-border px-2 py-1
+  }
+  hr {
+    @apply text-light-secondary
+  }
+}
+
+/** Legacy CSS holdovers, ported as components. **/
+@layer components {
+  .chat-bubble-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+
+  .chat-avatar {
+    width: 5em;
+    height: 5em;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .chat-avatar-left {
+    margin-left: 0;
+    margin-right: 1em;
+  }
+
+  .chat-avatar-right {
+    margin-left: 1em;
+    margin-right: 0em;
+  }
+
+  .chat-bubble {
+  	position: relative;
+  	background: var(--bubble-color);
+  	border-radius: .4em;
+    padding: 1em;
+    max-width: calc(100% - 2 * (5em + 1em));
+  }
+
+  .chat-bubble-left:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 0;
+    height: 0;
+    border: 20px solid transparent;
+    border-right-color: var(--bubble-color);
+    border-left: 0;
+    margin-top: -20px;
+    margin-left: -20px;
+  }
+
+  .chat-bubble-right {
+    margin-left: auto;
+
+    &:after {
+      content: '';
+      position: absolute;
+      right: 0;
+      top: 50%;
+      width: 0;
+      height: 0;
+      border: 20px solid transparent;
+      border-left-color: var(--bubble-color);
+      border-right: 0;
+      margin-top: -20px;
+      margin-right: -20px;
+    }
+  }
+}

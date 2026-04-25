@@ -1,0 +1,25 @@
+{{ define "main" }}
+    <!-- Add default titles for term, taxonomy pages. -->
+    <h1>Posts Tagged "{{ .Data.Term }}"</h1>
+    <span>A comprehensive list of all posts tagged with the "{{ .Data.Term }}" tag.</span>
+    <span><br>To see a list of all tags, visit the <a href="{{ relURL "tags" }}">tags directory</a>.</span>
+
+    <!-- Add a top paginator. -->
+    <div class="paginator-top">
+        {{ partial "utils/paginator.html" . }}
+    </div>
+
+    <!-- Add all of the items within the list. -->
+    <div class="post-gallery">
+        <div class="post-gallery-list">
+            {{ range .Paginator.Pages }}
+                {{ .Render "li" }}
+            {{ end }}
+        </div>
+    </div>
+
+    <!-- Bottom paginator. -->
+    <div class="paginator-bottom">
+        {{ partial "utils/paginator.html" . }}
+    </div>
+{{ end }}

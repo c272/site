@@ -1,0 +1,24 @@
+{{ if (gt .Paginator.TotalPages 1) }}
+    <div class="paginator">
+        <!-- Optional top line divider. -->
+        <div class="h-line-primary paginator-line-top"></div>
+        <nav class="pagination">
+            <!-- Optional page info (hidden by default, enable with .paginator-show-title). -->
+            <div class="paginator-page-title">
+                <span><b>{{ .Title }}</b> <span class="page-indicator">(Page {{ .Paginator.PageNumber }})</span></span>
+            </div>
+
+            <!-- Show all pagers, including the current one. -->
+            {{ range .Paginator.Pagers }}
+                {{ if (eq $.Page.Paginator.PageNumber .PageNumber) }}
+                    <span class="page-number current">{{ .PageNumber }}</span>
+                {{ else }}
+                    <a class="page-number" href="{{ relURL .URL }}">{{ .PageNumber }}</a>
+                {{ end }}
+            {{ end }}
+        </nav>
+
+        <!-- Optional bottom line divider. -->
+        <div class="h-line-primary paginator-line-bottom"></div>
+    </div>
+{{ end }}

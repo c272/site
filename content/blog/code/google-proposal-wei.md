@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google's Proposal to Close the Gates of an Open Web - WEI"
+title: "Google's Proposal to Close the Gates of an Open Web"
 date: 2023-07-22 0:40:00
 tags:
   - Chromium

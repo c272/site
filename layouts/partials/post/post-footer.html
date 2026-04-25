@@ -1,0 +1,22 @@
+<div class="w-full">
+    <div class="mt-8 mb-4">
+      <hr />
+    </div>
+    <nav class="flex w-full">
+        <div>
+            {{ with .Prev }}
+            <div class="post-link">
+                <a href="{{ .RelPermalink }}">Previous</a>
+            </div>
+            {{ end }}
+        </div>
+        <div class="grow"></div>
+        <div class="">
+            {{ with .Next }}
+            <div class="post-link">
+                <a href="{{ .RelPermalink }}">Next</a>
+            </div>
+            {{ end }}
+        </div>
+    </nav>
+</div>

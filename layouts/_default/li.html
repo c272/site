@@ -1,0 +1,29 @@
+<div class="post-gallery-item">
+    <div class="post-info">
+        {{ if (and (isset .Params "tags") (gt (len .Params.tags) 0)) }}
+            <div class="tag-list">
+                {{ range .Params.tags }}
+                    <span class="post-tag">
+                        <a href="{{ relURL (printf "tags/%s" (. | urlize))}}">
+                            {{ . }}
+                        </a>
+                    </span>
+                {{ end }}
+            </div>
+        {{ end }}
+        <div class="post-title">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </div>
+        {{ with .PublishDate }}
+            <span class="post-date">
+                {{ .Format "Jan 2, 2006" }}
+            </span>
+        {{ end }}
+    </div>
+    <div class="post-img">
+        {{ with .Params.coverImage }}
+            <img src="{{ relURL . }}" alt="Cover image.">
+        {{ end }}
+    </div>
+</div>
+<div class="h-line-secondary"></div>

@@ -1,0 +1,17 @@
+<header>
+  <div class="flex flex-row w-full mb-10">
+    <div class="logo">
+    <a class="text-light-fore text-4xl no-underline font-bold" href="{{ .Site.BaseURL }}">
+      {{ .Site.Title }}
+    </a>
+    </div>
+    <div class="grow"></div>
+    <div class="flex flex-row gap-x-5 self-end">
+      {{ range .Site.Params.quickLinks }}
+        <a href="{{ relURL .relURL }}">
+          {{ .title }}
+        </a>
+      {{ end }}
+    </div>
+  </div>
+</header>
