@@ -10,12 +10,16 @@
 @theme {
   /* Default serif font family. */
   --font-serif: "CrimsonPro-Variable", "Noto Serif JP";
+  /* Default monospace font family. */
+  --font-mono: "Geist Mono";
   /* Foreground text color (light theme). */
   --color-light-fore: #000000;
   /* Background color (light theme). */
   --color-light-back: #F7F7F7;
   /* Secondary text color (light theme). */
   --color-light-secondary: #777777;
+  /* Tertiary color (light theme). */
+  --color-light-tertiary: #E7E7E7;
   /* Border color (light theme). */
   --color-light-border: #AAAAAA;
   /* Accent color (theme independent). */
@@ -44,7 +48,7 @@
 /* Base rules. */
 @layer base {
   body {
-    @apply bg-light-back text-light-fore font-serif text-base
+    @apply bg-light-back text-light-fore font-serif text-base selection:bg-accent/75 selection:text-light-back
   }
   a {
     @apply text-accent underline hover:text-accent-hover;
@@ -70,6 +74,9 @@
   ul {
     @apply list-disc ml-8 mb-4
   }
+  ol {
+    @apply list-decimal ml-8 mb-4
+  }
   table {
     @apply border-collapse border border-light-border mb-4
   }
@@ -85,10 +92,41 @@
   hr {
     @apply text-light-secondary
   }
+  sup {
+    @apply text-sm
+  }
+  pre {
+    @apply bg-light-tertiary mb-4 p-4 rounded-lg text-sm
+  }
+  code {
+    @apply text-sm
+  }
 }
 
-/** Legacy CSS holdovers, ported as components. **/
+/* Custom CSS classes, defined as components. */
 @layer components {
+  /* Element overrides for within post preview. */
+  .post-preview {
+    h1 { @apply text-2xl }
+    h2 { @apply text-2xl }
+    h3 { @apply text-xl }
+  }
+
+  /* Hugo footnote styling. */
+  .footnotes {
+    @apply pt-4
+  }
+  .footnotes {
+    hr { @apply mb-4 }
+    p { @apply text-light-secondary }
+    ol { @apply marker:text-light-secondary }
+  }
+
+  .footnote-backref {
+    @apply ml-1 text-sm
+  }
+
+  /* Legacy CSS holdovers. */
   .chat-bubble-container {
     display: flex;
     flex-direction: row;

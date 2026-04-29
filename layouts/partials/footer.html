@@ -8,6 +8,8 @@
       Proudly running on <a href="https://gohugo.io">Hugo</a> &
       {{ with .Site.Params.meta.hiddenHeartLink }}
       <a href="{{ . | safeURL }}">❤</a>. {{ else }} ❤. {{ end }}
+      <br/>
+      <a href="{{ relURL "/license" }}">license</a> / <a href="{{ relURL "/disclaimer" }}">disclaimer</a>
     </p>
   </div>
 </footer>

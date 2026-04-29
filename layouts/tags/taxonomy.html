@@ -1,8 +1,9 @@
 {{ define "main" }}
     <!-- Add default titles for term, taxonomy pages. -->
     <h1>Tags</h1>
-    <span>A comprehensive list of all tags used within the blogs of this site.</span>
+    <span>A comprehensive list of all tags used within the posts/notes on this site.</span>
     <span><br>To browse posts in date order, visit each blogs' <a href="{{ relURL "" }}">category page</a>.</span>
+    <div class="pb-8"></div>
 
     <!-- Add a top paginator. -->
     <div class="paginator-top">
@@ -19,10 +20,5 @@
                 <li class="tag-gallery-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
             {{ end }}
         </ul>
-    </div>
-
-    <!-- Bottom paginator. -->
-    <div class="paginator-bottom">
-        {{ partial "utils/paginator.html" . }}
     </div>
 {{ end }}

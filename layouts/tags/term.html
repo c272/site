@@ -1,8 +1,9 @@
 {{ define "main" }}
     <!-- Add default titles for term, taxonomy pages. -->
     <h1>Posts Tagged "{{ .Data.Term }}"</h1>
-    <span>A comprehensive list of all posts tagged with the "{{ .Data.Term }}" tag.</span>
+    <span>A comprehensive list of all posts/notes tagged with the "{{ .Data.Term }}" tag.</span>
     <span><br>To see a list of all tags, visit the <a href="{{ relURL "tags" }}">tags directory</a>.</span>
+    <div class="pb-8"></div>
 
     <!-- Add a top paginator. -->
     <div class="paginator-top">

@@ -33,6 +33,7 @@ With our prelude out of the way, onto the main event, the books!
   box-shadow: none;
   margin-top: -3em;
   padding-top: 0;
+  width: 100%;
 }
 
 .podium-table table, tr, td {
@@ -41,7 +42,13 @@ With our prelude out of the way, onto the main event, the books!
 
 .podium-table tr td img {
   margin-top: 0 !important;
-  margin-bottom: 0 !important;
+  margin-bottom: 0.5em !important;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.podium-table tr td p {
+  margin-bottom: 0.25em;
 }
 
 /* Review styling. */
@@ -110,7 +117,7 @@ With our prelude out of the way, onto the main event, the books!
 </td>
 
 <!-- Second place. -->
-<td style="text-align: center; padding-top: 4em">
+<td style="text-align: center; padding-top: 4em; max-width: 277px;">
   <p>#2</p>
   <img src="/img/posts/2022-retro/mataonajiyume.jpg" style="height:200px;width:auto" />
   <p style="line-height:1.1em;">

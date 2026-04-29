@@ -18,6 +18,7 @@ coverImage: /img/covers/yearinreview2024.jpg
   box-shadow: none;
   margin-top: -3em;
   padding-top: 0;
+  width: 100%;
 }
 
 .podium-table table, tr, td {
@@ -26,7 +27,13 @@ coverImage: /img/covers/yearinreview2024.jpg
 
 .podium-table tr td img {
   margin-top: 0 !important;
-  margin-bottom: 0 !important;
+  margin-bottom: 0.5em !important;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.podium-table tr td p {
+  margin-bottom: 0.25em;
 }
 
 /* Review styling. */

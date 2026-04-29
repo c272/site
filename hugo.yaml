@@ -30,6 +30,9 @@ markup:
       unsafe: true
   _merge: deep
 
+# Length of the summary:
+summaryLength: 180
+
 # Configurable site parameters.
 params:
   meta:
@@ -43,8 +46,10 @@ params:
   quickLinks:
     - title: posts
       relURL: /blog/code
+    - title: notes
+      relURL: /notes
     - title: now
-      relURL: /blog
+      relURL: /now
     - title: rss
       relURL: /index.xml
     - title: about
@@ -70,3 +75,4 @@ params:
     # The Google Fonts configuration to use.
     googleFonts:
       - family: "Noto Serif JP"
+      - family: "Geist Mono"
