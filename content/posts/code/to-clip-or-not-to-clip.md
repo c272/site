@@ -8,6 +8,7 @@ tags:
 description: >
   A collision dilemma, told through CS:GO.
 coverImage: /img/covers/csgo_smoothstairs.gif
+url: /blog/code/to-clip-or-not-to-clip/
 ---
 
 We all have the same issue; Should I clip all my props? Won’t it make players annoyed and cause frustration when something that looks like it should be wallbang enabled/walkable is not?

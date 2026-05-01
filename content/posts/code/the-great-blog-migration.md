@@ -5,6 +5,7 @@ tags:
   - Hugo
   - SASS
 coverImage: /img/covers/blog-migration.png
+url: /blog/code/the-great-blog-migration/
 ---
 
 Hello! If you're viewing this site after 21st June, 2023, you may notice that the design of this site has changed. In fact, if you're viewing any of my blogs, you may notice that they have **all** changed, be it my programming blog, *Gengo! 言語* or *脇道の看板*. To explain why this all happened in the first place, I'll present a little bit of backstory.

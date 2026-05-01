@@ -6,6 +6,7 @@ tags:
   - Textbooks
   - Study Methods
 coverImage: /img/covers/benkyou-zenshitudan.png
+url: /blog/language/1-5-years-of-learning-a-retrospective/
 ---
 {{<notice "" "*注：This article took almost a whole month to finish, so the statistics here may represent an extra month of data due to my tardiness. During the writing of this article, the UK JLPT exams have also been un-cancelled for this year (yay!).*">}}
 

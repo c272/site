@@ -1,11 +1,6 @@
 {{ define "main" }}
-<!-- Add a top paginator if this is a page 2+ list page. -->
-<!-- Otherwise, we show the section overview. -->
-{{ if (eq .Paginator.PageNumber 1) }} {{ .Content }} {{ else }}
-<div class="paginator-top paginator-show-title">
-    {{ partial "utils/paginator.html" . }}
-</div>
-{{ end }}
+<!-- If this is page 1, show the section overview. -->
+{{ if (eq .Paginator.PageNumber 1) }} {{ .Content }} {{ end }}
 
 <!-- Add all of the items within the list. -->
 <div class="post-gallery">

@@ -6,6 +6,7 @@ tags:
   - Reading
   - Retrospective
 coverImage: /img/covers/yearinreview2023.jpg
+url: /blog/language/year-in-review-2023/
 ---
 
 <!-- Styling for this post. -->
@@ -28,6 +29,7 @@ coverImage: /img/covers/yearinreview2023.jpg
 .podium-table tr td img {
   margin-top: 0 !important;
   margin-bottom: 0.5em !important;
+  padding: 0 !important;
   margin-right: auto;
   margin-left: auto;
 }

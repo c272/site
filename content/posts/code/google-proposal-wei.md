@@ -9,6 +9,7 @@ tags:
 description: >
   Google's new proposal for verification of 'secure web environments' comes with uncomfortable implications.
 coverImage: /img/covers/google-wei.jpg
+url: /blog/code/google-proposal-wei/
 ---
 
 A new API proposal being prototyped within Chromium, and the brainchild of a team comprised solely of Google engineers, has become a topic of heated conversation recently - Web Environment Integrity. This proposal has actually been public on GitHub from [as far back as late April](https://github.com/RupertBenWiser/Web-Environment-Integrity), however has gained the attention (and ire) of much of the larger developer community and users alike due to its highly polarising end goal and far-reaching implications if implemented across web services and devices.

@@ -6,6 +6,7 @@ tags:
   - Reading
   - Retrospective
 coverImage: /img/covers/yearinreview2022.jpg
+url: /blog/language/year-in-review-2022/
 ---
 This year has been a very interesting (and productive!) year in terms of my Japanese learning, and certainly not one with a moment to spare. I progressed from being halfway through TOBIRA in January and finally reading my first Japanese novel, to in December having taken the JLPT N1 and reaching my goal of reading 52 novels this calendar year.
 
@@ -43,6 +44,7 @@ With our prelude out of the way, onto the main event, the books!
 .podium-table tr td img {
   margin-top: 0 !important;
   margin-bottom: 0.5em !important;
+  padding: 0 !important;
   margin-right: auto;
   margin-left: auto;
 }
@@ -117,7 +119,7 @@ With our prelude out of the way, onto the main event, the books!
 </td>
 
 <!-- Second place. -->
-<td style="text-align: center; padding-top: 4em; max-width: 277px;">
+<td style="text-align: center; padding-top: 4em;">
   <p>#2</p>
   <img src="/img/posts/2022-retro/mataonajiyume.jpg" style="height:200px;width:auto" />
   <p style="line-height:1.1em;">

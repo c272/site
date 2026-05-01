@@ -7,6 +7,7 @@ tags:
 description: >
   An article I wrote for the SadConsole wiki in 2019.
 coverImage: /img/covers/postprocessing-sadconsole.png
+url: /blog/code/postprocessing-in-sadconsole/
 ---
 {{<notice "" "This was originally an article I wrote for the SadConsole wiki in 2019, which I have moved over to this blog. You can find (and use) SadConsole [here.](https://github.com/Thraka/SadConsole)">}}
 

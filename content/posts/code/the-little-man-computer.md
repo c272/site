@@ -7,6 +7,7 @@ tags:
 description: >
   Emulation for dummies.
 coverImage: /img/covers/littlemancomputer.png
+url: /blog/code/the-little-man-computer/
 ---
 
 Over the past couple of months, apart from writing my book, “You Suck at Programming” [^1], I’ve been working on an emulator/interpreter for the famous computer simulation “Little Man Computer", by Peter Higginson. It was created many years ago to help students learn about how the CPU and memory worked and interacted with each other, and was a great way for me to try and understand some lower level emulation, as it has an instruction set consisting of just nine operations. These operations are:

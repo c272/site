@@ -45,7 +45,7 @@ params:
   # Quick links in the navigation bar.
   quickLinks:
     - title: posts
-      relURL: /blog/code
+      relURL: /posts
     - title: notes
       relURL: /notes
     - title: now
