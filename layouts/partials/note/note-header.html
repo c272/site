@@ -1,0 +1,33 @@
+<!-- The header at the top of each post, displaying meta information. -->
+<div>
+    <div>
+        <div class="mb-2 text-4xl font-semibold font-handwritten">
+            {{ .Title }}
+        </div>
+        <span class="text-lg font-handwritten text-accent">
+            📌 {{ .PublishDate.Format "Jan 2, 2006" }}
+        </span>
+        <!-- Tag list. -->
+        <div class="flex gap-x-2">
+            {{ if (and (isset .Params "tags") (gt (len .Params.tags) 0)) }}
+                {{ range .Params.tags }}
+                    <span class="post-tag">
+                        <a href="{{ relURL (urlize (printf "tags/%s" .)) }}">
+                            {{ . }}
+                        </a>
+                    </span>
+                {{ end }}
+            {{ end }}
+        </div>
+    </div>
+    <div class="my-6">
+        {{ if .Params.coverImage }}
+          <img class="w-full" src="{{ relURL .Params.coverImage }}" alt="Cover image.">
+          {{ with .Params.imageAttribution }}
+              <span class="post-image-attrib">{{ . }}</span>
+          {{ end }}
+        {{ else }}
+          <div class="h-line-primary"></div>
+        {{ end }}
+    </div>
+</div>

@@ -12,6 +12,8 @@
   --font-serif: "CrimsonPro-Variable", "Noto Serif JP";
   /* Default monospace font family. */
   --font-mono: "Geist Mono";
+  /* Default handwritten font. */
+  --font-handwritten: "Edu SA Beginner";
   /* Foreground text color (light theme). */
   --color-light-fore: #000000;
   /* Background color (light theme). */
@@ -115,6 +117,52 @@
   /* Element overrides for within real post body. */
   .post-content {
     img { @apply pt-2 pb-4 mx-auto }
+  }
+
+  /* Note related styling. */
+  .note-list {
+    @apply flex flex-wrap
+  }
+  .note-list {
+    .note-overview {
+      @apply bg-amber-200;
+      transform: rotate(-6deg);
+      transition: transform .15s linear;
+    }
+    .note-overview:nth-child(2n) {
+      @apply bg-red-200;
+      transform: rotate(4deg);
+    }
+    .note-overview:nth-child(3n) {
+      @apply bg-blue-200;
+      transform:rotate(-3deg);
+    }
+    .note-overview:nth-child(4n) {
+      @apply bg-purple-200;
+      transform:rotate(-1deg);
+    }
+    .note-overview:nth-child(5n) {
+      @apply bg-green-200;
+      transform:rotate(5deg);
+    }
+    .note-overview:nth-child(6n) {
+      @apply bg-orange-200;
+      transform:rotate(-4deg);
+    }
+    .note-overview:hover {
+      transform: scale(1.1);
+    }
+  }
+  .note-overview {
+    @apply mx-8 mb-16 p-4 drop-shadow-xl w-64 h-48 font-handwritten text-light-fore no-underline select-none
+  }
+  .note-overview-body {
+    * {
+      @apply hidden;
+    }
+    p:first-of-type {
+      @apply wrap-anywhere line-clamp-3;
+    }
   }
 
   /* Hugo footnote styling. */

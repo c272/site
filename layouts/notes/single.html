@@ -1,0 +1,9 @@
+{{ define "main" }}
+<div class="my-16 p-8 outline-light-secondary rounded-2xl outline-1 shadow-lg">
+  {{ partial "note/note-header.html" . }}
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+</div>
+{{ partial "note/note-footer.html" . }}
+{{ end }}

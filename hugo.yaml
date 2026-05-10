@@ -76,3 +76,4 @@ params:
     googleFonts:
       - family: "Noto Serif JP"
       - family: "Geist Mono"
+      - family: "Edu SA Beginner"
