@@ -1,3 +1,4 @@
 ---
 title: Posts
+layout: posts
 ---

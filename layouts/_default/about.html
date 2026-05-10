@@ -1,15 +1,20 @@
 {{ define "main" }}
+  <!-- Profile top (mobile layout). -->
+  <div class="lg:hidden mt-16">
+    <img class="h-52 w-52" src="{{ relURL "/img/profile/pfp_black.png" }}" />
+  </div>
+
   <!-- Profile box. -->
-  <div class="flex">
+  <div class="flex pb-4">
     <!-- Profile left. -->
-    <div class="mr-12 mt-10">
+    <div class="mr-12 mt-10 hidden lg:block">
       <img class="h-40 w-40" src="{{ relURL "/img/profile/pfp_black.png" }}" />
     </div>
 
     <!-- Profile right. -->
     <div class="profile-right">
-      <h1>c272</h1>
-      <h3>Engine & Tooling Developer</h3>
+      <h1 class="font-black text-5xl mb-0 mt-6 lg:mt-8">c272</h1>
+      <h3 class="mt-0">Engine & Tooling Developer</h3>
       <div class="h-line-secondary"></div>
 
       <h4>Languages</h4>
