@@ -112,6 +112,7 @@
     h1 { @apply text-2xl }
     h2 { @apply text-2xl }
     h3 { @apply text-xl }
+    .notice { @apply hidden }  /* Don't show notices in the post summary. */
   }
 
   /* Element overrides for within real post body. */
@@ -135,19 +136,19 @@
     }
     .note-overview:nth-child(3n) {
       @apply bg-blue-200;
-      transform:rotate(-3deg);
+      transform: rotate(-3deg);
     }
     .note-overview:nth-child(4n) {
       @apply bg-purple-200;
-      transform:rotate(-1deg);
+      transform: rotate(-1deg);
     }
     .note-overview:nth-child(5n) {
       @apply bg-green-200;
-      transform:rotate(5deg);
+      transform: rotate(5deg);
     }
     .note-overview:nth-child(6n) {
       @apply bg-orange-200;
-      transform:rotate(-4deg);
+      transform: rotate(-4deg);
     }
     .note-overview:hover {
       transform: scale(1.1);
@@ -244,5 +245,36 @@
       margin-top: -20px;
       margin-right: -20px;
     }
+  }
+
+  .notice {
+    @apply mb-8 shadow-lg text-sm;
+    padding: 1rem 1rem 1rem 5rem;
+    background-color: var(--color-light-back);
+    position: relative;
+  }
+
+  .notice {
+    ::before {
+      background-color: #d6e3ea;
+      border: 1px solid rgba(200, 212, 218, 0.4);
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      height: 100%;
+      width: 4rem;
+      content: '';
+    }
+    ::after  {
+     content: "🛈";
+     color: #596267;
+     display: block;
+     font-size: 1.25em;
+     font-weight: normal;
+     left: 2rem;
+     position: absolute;
+     top: 50%;
+     transform: translate(-50%, -50%);
+   }
   }
 }
