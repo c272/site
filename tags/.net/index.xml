@@ -1,5 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>.NET on c272</title><link>http://c272.org/tags/.net/</link><description>Recent content in .NET on c272</description><generator>Hugo</generator><language>en-uk</language><copyright>(c) c272, All rights reserved.</copyright><lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://c272.org/tags/.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Postprocessing in SadConsole</title><link>http://c272.org/blog/code/postprocessing-in-sadconsole/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>http://c272.org/blog/code/postprocessing-in-sadconsole/</guid><description>&lt;div class="notice">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>.NET on c272</title><link>http://c272.org/tags/.net/</link><description>Recent content in .NET on c272</description><generator>Hugo</generator><language>en-uk</language><copyright>(c) c272, All rights reserved.</copyright><lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://c272.org/tags/.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Postprocessing in SadConsole</title><link>http://c272.org/blog/code/postprocessing-in-sadconsole/</link><pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate><guid>http://c272.org/blog/code/postprocessing-in-sadconsole/</guid><description>&lt;div class="notice ">
  This was originally an article I wrote for the SadConsole wiki in 2019, which I have moved over to this blog. You can find (and use) SadConsole &lt;a href="https://github.com/Thraka/SadConsole">here.&lt;/a>
 &lt;/div>
+
 &lt;p>Sometimes you may want to apply a shader or graphical effect to your game when drawing, which this article will explain how to do.&lt;/p>
-&lt;p>To apply a post processing effect to the screen, you can override SadConsole&amp;rsquo;s default drawing functionality, and then apply your own custom draw commands.&lt;/p></description></item></channel></rss>
+&lt;p>To apply a post processing effect to the screen, you can override SadConsole&amp;rsquo;s default drawing functionality, and then apply your own custom draw commands.&lt;/p>
+&lt;p>To do this, you attach a new &lt;code>DrawableGameComponent&lt;/code> to SadConsole&amp;rsquo;s game instance components, which is set to draw &lt;em>after&lt;/em> SadConsole has finished creating the frame for the default screen.&lt;/p>
+&lt;p>This &lt;code>DrawableGameComponent&lt;/code> should then access SadConsole&amp;rsquo;s final render surface, and apply whatever custom draw code is needed.&lt;/p>
+&lt;h2 id="method">Method&lt;/h2>
+&lt;h3 id="setting-up-the-class">Setting up the Class&lt;/h3>
+&lt;p>To begin with, you&amp;rsquo;ll need to create a new class that inherits from MonoGame&amp;rsquo;s &lt;code>DrawableGameComponent&lt;/code>, and override the constructor and &amp;ldquo;Draw&amp;rdquo; functions so that you can draw to screen.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-cs" data-lang="cs">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">public&lt;/span> &lt;span style="color:#66d9ef">class&lt;/span> &lt;span style="color:#a6e22e">MyCustomPPFX&lt;/span> : DrawableGameComponent
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">public&lt;/span> MyCustomPPFX() : &lt;span style="color:#66d9ef">base&lt;/span>(SadConsole.Game.Instance) 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">//...&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">//When we need to draw to the screen, it&amp;#39;s done here.&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">public&lt;/span> &lt;span style="color:#66d9ef">override&lt;/span> &lt;span style="color:#66d9ef">void&lt;/span> Draw(GameTime gameTime)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>After this, you&amp;rsquo;ll need to have your constructor load in the shader you want to use. This can be done through two methods:&lt;/p></description></item></channel></rss>

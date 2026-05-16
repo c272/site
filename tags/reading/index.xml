@@ -8,6 +8,7 @@
  box-shadow: none;
  margin-top: -3em;
  padding-top: 0;
+ width: 100%;
 }
 
 .podium-table table, tr, td {
@@ -16,7 +17,14 @@
 
 .podium-table tr td img {
  margin-top: 0 !important;
- margin-bottom: 0 !important;
+ margin-bottom: 0.5em !important;
+ padding: 0 !important;
+ margin-right: auto;
+ margin-left: auto;
+}
+
+.podium-table tr td p {
+ margin-bottom: 0.25em;
 }
 
 /* Review styling. */
@@ -68,6 +76,7 @@
  box-shadow: none;
  margin-top: -3em;
  padding-top: 0;
+ width: 100%;
 }
 
 .podium-table table, tr, td {
@@ -76,7 +85,14 @@
 
 .podium-table tr td img {
  margin-top: 0 !important;
- margin-bottom: 0 !important;
+ margin-bottom: 0.5em !important;
+ padding: 0 !important;
+ margin-right: auto;
+ margin-left: auto;
+}
+
+.podium-table tr td p {
+ margin-bottom: 0.25em;
 }
 
 /* Review styling. */
@@ -119,4 +135,14 @@
 
 &lt;/style>
 &lt;p>This year has been an unexpected one in many aspects, especially in terms of my Japanese immersion. After previously having such a packed year in 2022 with a boatload of memorable milestones, this year feels much like a calm after the storm, continuing steadily and diving deeper into personal preferences and hobbies, rather than focusing on exam study or aiming toward any specific goal. That isn&amp;rsquo;t to say this year was without note, though - I officially passed the JLPT N1 with a score of 156/180 (with a perfect reading section!), and ran through the whole 就活 gauntlet to receive a job offer, and made plans to move to Japan late next year.&lt;/p></description></item><item><title>Year in Review: 2022</title><link>http://c272.org/blog/language/year-in-review-2022/</link><pubDate>Sat, 31 Dec 2022 19:30:29 +0000</pubDate><guid>http://c272.org/blog/language/year-in-review-2022/</guid><description>&lt;p>This year has been a very interesting (and productive!) year in terms of my Japanese learning, and certainly not one with a moment to spare. I progressed from being halfway through TOBIRA in January and finally reading my first Japanese novel, to in December having taken the JLPT N1 and reaching my goal of reading 52 novels this calendar year.&lt;/p>
-&lt;p>Here I&amp;rsquo;ll take the opportunity to look back over all of the content I consumed this year, and hopefully talk about some of both the standouts and letdowns. I&amp;rsquo;ll also present a portion of the interesting reading and immersion data I collected on myself this year, which should give you an idea of roughly how my time was split up, and in what (unfortunately embarassing) areas I invested far too much time into. Before this though, a quick, mostly complete overview of everything that I consumed this year.&lt;/p></description></item></channel></rss>
+&lt;p>Here I&amp;rsquo;ll take the opportunity to look back over all of the content I consumed this year, and hopefully talk about some of both the standouts and letdowns. I&amp;rsquo;ll also present a portion of the interesting reading and immersion data I collected on myself this year, which should give you an idea of roughly how my time was split up, and in what (unfortunately embarassing) areas I invested far too much time into. Before this though, a quick, mostly complete overview of everything that I consumed this year.&lt;/p>
+&lt;p>In 2022, I &amp;ndash;&lt;/p>
+&lt;ul>
+&lt;li>Read &lt;strong>52&lt;/strong> Japanese books, a mix of fiction and non-fiction.&lt;/li>
+&lt;li>Listened to &lt;strong>172&lt;/strong> podcast episodes.&lt;/li>
+&lt;li>Completed &lt;strong>55&lt;/strong> series of anime.&lt;/li>
+&lt;li>Watched &lt;strong>1084&lt;/strong> hours of YouTube in Japanese. &lt;span style="font-size: 0.7em; color: #AAAAAA">(good lord&amp;hellip;)&lt;/span>&lt;/li>
+&lt;li>Played through &lt;strong>11&lt;/strong> video games in Japanese, on PC and Switch.&lt;/li>
+&lt;li>Spoke for ~&lt;strong>86&lt;/strong> hours in Japanese.&lt;/li>
+&lt;/ul>
+&lt;p>While barely making my previous 新年抱負 of completing a book every week (it certainly didn&amp;rsquo;t help that I only started properly reading in March), I feel like on the listening front I definitely made progress I can be proud of. I can also definitively say that my speaking ability is in a much better place than it was at the beginning of this year, that being almost non-existant.&lt;/p></description></item></channel></rss>
