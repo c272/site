@@ -1,0 +1,45 @@
+<div class="flex">
+  <!-- Node. -->
+  <div class="flex flex-col collapse lg:visible lg:mr-6">
+    <div class="mt-4 h-4 w-4 rounded-full bg-light-secondary"></div>
+    <div class="w-px h-full bg-light-secondary self-center mask-[linear-gradient(to_bottom,black_70%,transparent_95%)]"></div>
+  </div>
+
+  <!-- Post preview (right side) -->
+  <div>
+    <!-- Post info. -->
+    <div class="mb-4">
+      <div class="post-title">
+        <a class="text-3xl font-semibold text-light-fore underline-offset-8 decoration-transparent hover:decoration-light-fore transition-colors duration-300"
+          href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </div>
+      {{ with .PublishDate }}
+        <span class="text-lg">
+            {{ .Format "Jan 2, 2006" }}
+        </span>
+      {{ end }}
+      {{ if (and (isset .Params "tags") (gt (len .Params.tags) 0)) }}
+        <div class="flex gap-x-2">
+          {{ range .Params.tags }}
+            <span class="post-tag">
+              <a href="{{ relURL (printf "tags/%s" (. | urlize))}}">
+                {{ . }}
+              </a>
+            </span>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+
+    <!-- Post opener. -->
+    <div class="post-preview">
+      {{ .Summary }}
+    </div>
+
+    <!-- Read more & spacing (desktop layout only). -->
+    <div class="flex w-full justify-end collapse lg:visible">
+      <a href="{{ .RelPermalink }}">Read more...</a>
+    </div>
+    <div class="lg:my-8"></div>
+  </div>
+</div>

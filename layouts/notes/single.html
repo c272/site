@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="my-16 p-8 outline-light-secondary rounded-2xl outline-1 shadow-lg">
+  {{ partial "note/note-header.html" . }}
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+  <div class="mt-10 text-sm text-light-secondary w-full text-right">
+    <p class="mb-0 pb-0">
+      Last updated: {{ .Lastmod | time.Format "Jan 2, 2006" }}.<br/>
+      {{ if .Params.place }}
+      Place of origin: {{ .Params.place }}.<br/>
+      {{ end }}
+    </p>
+  </div>
+</div>
+{{ partial "note/note-footer.html" . }}
+{{ end }}

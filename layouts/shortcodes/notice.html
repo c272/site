@@ -1,0 +1,8 @@
+{{ $noticeName := "" }}
+{{ if (ne (.Get 0) "") }}
+    {{ $noticeName = (printf "notice-%s" (.Get 0)) }}
+{{ end }}
+
+<div class="notice {{ $noticeName }}">
+    {{ $.Page.RenderString (.Get 1) }}
+</div>

@@ -1,0 +1,14 @@
+<div class="chat-bubble-container">
+    {{ if (eq (.Get "direction") "left") }}
+        <img class="chat-avatar chat-avatar-left" src="{{ relURL (.Get "avatar") }}"/>
+    {{ end }}
+    <hgroup class="chat-bubble chat-bubble-{{ .Get "direction" }}">
+        {{ if isset .Params "name" }}
+            <span><b>{{ .Get "name" }}</b></span><br>
+        {{ end }}
+        {{ $.Page.RenderString .Inner }}
+    </hgroup>
+    {{ if (eq (.Get "direction") "right") }}
+        <img class="chat-avatar chat-avatar-right" src="{{ relURL (.Get "avatar") }}"/>
+    {{ end }}
+</div>

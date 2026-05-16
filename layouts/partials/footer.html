@@ -1,0 +1,15 @@
+<footer>
+  <div class="flex w-full justify-center mt-12 text-sm">
+    <p class="text-center">
+      {{ with .Site.Params.meta.footerLine }}
+      {{ . }}
+      {{ end }}
+      <br/>
+      Proudly running on <a href="https://gohugo.io">Hugo</a> &
+      {{ with .Site.Params.meta.hiddenHeartLink }}
+      <a href="{{ . | safeURL }}">❤</a>. {{ else }} ❤. {{ end }}
+      <br/>
+      <a href="{{ relURL "/license" }}">license</a> / <a href="{{ relURL "/disclaimer" }}">disclaimer</a>
+    </p>
+  </div>
+</footer>

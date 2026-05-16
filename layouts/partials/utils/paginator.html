@@ -1,0 +1,14 @@
+{{ if (gt .Paginator.TotalPages 1) }}
+  <div>
+    <nav class="flex gap-x-2 mb-2">
+      <!-- Show all pagers, including the current one. -->
+      {{ range .Paginator.Pagers }}
+          {{ if (eq $.Page.Paginator.PageNumber .PageNumber) }}
+              <span class="h-7.5 w-7 rounded-full bg-light-border text-center text-light-back font-semibold">{{ .PageNumber }}</span>
+          {{ else }}
+              <a class="h-7.5 w-7 rounded-full bg-accent hover:bg-accent-hover text-center text-light-back no-underline font-semibold" href="{{ relURL .URL }}">{{ .PageNumber }}</a>
+          {{ end }}
+      {{ end }}
+    </nav>
+  </div>
+{{ end }}

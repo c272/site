@@ -1,0 +1,25 @@
+{{ define "main" }}
+<!-- If this is page 1, show the section overview. -->
+{{ if (eq .Paginator.PageNumber 1) }}
+<div class="mt-14 mb-8 lg:mb-16">
+  <!-- Header & title line. -->
+  <div class="flex w-full justify-center">
+    <div class="h-px grow bg-light-border self-center"></div>
+    <h1 class="mx-6 my-0">Notes</h1>
+    <div class="h-px grow bg-light-border self-center"></div>
+  </div>
+  <!-- Subtitle line. -->
+  <div class="w-full text-center text-light-secondary italic collapse lg:visible">
+    <p>Short snippets on things I'm thinking about.</p>
+  </div>
+</div>
+{{ end }}
+
+<!-- Add all of the items within the list. -->
+<div class="note-list">
+  {{ range .Paginator.Pages }} {{ .Render "note-li" }} {{ end }}
+</div>
+
+<!-- Bottom paginator. -->
+<div class="paginator-bottom">{{ partial "utils/paginator.html" . }}</div>
+{{ end }}

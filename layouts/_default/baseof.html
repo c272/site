@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+    {{- partial "head.html" . -}}
+    <body>
+        <div class="flex w-screen justify-center">
+          <div class="w-full max-w-5xl p-8">
+            {{- partial "header.html" . -}} {{- block "main" . }}{{- end }} {{-
+            partial "footer.html" . -}}
+          </div>
+        </div>
+
+        {{- partial "scripts.html" . -}}
+    </body>
+</html>

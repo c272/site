@@ -1,0 +1,284 @@
+/* Font defines. */
+@import url("fonts.css");
+
+/* Tailwind. */
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@source "hugo_stats.json";
+
+/* Tailwind theme properties. */
+@theme {
+  /* Default serif font family. */
+  --font-serif: "CrimsonPro-Variable", "Noto Serif JP";
+  /* Default monospace font family. */
+  --font-mono: "Geist Mono";
+  /* Default handwritten font. */
+  --font-handwritten: "Edu SA Beginner";
+  /* Foreground text color (light theme). */
+  --color-light-fore: #000000;
+  /* Background color (light theme). */
+  --color-light-back: #F7F7F7;
+  /* Secondary text color (light theme). */
+  --color-light-secondary: #777777;
+  /* Tertiary color (light theme). */
+  --color-light-tertiary: #E7E7E7;
+  /* Border color (light theme). */
+  --color-light-border: #AAAAAA;
+  /* Accent color (theme independent). */
+  --color-accent: #EE0000;
+  /* Hover accent color (theme independent). */
+  --color-accent-hover: #880000;
+  /* Font sizes, adjusted for easier reading (1.2x). */
+  --text-xs: 0.9rem;
+  --text-sm: 1.05rem;
+  --text-base: 1.2rem;
+  --text-lg: 1.35rem;
+  --text-xl: 1.5rem;
+  --text-2xl: 1.8rem;
+  --text-3xl: 2.25rem;
+  --text-4xl: 2.7rem;
+  --text-5xl: 3.6rem;
+  --text-6xl: 4.5rem;
+  --text-7xl: 5.4rem;
+  --text-8xl: 7.2rem;
+  --text-9xl: 9.6rem;
+
+  /* Legacy variables. */
+  --bubble-color: #dedede;
+}
+
+/* Base rules. */
+@layer base {
+  body {
+    @apply bg-light-back text-light-fore font-serif text-base selection:bg-accent/75 selection:text-light-back
+  }
+  a {
+    @apply text-accent underline hover:text-accent-hover;
+  }
+  p {
+    @apply mb-4
+  }
+  h1 {
+    @apply text-4xl font-semibold mt-8 mb-4
+  }
+  h2 {
+    @apply text-3xl font-semibold mt-8 mb-4
+  }
+  h3 {
+    @apply text-2xl font-semibold mt-4 mb-4
+  }
+  h4 {
+    @apply text-xl font-semibold mb-4
+  }
+  blockquote {
+    @apply text-light-secondary pl-5 mb-4 border-l-4 border-light-border
+  }
+  ul {
+    @apply list-disc ml-8 mb-4
+  }
+  ol {
+    @apply list-decimal ml-8 mb-4
+  }
+  table {
+    @apply border-collapse border border-light-border mb-4
+  }
+  tr {
+    @apply border border-light-border
+  }
+  th {
+    @apply border border-light-border px-2 py-1
+  }
+  td {
+    @apply border border-light-border px-2 py-1
+  }
+  hr {
+    @apply text-light-secondary
+  }
+  sup {
+    @apply text-sm
+  }
+  pre {
+    @apply bg-light-tertiary mb-4 p-4 rounded-lg text-sm
+  }
+  code {
+    @apply text-sm
+  }
+}
+
+/* Custom CSS classes, defined as components. */
+@layer components {
+  /* Element overrides for within post preview. */
+  .post-preview {
+    h1 { @apply text-2xl }
+    h2 { @apply text-2xl }
+    h3 { @apply text-xl }
+    .notice { @apply hidden }  /* Don't show notices in the post summary. */
+  }
+
+  /* Element overrides for within real post body. */
+  .post-content {
+    img { @apply pt-2 pb-4 mx-auto }
+  }
+
+  /* Note related styling. */
+  .note-list {
+    @apply flex flex-wrap
+  }
+  .note-list {
+    .note-overview {
+      @apply bg-amber-200;
+      transform: rotate(-6deg);
+      transition: transform .15s ease-in-out;
+    }
+    .note-overview:nth-child(2n) {
+      @apply bg-red-200;
+      transform: rotate(4deg);
+    }
+    .note-overview:nth-child(3n) {
+      @apply bg-blue-200;
+      transform: rotate(-3deg);
+    }
+    .note-overview:nth-child(4n) {
+      @apply bg-purple-200;
+      transform: rotate(-1deg);
+    }
+    .note-overview:nth-child(5n) {
+      @apply bg-green-200;
+      transform: rotate(5deg);
+    }
+    .note-overview:nth-child(6n) {
+      @apply bg-orange-200;
+      transform: rotate(-4deg);
+    }
+    .note-overview:hover {
+      transform: scale(1.1);
+    }
+  }
+  .note-overview {
+    @apply mx-8 mb-16 p-4 drop-shadow-xl w-64 h-52 font-handwritten text-light-fore no-underline select-none
+  }
+  .note-overview-body {
+    * {
+      @apply hidden;
+    }
+    p:first-of-type {
+      @apply wrap-anywhere line-clamp-3;
+    }
+  }
+
+  /* Hugo footnote styling. */
+  .footnotes {
+    @apply pt-4
+  }
+  .footnotes {
+    hr { @apply mb-4 }
+    p { @apply text-light-secondary }
+    ol { @apply marker:text-light-secondary }
+  }
+
+  .footnote-backref {
+    @apply ml-1 text-sm
+  }
+
+  /* Legacy CSS holdovers. */
+  .chat-bubble-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+
+  .chat-avatar {
+    width: 5em;
+    height: 5em;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0 !important;
+  }
+
+  .chat-avatar-left {
+    margin-left: 0 !important;
+    margin-right: 1em !important;
+  }
+
+  .chat-avatar-right {
+    margin-left: 1em !important;
+    margin-right: 0em !important;
+  }
+
+  .chat-bubble {
+  	position: relative;
+  	background: var(--bubble-color);
+  	border-radius: .4em;
+    padding: 1em;
+    max-width: calc(100% - 2 * (5em + 1em));
+  }
+
+  .chat-bubble-left:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 0;
+    height: 0;
+    border: 20px solid transparent;
+    border-right-color: var(--bubble-color);
+    border-left: 0;
+    margin-top: -20px;
+    margin-left: -20px;
+  }
+
+  .chat-bubble-right {
+    margin-left: auto;
+
+    &:after {
+      content: '';
+      position: absolute;
+      right: 0;
+      top: 50%;
+      width: 0;
+      height: 0;
+      border: 20px solid transparent;
+      border-left-color: var(--bubble-color);
+      border-right: 0;
+      margin-top: -20px;
+      margin-right: -20px;
+    }
+  }
+
+  .notice {
+    @apply mb-8 shadow-lg text-sm;
+    padding: 1rem 1rem 1rem 5rem;
+    border: 1px solid rgba(200, 212, 218, 0.4);
+    background-color: var(--color-light-back);
+    position: relative;
+  }
+  .notice::before {
+    background-color: #d6e3ea;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 100%;
+    width: 4rem;
+    content: '';
+  }
+  .notice::after {
+    content: "🛈";
+    color: #596267;
+    display: block;
+    font-size: 1.25em;
+    font-weight: normal;
+    left: 2rem;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .notice-alert::before {
+    @apply bg-amber-100
+  }
+  .notice-alert::after {
+    @apply text-amber-800;
+    content: "⚠";
+  }
+}

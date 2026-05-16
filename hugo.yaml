@@ -1,10 +1,26 @@
-baseURL: 'http://c272.org/'
-languageCode: 'en-uk'
-title: 'c272'
-theme: 'coffeeline'
+baseURL: "http://c272.org/"
+languageCode: "en-uk"
+title: "c272"
 
 # RSS configuration.
 copyright: "(c) c272, All rights reserved."
+
+# Build parameters (tailwind).
+build:
+  buildStats:
+    enable: true
+  cachebusters:
+  - source: 'assets/notwatching/hugo_stats\.json'
+    target: css
+  - source: 'tailwind\.config\.js'
+    target: css
+module:
+  mounts:
+  - source: assets
+    target: assets
+  - disableWatch: true
+    source: hugo_stats.json
+    target: assets/notwatching/hugo_stats.json
 
 # Merge theme specific config.
 # Also, disable HTML sanitation in posts (thanks older me...)
@@ -14,54 +30,50 @@ markup:
       unsafe: true
   _merge: deep
 
+# Length of the summary:
+summaryLength: 180
+
 # Configurable site parameters.
 params:
   meta:
-    description: 'A hodge-podge of blogs written by C272.'
-    footerLine: 'A variety of blogs written by C272.'
+    description: "A variety of writings by C272."
+    footerLine: "A variety of writings by C272."
 
     # The link hidden within the heart in page footers.
-    hiddenHeartLink: 'https://youtu.be/tZd4jjhLkWg?t=774'
+    hiddenHeartLink: "https://youtu.be/tZd4jjhLkWg?t=774"
 
   # Quick links in the navigation bar.
   quickLinks:
-    - title: code
-      relURL: /blog/code
-    - title: language
-      relURL: /blog/language
-    - title: jp 
-      relURL: /blog/jp
-    - title: about 
+    - title: posts
+      relURL: /posts
+    - title: notes
+      relURL: /notes
+    - title: now
+      relURL: /now
+    - title: rss
+      relURL: /index.xml
+    - title: about
       relURL: /about
 
   # Information about the site author.
-  author: 
-    name: 'c272'
+  author:
+    name: "c272"
 
     # Social media links in header.
     socials:
-      # youtube:
-      # stackoverflow:
-      # twitter:
-      # mastodon: (whole link)
       github: c272
       mail: dev@c272.org
       rss: true
 
   # The default post cover.
-  coverImage: '/img/profile/pfp_black.png'
+  coverImage: "/img/profile/pfp_black.png"
 
   look:
     # Path to the SVG logo of the site.
-    logoSVG: '/img/coffeecup.svg'
+    logoSVG: "/img/coffeecup.svg"
 
     # The Google Fonts configuration to use.
     googleFonts:
-      - cssNames: '"Inter", "Zen Kaku Gothic Antique", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
-        family: 'Inter:wght@100;200;300;400;500;600;700;800;900'
-        target: text
-      - cssNames: '"Rubik", "Inter"'
-        family: 'Rubik:wght@800'
-        target: logoText
-      - cssNames: ''
-        family: 'Zen Kaku Gothic Antique:wght@300;400;500;700;900'
+      - family: "Noto Serif JP"
+      - family: "Geist Mono"
+      - family: "Edu SA Beginner"

@@ -1,0 +1,6 @@
+<!-- Recent posts. -->
+<div>
+    {{ range ( where site.RegularPages "Type" "posts" | first 3 ) }}
+        {{ .Render "li" }}
+    {{end}}
+</div>

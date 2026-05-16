@@ -1,0 +1,24 @@
+{{ define "main" }}
+    <!-- Add default titles for term, taxonomy pages. -->
+    <h1>Tags</h1>
+    <span>A comprehensive list of all tags used within the posts/notes on this site.</span>
+    <span><br>To browse posts in date order, visit each blogs' <a href="{{ relURL "" }}">category page</a>.</span>
+    <div class="pb-8"></div>
+
+    <!-- Add a top paginator. -->
+    <div class="paginator-top">
+        {{ partial "utils/paginator.html" . }}
+        {{ if (gt .Paginator.TotalPages 1) }}
+            <div class="tag-gallery-spacer"></div>
+        {{ end }}
+    </div>
+
+    <!-- Add all of the items within the list. -->
+    <div class="tag-gallery">
+        <ul class="tag-gallery-list">
+            {{ range .Paginator.Pages }}
+                <li class="tag-gallery-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
+        </ul>
+    </div>
+{{ end }}
