@@ -128,7 +128,7 @@
     .note-overview {
       @apply bg-amber-200;
       transform: rotate(-6deg);
-      transition: transform .15s linear;
+      transition: transform .15s ease-in-out;
     }
     .note-overview:nth-child(2n) {
       @apply bg-red-200;
@@ -155,7 +155,7 @@
     }
   }
   .note-overview {
-    @apply mx-8 mb-16 p-4 drop-shadow-xl w-64 h-48 font-handwritten text-light-fore no-underline select-none
+    @apply mx-8 mb-16 p-4 drop-shadow-xl w-64 h-52 font-handwritten text-light-fore no-underline select-none
   }
   .note-overview-body {
     * {
@@ -250,31 +250,35 @@
   .notice {
     @apply mb-8 shadow-lg text-sm;
     padding: 1rem 1rem 1rem 5rem;
+    border: 1px solid rgba(200, 212, 218, 0.4);
     background-color: var(--color-light-back);
     position: relative;
   }
-
-  .notice {
-    ::before {
-      background-color: #d6e3ea;
-      border: 1px solid rgba(200, 212, 218, 0.4);
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      height: 100%;
-      width: 4rem;
-      content: '';
-    }
-    ::after  {
-     content: "🛈";
-     color: #596267;
-     display: block;
-     font-size: 1.25em;
-     font-weight: normal;
-     left: 2rem;
-     position: absolute;
-     top: 50%;
-     transform: translate(-50%, -50%);
-   }
+  .notice::before {
+    background-color: #d6e3ea;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 100%;
+    width: 4rem;
+    content: '';
+  }
+  .notice::after {
+    content: "🛈";
+    color: #596267;
+    display: block;
+    font-size: 1.25em;
+    font-weight: normal;
+    left: 2rem;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .notice-alert::before {
+    @apply bg-amber-100
+  }
+  .notice-alert::after {
+    @apply text-amber-800;
+    content: "⚠";
   }
 }

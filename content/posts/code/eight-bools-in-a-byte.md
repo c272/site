@@ -8,7 +8,12 @@ description: >
   Efficiently packing booleans to save space I didn't need to.
 coverImage: /img/covers/bitset.jpg
 url: /blog/code/eight-bools-in-a-byte/
+build:
+  list: never  # Hidden from lists.
+  render: always
 ---
+
+{{<notice "" "This article has been delisted from post listing pages. Its content remains available only through permalinks.">}}
 
 Storing booleans is an odd topic for the programming world, specifcally for storage. Typically, the smallest addressable chunk of memory is a byte, or 8 bits. The boolean type, having two states, requires just a single bit. This causes the following dilemma: If I want to store 8 bools, why am I using 8 bytes? That’s 64 bits, 56 more than I actually need to store that amount.
 

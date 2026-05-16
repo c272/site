@@ -8,7 +8,12 @@ description: >
   A footnote on managing inventories using the Steam API.
 coverImage: /img/covers/steam-inventories.png
 url: /blog/code/steam-inventories-in-node/
+build:
+  list: never  # Hidden from lists.
 ---
+
+{{<notice "" "This article has been delisted from post listing pages. Its content remains available only through permalinks.">}}
+
 {{<notice "alert" "Warning: This article was written in 2018, when the Steam API for inventory management was different. The information here may now be outdated or incorrect.">}}
 
 In NodeJS, the closest you’ll get to indexing is using a dictionary with keys as the name of the object, and data as the contents. This is what Dr. McKay employed when he created node-steamcommunity, and is used in the function that allows you to grab the available inventories of a user, called **getUserInventoryContents()**.
